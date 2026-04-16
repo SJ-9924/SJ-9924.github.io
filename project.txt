@@ -492,7 +492,7 @@
 {
 "id":"si936",
 "class":"TODO::Senthil",
-"instance":"Text_58",
+"instance":"Title_Course_overview",
 "roles":{
 "click":{
 "subtype":"button"
@@ -590,7 +590,7 @@
 {
 "id":"si1010",
 "class":"TODO::Senthil",
-"instance":"Image_Grid_Group_1",
+"instance":"1_Image_Grid_Group_1",
 "roles":{
 }
 
@@ -681,7 +681,7 @@
 {
 "id":"si1039",
 "class":"TODO::Senthil",
-"instance":"Text_61",
+"instance":"go_to_lab_equipment",
 "roles":{
 "click":{
 "subtype":"button"
@@ -726,7 +726,7 @@
 {
 "id":"si1069",
 "class":"TODO::Senthil",
-"instance":"Image_Grid_Group_2",
+"instance":"2_Image_Grid_Group_2",
 "roles":{
 }
 
@@ -817,7 +817,7 @@
 {
 "id":"si1098",
 "class":"TODO::Senthil",
-"instance":"Text_63",
+"instance":"go_to_lab_rules",
 "roles":{
 "click":{
 "subtype":"button"
@@ -862,7 +862,7 @@
 {
 "id":"si1128",
 "class":"TODO::Senthil",
-"instance":"Image_Grid_Group_3",
+"instance":"3_Image_Grid_Group_3",
 "roles":{
 }
 
@@ -908,7 +908,7 @@
 {
 "id":"si1157",
 "class":"TODO::Senthil",
-"instance":"Text_65",
+"instance":"go_to_quiz",
 "roles":{
 "click":{
 "subtype":"button"
@@ -1199,7 +1199,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":144
 }
 ,
 "navigation":{
@@ -2606,7 +2606,7 @@
 {
 "id":"si4150",
 "class":"TODO::Senthil",
-"instance":"Text_119",
+"instance":"Title_carousel",
 "roles":{
 "click":{
 "subtype":"button"
@@ -2621,7 +2621,7 @@
 {
 "id":"si4158",
 "class":"TODO::Senthil",
-"instance":"Text_120",
+"instance":"explanation",
 "roles":{
 "click":{
 "subtype":"button"
@@ -2636,7 +2636,7 @@
 {
 "id":"si4166",
 "class":"TODO::Senthil",
-"instance":"Text_121",
+"instance":"directions",
 "roles":{
 "click":{
 "subtype":"button"
