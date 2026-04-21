@@ -10113,7 +10113,7 @@
 {
 "id":"Slide10564",
 "class":"Question Slide",
-"instance":"Result 1",
+"instance":"Results",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -10245,7 +10245,7 @@
 {
 "id":"Slide21282",
 "class":"Normal Slide",
-"instance":"Introduction 1",
+"instance":"Completed",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -10406,11 +10406,11 @@
 }
 ,{
 "id":"Slide10564",
-"title":"Result 1"
+"title":"Results"
 }
 ,{
 "id":"Slide21282",
-"title":"Introduction 1"
+"title":"Completed"
 }
 ]
 }
