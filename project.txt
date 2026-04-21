@@ -10250,7 +10250,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":2730
+"durationInFrames":1800
 }
 ,
 "navigation":{
