@@ -10170,7 +10170,7 @@
 {
 "id":"si21341",
 "class":"TODO::Senthil",
-"instance":"Text_258",
+"instance":"Title_complete",
 "roles":{
 "click":{
 "subtype":"button"
@@ -10185,7 +10185,7 @@
 {
 "id":"si21349",
 "class":"TODO::Senthil",
-"instance":"Text_259",
+"instance":"Reminders",
 "roles":{
 "click":{
 "subtype":"button"
@@ -10200,7 +10200,7 @@
 {
 "id":"si21357",
 "class":"TODO::Senthil",
-"instance":"Button_235",
+"instance":"Submit_and_Exit",
 "roles":{
 "click":{
 "subtype":"button"
@@ -10250,7 +10250,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":2730
 }
 ,
 "navigation":{

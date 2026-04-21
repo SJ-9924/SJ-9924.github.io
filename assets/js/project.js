@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:14749,
-to:14838,
+from:19843,
+to:19932,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -95121,8 +95121,8 @@ visible:'1'
 si10330:{
 name:'ResponsiveContainer_280',
 type:1268,
-from:10501,
-to:10590,
+from:15853,
+to:15942,
 rp:0,
 rpa:0,
 mdi:'si10330c',
@@ -95296,8 +95296,8 @@ vb:[-1,-1,1,1]
 si10338:{
 name:'$container-match-the-column-card_name_1',
 type:1268,
-from:7639,
-to:7728,
+from:15853,
+to:15942,
 rp:0,
 rpa:0,
 mdi:'si10338c',
@@ -95321,7 +95321,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":50,"bottom":50,"left":50,"right":50},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-answer-dropdown":true,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-question-title":true,"slide-item-clear-button":false,"card":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":true},"groupedItemsVisibility":{"slide-item-answer-dropdown":5,"slide-item-question-text":5},"appearanceProperties":{"border":{"enabled":false,"color":"#D7DAEA","size":1,"type":4},"cornerRadius":{"type":1,"value":{"topLeft":10,"bottomLeft":10,"bottomRight":10,"topRight":10}},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":true,"color":"var(--c5)"}},"alignment":{"slide-item-label":"LEFT","slide-item-dropdown":"LEFT"},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"15%","paddingRight":"15%"},"tablet":{"paddingLeft":"20px","paddingRight":"20px"},"mobile":{"paddingLeft":"20px","paddingRight":"20px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","rowGap":"40px","marginTop":"40px","justifyContent":"flex-start"},"tablet":{},"mobile":{}},"container-question-answer-unit-area":{"all":{"display":"flex","flexDirection":"column","flexWrap":"wrap","columnGap":"40px","alignItems":"center","rowGap":"12px","justifyContent":"flex-start","marginBottom":"40px"},"tablet":{},"mobile":{}},"container-question-buttons":{"all":{"display":"flex","justifyContent":"flex-start","gap":"20px","marginTop":"10px","paddingLeft":"6px"},"tablet":{},"mobile":{"flexDirection":"column"},"mobile_landscape":{"flexDirection":"row"}}}}',
+widgetProps:'{"padding":{"top":50,"bottom":50,"left":50,"right":50},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-answer-dropdown":true,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-question-title":true,"slide-item-clear-button":false,"card":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":false},"groupedItemsVisibility":{"slide-item-answer-dropdown":5,"slide-item-question-text":5},"appearanceProperties":{"border":{"enabled":false,"color":"#D7DAEA","size":1,"type":4},"cornerRadius":{"type":1,"value":{"topLeft":10,"bottomLeft":10,"bottomRight":10,"topRight":10}},"shadow":{"shadowX":0,"shadowY":0,"shadowBlur":10,"enabled":true,"color":"var(--c5)"}},"alignment":{"slide-item-label":"LEFT","slide-item-dropdown":"LEFT"},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"15%","paddingRight":"15%"},"tablet":{"paddingLeft":"20px","paddingRight":"20px"},"mobile":{"paddingLeft":"20px","paddingRight":"20px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","rowGap":"40px","marginTop":"40px","justifyContent":"flex-start"},"tablet":{},"mobile":{}},"container-question-answer-unit-area":{"all":{"display":"flex","flexDirection":"column","flexWrap":"wrap","columnGap":"40px","alignItems":"center","rowGap":"12px","justifyContent":"flex-start","marginBottom":"40px"},"tablet":{},"mobile":{}},"container-question-buttons":{"all":{"display":"flex","justifyContent":"flex-start","gap":"20px","marginTop":"10px","paddingLeft":"6px"},"tablet":{},"mobile":{"flexDirection":"column"},"mobile_landscape":{"flexDirection":"row"}}}}',
 parentGroup:'si10330',
 retainState:false,
 immo:false,
@@ -100577,8 +100577,8 @@ vb:[-4,-4,2,2]
 Slide10281:{
 lb:'Matching Lab Equipment',
 id:10281,
-from:10501,
-to:10590,
+from:15853,
+to:15942,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -100638,7 +100638,7 @@ bookmarks:[]
 ,
 qs:'Slide10281q6',
 qnq:6,
-pa:10546,
+pa:15898,
 iph:{
 10320:{
 ts:'',
@@ -100665,7 +100665,7 @@ visible:'1'
 },
 Slide10281q6:{
 noa:2,
-qt:'Match The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct Use',
+qt:'Match The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct Use',
 it:true,
 is:false,
 ipq:false,
@@ -100712,8 +100712,8 @@ itemlb:[]
 si14702:{
 name:'ResponsiveContainer_394',
 type:1268,
-from:10591,
-to:10680,
+from:15943,
+to:16032,
 rp:0,
 rpa:0,
 mdi:'si14702c',
@@ -100887,8 +100887,8 @@ vb:[-1,-1,1,1]
 si14710:{
 name:'ResponsiveContainer_395',
 type:1268,
-from:8179,
-to:8268,
+from:15943,
+to:16032,
 rp:0,
 rpa:0,
 mdi:'si14710c',
@@ -100912,7 +100912,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":true},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
+widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":false},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
 parentGroup:'si14702',
 retainState:false,
 immo:false,
@@ -104694,8 +104694,8 @@ vb:[-4,-4,2,2]
 Slide14653:{
 lb:'Correct Incorrect 1',
 id:14653,
-from:10591,
-to:10680,
+from:15943,
+to:16032,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -104755,7 +104755,7 @@ bookmarks:[]
 ,
 qs:'Slide14653q6',
 qnq:6,
-pa:10636,
+pa:15988,
 iph:{
 14692:{
 ts:'',
@@ -104782,7 +104782,7 @@ visible:'1'
 },
 Slide14653q6:{
 noa:1,
-qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?',
+qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?',
 it:true,
 is:false,
 ipq:false,
@@ -104825,8 +104825,8 @@ cal:['si14732']
 si15145:{
 name:'',
 type:1268,
-from:10681,
-to:10770,
+from:16033,
+to:16122,
 rp:0,
 rpa:0,
 mdi:'si15145c',
@@ -105000,8 +105000,8 @@ vb:[-1,-1,1,1]
 si15065:{
 name:'',
 type:1268,
-from:2881,
-to:2970,
+from:16033,
+to:16122,
 rp:0,
 rpa:0,
 mdi:'si15065c',
@@ -105025,7 +105025,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":true},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
+widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":false},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
 parentGroup:'si15145',
 retainState:false,
 immo:false,
@@ -108807,8 +108807,8 @@ vb:[-4,-4,2,2]
 Slide15186:{
 lb:'Correct Incorrect 2',
 id:15186,
-from:10681,
-to:10770,
+from:16033,
+to:16122,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -108868,7 +108868,7 @@ bookmarks:[]
 ,
 qs:'Slide15186q6',
 qnq:6,
-pa:10726,
+pa:16078,
 iph:{
 15167:{
 ts:'',
@@ -108895,7 +108895,7 @@ visible:'1'
 },
 Slide15186q6:{
 noa:1,
-qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Adriana and Catey were anxious to see the new boy in their class. When the bell rang, they hurried from the room, leaving behind the lab equipment they had used. The next class had to clean the working area before they began. Adriana and Catey were anxious to see the new boy in their class. When the bell rang, they hurried from the room, leaving behind the lab equipment they had used. The next class had to clean the working area before they began. Adriana and Catey were anxious to see the new boy in their class. When the bell rang, they hurried from the room, leaving behind the lab equipment they had used. The next class had to clean the working area before they began. ',
+qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Adriana and Catey were anxious to see the new boy in their class. When the bell rang, they hurried from the room, leaving behind the lab equipment they had used. The next class had to clean the working area before they began. Adriana and Catey were anxious to see the new boy in their class. When the bell rang, they hurried from the room, leaving behind the lab equipment they had used. The next class had to clean the working area before they began. Adriana and Catey were anxious to see the new boy in their class. When the bell rang, they hurried from the room, leaving behind the lab equipment they had used. The next class had to clean the working area before they began. Adriana and Catey were anxious to see the new boy in their class. When the bell rang, they hurried from the room, leaving behind the lab equipment they had used. The next class had to clean the working area before they began. ',
 it:true,
 is:false,
 ipq:false,
@@ -108938,8 +108938,8 @@ cal:['si14971']
 si15412:{
 name:'',
 type:1268,
-from:10771,
-to:10860,
+from:16123,
+to:16212,
 rp:0,
 rpa:0,
 mdi:'si15412c',
@@ -109113,8 +109113,8 @@ vb:[-1,-1,1,1]
 si15332:{
 name:'',
 type:1268,
-from:2971,
-to:3060,
+from:16123,
+to:16212,
 rp:0,
 rpa:0,
 mdi:'si15332c',
@@ -109138,7 +109138,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":true},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
+widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":false},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
 parentGroup:'si15412',
 retainState:false,
 immo:false,
@@ -112920,8 +112920,8 @@ vb:[-4,-4,2,2]
 Slide15453:{
 lb:'Correct Incorrect 3',
 id:15453,
-from:10771,
-to:10860,
+from:16123,
+to:16212,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -112981,7 +112981,7 @@ bookmarks:[]
 ,
 qs:'Slide15453q6',
 qnq:6,
-pa:10816,
+pa:16168,
 iph:{
 15434:{
 ts:'',
@@ -113008,7 +113008,7 @@ visible:'1'
 },
 Slide15453q6:{
 noa:1,
-qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Trisha and Chris were mixing several liquids as instructed in the lab instructions. They were wearing safety goggles and carefully writing down the observations they were noticing. Trisha and Chris were mixing several liquids as instructed in the lab instructions. They were wearing safety goggles and carefully writing down the observations they were noticing. Trisha and Chris were mixing several liquids as instructed in the lab instructions. They were wearing safety goggles and carefully writing down the observations they were noticing. ',
+qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Trisha and Chris were mixing several liquids as instructed in the lab instructions. They were wearing safety goggles and carefully writing down the observations they were noticing. Trisha and Chris were mixing several liquids as instructed in the lab instructions. They were wearing safety goggles and carefully writing down the observations they were noticing. Trisha and Chris were mixing several liquids as instructed in the lab instructions. They were wearing safety goggles and carefully writing down the observations they were noticing. Trisha and Chris were mixing several liquids as instructed in the lab instructions. They were wearing safety goggles and carefully writing down the observations they were noticing. ',
 it:true,
 is:false,
 ipq:false,
@@ -113051,8 +113051,8 @@ cal:['si15230']
 si15679:{
 name:'',
 type:1268,
-from:10861,
-to:10950,
+from:16213,
+to:16302,
 rp:0,
 rpa:0,
 mdi:'si15679c',
@@ -113226,8 +113226,8 @@ vb:[-1,-1,1,1]
 si15599:{
 name:'',
 type:1268,
-from:3061,
-to:3150,
+from:16213,
+to:16302,
 rp:0,
 rpa:0,
 mdi:'si15599c',
@@ -113251,7 +113251,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":true},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
+widgetProps:'{"padding":{"top":0,"bottom":0,"left":0,"right":0},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":false},"groupedItemsVisibility":{"slide-item-answer-checkbox":2},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c5)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"flex","flexDirection":"column","marginBottom":"40px","paddingLeft":"30px","paddingRight":"30px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px"},"mobile":{"paddingLeft":"15px","paddingRight":"15px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"row","margin":"19px 6px 50px 6px","rowGap":"15px","gap":"18px","width":"fit-content"},"tablet":{"marginBottom":"20px"},"mobile":{"marginBottom":"20px"}},"container-question-buttons":{"all":{"display":"flex","width":"auto","flexDirection":"row","marginTop":"30px","justifyContent":"flex-end","paddingRight":"30px","gap":"20px","paddingLeft":"30px","marginBottom":"50px"},"tablet":{"paddingLeft":"15px","paddingRight":"15px","marginTop":"10px","marginBottom":"30px"},"mobile":{"flexDirection":"column","marginTop":"10px","paddingLeft":"15px","paddingRight":"15px","marginBottom":"30px"},"mobile_landscape":{"flexDirection":"row"}}}}',
 parentGroup:'si15679',
 retainState:false,
 immo:false,
@@ -117033,8 +117033,8 @@ vb:[-4,-4,2,2]
 Slide15720:{
 lb:'Correct Incorrect 4',
 id:15720,
-from:10861,
-to:10950,
+from:16213,
+to:16302,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -117094,7 +117094,7 @@ bookmarks:[]
 ,
 qs:'Slide15720q6',
 qnq:6,
-pa:10906,
+pa:16258,
 iph:{
 15701:{
 ts:'',
@@ -117121,7 +117121,7 @@ visible:'1'
 },
 Slide15720q6:{
 noa:1,
-qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.',
+qt:'Carrie copied her assignment from the board, then read her lab instructions carefully before beginning her lab for the day. Were her actions correct or incorrect?Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.',
 it:true,
 is:false,
 ipq:false,
@@ -117164,8 +117164,8 @@ cal:['si15505']
 si15770:{
 name:'ResponsiveContainer_396',
 type:1268,
-from:10951,
-to:11040,
+from:16303,
+to:16392,
 rp:0,
 rpa:0,
 mdi:'si15770c',
@@ -117339,8 +117339,8 @@ vb:[-1,-1,1,1]
 si15778:{
 name:'$container-multiple-choice-card_name_1',
 type:1268,
-from:3151,
-to:3240,
+from:16303,
+to:16392,
 rp:0,
 rpa:0,
 mdi:'si15778c',
@@ -117364,7 +117364,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":50,"bottom":50,"left":50,"right":50},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":true},"groupedItemsVisibility":{"slide-item-answer-checkbox":4},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c4)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","padding":"20px"},"tablet":{},"mobile":{"padding":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"grid","flexDirection":"column","grid-template-columns":"60% 40%","justifyContent":"space-between","paddingBottom":"100px","paddingTop":"10px","alignItems":"center","verticalAlign":"center"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column","paddingLeft":"5px","paddingRight":"5px","paddingBottom":"50px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"column","margin":"19px 6px 6px 6px","rowGap":"20px","gap":"20px","width":"fit-content"},"tablet":{},"mobile":{}},"container-question-buttons":{"all":{"display":"flex","justifyContent":"flex-end","gap":"20px","marginTop":"24px","paddingLeft":"6px"},"tablet":{},"mobile":{"flexDirection":"column","textAlign":"center","justifyContent":"center","paddingRight":"6px","gap":"10px"},"mobile_landscape":{"flexDirection":"row"}}}}',
+widgetProps:'{"padding":{"top":50,"bottom":50,"left":50,"right":50},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":false},"groupedItemsVisibility":{"slide-item-answer-checkbox":4},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c4)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","padding":"20px"},"tablet":{},"mobile":{"padding":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"grid","flexDirection":"column","grid-template-columns":"60% 40%","justifyContent":"space-between","paddingBottom":"100px","paddingTop":"10px","alignItems":"center","verticalAlign":"center"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column","paddingLeft":"5px","paddingRight":"5px","paddingBottom":"50px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"column","margin":"19px 6px 6px 6px","rowGap":"20px","gap":"20px","width":"fit-content"},"tablet":{},"mobile":{}},"container-question-buttons":{"all":{"display":"flex","justifyContent":"flex-end","gap":"20px","marginTop":"24px","paddingLeft":"6px"},"tablet":{},"mobile":{"flexDirection":"column","textAlign":"center","justifyContent":"center","paddingRight":"6px","gap":"10px"},"mobile_landscape":{"flexDirection":"row"}}}}',
 parentGroup:'si15770',
 retainState:false,
 immo:false,
@@ -121476,8 +121476,8 @@ vb:[-2,-2,-1,-1]
 Slide15721:{
 lb:'Multiple choice 1',
 id:15721,
-from:10951,
-to:11040,
+from:16303,
+to:16392,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -121537,7 +121537,7 @@ bookmarks:[]
 ,
 qs:'Slide15721q6',
 qnq:6,
-pa:10996,
+pa:16348,
 iph:{
 15760:{
 ts:'',
@@ -121564,7 +121564,7 @@ visible:'1'
 },
 Slide15721q6:{
 noa:1,
-qt:'Type the question hereWhile working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?While working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?While working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?',
+qt:'Type the question hereWhile working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?While working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?While working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?While working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?',
 it:true,
 is:false,
 ipq:false,
@@ -121608,8 +121608,8 @@ cal:['si15986']
 si16259:{
 name:'',
 type:1268,
-from:11041,
-to:11130,
+from:16393,
+to:16482,
 rp:0,
 rpa:0,
 mdi:'si16259c',
@@ -121783,8 +121783,8 @@ vb:[-1,-1,1,1]
 si16179:{
 name:'$container-multiple-choice-card_name_2',
 type:1268,
-from:1981,
-to:2070,
+from:16393,
+to:16482,
 rp:0,
 rpa:0,
 mdi:'si16179c',
@@ -121808,7 +121808,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":50,"bottom":50,"left":50,"right":50},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":true},"groupedItemsVisibility":{"slide-item-answer-checkbox":4},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c4)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","padding":"20px"},"tablet":{},"mobile":{"padding":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"grid","flexDirection":"column","grid-template-columns":"60% 40%","justifyContent":"space-between","paddingBottom":"100px","paddingTop":"10px","alignItems":"center","verticalAlign":"center"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column","paddingLeft":"5px","paddingRight":"5px","paddingBottom":"50px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"column","margin":"19px 6px 6px 6px","rowGap":"20px","gap":"20px","width":"fit-content"},"tablet":{},"mobile":{}},"container-question-buttons":{"all":{"display":"flex","justifyContent":"flex-end","gap":"20px","marginTop":"24px","paddingLeft":"6px"},"tablet":{},"mobile":{"flexDirection":"column","textAlign":"center","justifyContent":"center","paddingRight":"6px","gap":"10px"},"mobile_landscape":{"flexDirection":"row"}}}}',
+widgetProps:'{"padding":{"top":50,"bottom":50,"left":50,"right":50},"canBeCard":true,"visibilityInfo":{"slide-item-review-back-button":true,"slide-item-skip-button":false,"slide-item-submit-button":true,"slide-item-progress-indicator":true,"slide-item-clear-button":false,"card":true,"slide-item-answer-checkbox":true,"slide-item-review-next-button":true,"slide-item-question-text":true,"slide-item-view-answer-button":true,"slide-item-back-button":false},"groupedItemsVisibility":{"slide-item-answer-checkbox":4},"appearanceProperties":{"border":{"enabled":false,"color":"var(--c4)","size":8,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":12,"bottomLeft":12,"bottomRight":12,"topRight":12}},"shadow":{"shadowX":0,"shadowY":3,"shadowBlur":6,"enabled":true,"color":"var(--c4)"}},"alignment":{},"designOptionStyles":{"all":{"display":"flex","flexDirection":"column","padding":"20px"},"tablet":{},"mobile":{"padding":"15px"}},"childNodesCustomStyles":{"container-question-answer-area":{"all":{"display":"grid","flexDirection":"column","grid-template-columns":"60% 40%","justifyContent":"space-between","paddingBottom":"100px","paddingTop":"10px","alignItems":"center","verticalAlign":"center"},"tablet":{"display":"flex","flexDirection":"column"},"mobile":{"display":"flex","flexDirection":"column","paddingLeft":"5px","paddingRight":"5px","paddingBottom":"50px"}},"container-answer-area":{"all":{"display":"flex","flexDirection":"column","margin":"19px 6px 6px 6px","rowGap":"20px","gap":"20px","width":"fit-content"},"tablet":{},"mobile":{}},"container-question-buttons":{"all":{"display":"flex","justifyContent":"flex-end","gap":"20px","marginTop":"24px","paddingLeft":"6px"},"tablet":{},"mobile":{"flexDirection":"column","textAlign":"center","justifyContent":"center","paddingRight":"6px","gap":"10px"},"mobile_landscape":{"flexDirection":"row"}}}}',
 parentGroup:'si16259',
 retainState:false,
 immo:false,
@@ -125920,8 +125920,8 @@ vb:[-4,-4,2,2]
 Slide16300:{
 lb:'Multiple choice 2',
 id:16300,
-from:11041,
-to:11130,
+from:16393,
+to:16482,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -125981,7 +125981,7 @@ bookmarks:[]
 ,
 qs:'Slide16300q6',
 qnq:6,
-pa:11086,
+pa:16438,
 iph:{
 16281:{
 ts:'',
@@ -126008,7 +126008,7 @@ visible:'1'
 },
 Slide16300q6:{
 noa:1,
-qt:'While working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?When you need to smell a chemical during a lab, what is the correct way to do it?When you need to smell a chemical during a lab, what is the correct way to do it?',
+qt:'While working in the lab, a student accidentally knocks over a beaker and a chemical spills onto the table.What is the FIRST thing you should do?When you need to smell a chemical during a lab, what is the correct way to do it?When you need to smell a chemical during a lab, what is the correct way to do it?When you need to smell a chemical during a lab, what is the correct way to do it?',
 it:true,
 is:false,
 ipq:false,
@@ -132994,8 +132994,8 @@ visible:'1'
 si21304:{
 name:'Image_1',
 type:1268,
-from:14659,
-to:14748,
+from:19933,
+to:22662,
 rp:0,
 rpa:0,
 mdi:'si21304c',
@@ -133005,7 +133005,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:3,
+sid:91,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -133183,8 +133183,8 @@ vb:[-1,-1,1,1]
 si21312:{
 name:'Image_Group_1',
 type:1268,
-from:14659,
-to:14748,
+from:19933,
+to:22662,
 rp:0,
 rpa:0,
 mdi:'si21312c',
@@ -133194,7 +133194,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:3,
+sid:91,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -133359,8 +133359,8 @@ vb:[-1,-1,1,1]
 si21323:{
 name:'ChatGPT_Image_Apr_21__2026__01_50_53_PM',
 type:15,
-from:14659,
-to:14748,
+from:19933,
+to:22662,
 rp:0,
 rpa:0,
 mdi:'si21323c',
@@ -133370,7 +133370,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:3,
+sid:91,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -133385,9 +133385,22 @@ retainState:false,
 immo:false,
 apsn:'Slide21282',
 efph:{
+21414:{
+efdu:1,
+efde:0,
+efa:3,
+efre:1,
+efdi:24,
+efe:205,
+efty:0,
+eftd:0,
+efdaa:true,
+efva:[0]
+}
+
 }
 ,
-eflh:[],
+eflh:[21414],
 iflbx:false,
 ipflbx:true,
 iip:{
@@ -133555,8 +133568,8 @@ vb:[-1,-1,1537,1025]
 si21333:{
 name:'Image_Group_Text_7',
 type:1268,
-from:14659,
-to:14748,
+from:19963,
+to:22662,
 rp:0,
 rpa:0,
 mdi:'si21333c',
@@ -133565,8 +133578,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:0,
-sid:3,
+siaf:1,
+sid:90,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -133724,10 +133737,10 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si21341:{
-name:'Text_258',
+name:'Title_complete',
 type:1250,
-from:14659,
-to:14748,
+from:19963,
+to:22662,
 rp:0,
 rpa:0,
 mdi:'si21341c',
@@ -133736,8 +133749,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:0,
-sid:3,
+siaf:1,
+sid:90,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -133752,12 +133765,25 @@ retainState:false,
 immo:false,
 apsn:'Slide21282',
 efph:{
+21412:{
+efdu:1,
+efde:0,
+efa:11,
+efre:1,
+efdi:2,
+efe:209,
+efty:0,
+eftd:0,
+efdaa:true,
+efva:[]
+}
+
 }
 ,
-eflh:[],
+eflh:[21412],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"51t9d","text":"Lab Safety Completed","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"fontStretch:normal"},{"offset":0,"length":20,"style":"fontType:regular"},{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"textShadowY:4px"},{"offset":0,"length":20,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"textTransform:none"},{"offset":0,"length":20,"style":"color:#020C1C"},{"offset":0,"length":20,"style":"desktop-fontSize:72"},{"offset":0,"length":20,"style":"lineHeight:110%"},{"offset":0,"length":20,"style":"textShadowOpacity:none"},{"offset":0,"length":20,"style":"overridden:true"},{"offset":0,"length":20,"style":"textDecoration:none"},{"offset":0,"length":20,"style":"borderBottomStyle:none"},{"offset":0,"length":20,"style":"mobile-fontSize:60"},{"offset":0,"length":20,"style":"textShadowEnable:false"},{"offset":0,"length":20,"style":"hlnk:"},{"offset":0,"length":20,"style":"textShadowBlur:8px"},{"offset":0,"length":20,"style":"tablet-fontSize:72"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"fontStyle:normal"},{"offset":0,"length":20,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"fontWeight:400"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"letterSpacing:-4%"},{"offset":0,"length":20,"style":"fontFamily:Acme"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextShadow:none"},{"offset":0,"length":20,"style":"backgroundColor:unset"},{"offset":0,"length":20,"style":"textShadow:none"},{"offset":0,"length":20,"style":"textShadowX:0px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"51t9d","text":"Lab Safety Completed","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"fontWeight:400"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"letterSpacing:-4%"},{"offset":0,"length":20,"style":"fontFamily:Acme"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextShadow:none"},{"offset":0,"length":20,"style":"backgroundColor:unset"},{"offset":0,"length":20,"style":"textShadow:none"},{"offset":0,"length":20,"style":"textShadowX:0px"},{"offset":0,"length":20,"style":"fontStretch:normal"},{"offset":0,"length":20,"style":"fontType:regular"},{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"textShadowY:4px"},{"offset":0,"length":20,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"textTransform:none"},{"offset":0,"length":20,"style":"color:#020C1C"},{"offset":0,"length":20,"style":"desktop-fontSize:72"},{"offset":0,"length":20,"style":"lineHeight:110%"},{"offset":0,"length":20,"style":"textShadowOpacity:none"},{"offset":0,"length":20,"style":"overridden:true"},{"offset":0,"length":20,"style":"textDecoration:none"},{"offset":0,"length":20,"style":"borderBottomStyle:none"},{"offset":0,"length":20,"style":"mobile-fontSize:60"},{"offset":0,"length":20,"style":"textShadowEnable:false"},{"offset":0,"length":20,"style":"hlnk:"},{"offset":0,"length":20,"style":"textShadowBlur:8px"},{"offset":0,"length":20,"style":"tablet-fontSize:72"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"fontStyle:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -133877,10 +133903,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 si21349:{
-name:'Text_259',
+name:'Reminders',
 type:1250,
-from:14659,
-to:14748,
+from:19993,
+to:22662,
 rp:0,
 rpa:0,
 mdi:'si21349c',
@@ -133889,8 +133915,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:0,
-sid:3,
+siaf:2,
+sid:89,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -133905,12 +133931,25 @@ retainState:false,
 immo:false,
 apsn:'Slide21282',
 efph:{
+21413:{
+efdu:1,
+efde:0,
+efa:11,
+efre:1,
+efdi:2,
+efe:209,
+efty:0,
+eftd:0,
+efdaa:true,
+efva:[]
+}
+
 }
 ,
-eflh:[],
+eflh:[21413],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"6qn2n","text":"Your score will be entered into the gradebook once your teacher has had a chance to review each students\' results. ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":115,"style":"textHighlightEnable:false"},{"offset":0,"length":115,"style":"textTransform:none"},{"offset":0,"length":115,"style":"textShadowOpacity:none"},{"offset":0,"length":115,"style":"overridden:true"},{"offset":0,"length":115,"style":"textDecoration:none"},{"offset":0,"length":115,"style":"desktop-fontSize:30"},{"offset":0,"length":115,"style":"borderBottomStyle:none"},{"offset":0,"length":115,"style":"textShadowEnable:false"},{"offset":0,"length":115,"style":"hlnk:"},{"offset":0,"length":115,"style":"textShadowBlur:8px"},{"offset":0,"length":115,"style":"mobile-fontSize:20"},{"offset":0,"length":115,"style":"hlnke:true"},{"offset":0,"length":115,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"hlnkt:wp"},{"offset":0,"length":115,"style":"fontStyle:normal"},{"offset":0,"length":115,"style":"tablet-fontSize:20"},{"offset":0,"length":115,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"fontWeight:400"},{"offset":0,"length":115,"style":"textOutlineEnable:false"},{"offset":0,"length":115,"style":"fontFamily:Acme"},{"offset":0,"length":115,"style":"opacity:1"},{"offset":0,"length":115,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"defaultTextShadow:none"},{"offset":0,"length":115,"style":"backgroundColor:unset"},{"offset":0,"length":115,"style":"textShadow:none"},{"offset":0,"length":115,"style":"textShadowX:0px"},{"offset":0,"length":115,"style":"fontStretch:normal"},{"offset":0,"length":115,"style":"fontType:regular"},{"offset":0,"length":115,"style":"color:#333333"},{"offset":0,"length":115,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":115,"style":"textShadowY:4px"},{"offset":0,"length":115,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":115,"style":"lineHeight:135%"},{"offset":0,"length":115,"style":"letterSpacing:0%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"b5ehf","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"e9n64","text":"Remember...","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"lineHeight:135%"},{"offset":0,"length":11,"style":"letterSpacing:0%"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"},{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"desktop-fontSize:22"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"mobile-fontSize:20"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:20"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"color:#333333"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"textShadowY:4px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"ess6b","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"66q8r","text":"Always inform your teacher of any accidents or issues. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":55,"style":"color:#333333"},{"offset":0,"length":55,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":55,"style":"textShadowY:4px"},{"offset":0,"length":55,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":55,"style":"lineHeight:135%"},{"offset":0,"length":55,"style":"letterSpacing:0%"},{"offset":0,"length":55,"style":"textHighlightEnable:false"},{"offset":0,"length":55,"style":"textTransform:none"},{"offset":0,"length":55,"style":"textShadowOpacity:none"},{"offset":0,"length":55,"style":"overridden:true"},{"offset":0,"length":55,"style":"textDecoration:none"},{"offset":0,"length":55,"style":"borderBottomStyle:none"},{"offset":0,"length":55,"style":"desktop-fontSize:22"},{"offset":0,"length":55,"style":"textShadowEnable:false"},{"offset":0,"length":55,"style":"hlnk:"},{"offset":0,"length":55,"style":"textShadowBlur:8px"},{"offset":0,"length":55,"style":"mobile-fontSize:20"},{"offset":0,"length":55,"style":"hlnke:true"},{"offset":0,"length":55,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"hlnkt:wp"},{"offset":0,"length":55,"style":"fontStyle:normal"},{"offset":0,"length":55,"style":"tablet-fontSize:20"},{"offset":0,"length":55,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"fontWeight:400"},{"offset":0,"length":55,"style":"textOutlineEnable:false"},{"offset":0,"length":55,"style":"fontFamily:Acme"},{"offset":0,"length":55,"style":"opacity:1"},{"offset":0,"length":55,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"defaultTextShadow:none"},{"offset":0,"length":55,"style":"backgroundColor:unset"},{"offset":0,"length":55,"style":"textShadow:none"},{"offset":0,"length":55,"style":"textShadowX:0px"},{"offset":0,"length":55,"style":"fontStretch:normal"},{"offset":0,"length":55,"style":"fontType:regular"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"dgbjr","text":"Follow all directions before starting any lab.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":46,"style":"textShadowX:0px"},{"offset":0,"length":46,"style":"fontStretch:normal"},{"offset":0,"length":46,"style":"fontType:regular"},{"offset":0,"length":46,"style":"color:#333333"},{"offset":0,"length":46,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":46,"style":"textShadowY:4px"},{"offset":0,"length":46,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":46,"style":"lineHeight:135%"},{"offset":0,"length":46,"style":"letterSpacing:0%"},{"offset":0,"length":46,"style":"textHighlightEnable:false"},{"offset":0,"length":46,"style":"textTransform:none"},{"offset":0,"length":46,"style":"textShadowOpacity:none"},{"offset":0,"length":46,"style":"overridden:true"},{"offset":0,"length":46,"style":"textDecoration:none"},{"offset":0,"length":46,"style":"borderBottomStyle:none"},{"offset":0,"length":46,"style":"desktop-fontSize:22"},{"offset":0,"length":46,"style":"textShadowEnable:false"},{"offset":0,"length":46,"style":"hlnk:"},{"offset":0,"length":46,"style":"textShadowBlur:8px"},{"offset":0,"length":46,"style":"mobile-fontSize:20"},{"offset":0,"length":46,"style":"hlnke:true"},{"offset":0,"length":46,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"hlnkt:wp"},{"offset":0,"length":46,"style":"fontStyle:normal"},{"offset":0,"length":46,"style":"tablet-fontSize:20"},{"offset":0,"length":46,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"fontWeight:400"},{"offset":0,"length":46,"style":"textOutlineEnable:false"},{"offset":0,"length":46,"style":"fontFamily:Acme"},{"offset":0,"length":46,"style":"opacity:1"},{"offset":0,"length":46,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"defaultTextShadow:none"},{"offset":0,"length":46,"style":"backgroundColor:unset"},{"offset":0,"length":46,"style":"textShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"2e4fl","text":"Behave responsibly at all times in the  lab. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":45,"style":"defaultTextShadow:none"},{"offset":0,"length":45,"style":"backgroundColor:unset"},{"offset":0,"length":45,"style":"textShadow:none"},{"offset":0,"length":45,"style":"textShadowX:0px"},{"offset":0,"length":45,"style":"fontStretch:normal"},{"offset":0,"length":45,"style":"fontType:regular"},{"offset":0,"length":45,"style":"color:#333333"},{"offset":0,"length":45,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":45,"style":"textShadowY:4px"},{"offset":0,"length":45,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":45,"style":"lineHeight:135%"},{"offset":0,"length":45,"style":"letterSpacing:0%"},{"offset":0,"length":45,"style":"textHighlightEnable:false"},{"offset":0,"length":45,"style":"textTransform:none"},{"offset":0,"length":45,"style":"textShadowOpacity:none"},{"offset":0,"length":45,"style":"overridden:true"},{"offset":0,"length":45,"style":"textDecoration:none"},{"offset":0,"length":45,"style":"borderBottomStyle:none"},{"offset":0,"length":45,"style":"desktop-fontSize:22"},{"offset":0,"length":45,"style":"textShadowEnable:false"},{"offset":0,"length":45,"style":"hlnk:"},{"offset":0,"length":45,"style":"textShadowBlur:8px"},{"offset":0,"length":45,"style":"mobile-fontSize:20"},{"offset":0,"length":45,"style":"hlnke:true"},{"offset":0,"length":45,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"hlnkt:wp"},{"offset":0,"length":45,"style":"fontStyle:normal"},{"offset":0,"length":45,"style":"tablet-fontSize:20"},{"offset":0,"length":45,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":45,"style":"fontWeight:400"},{"offset":0,"length":45,"style":"textOutlineEnable:false"},{"offset":0,"length":45,"style":"fontFamily:Acme"},{"offset":0,"length":45,"style":"opacity:1"},{"offset":0,"length":45,"style":"defaultTextStrokeColor:#F1EEE6"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"f0oa3","text":"Always wear goggles and proper safety gear.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":43,"style":"fontFamily:Acme"},{"offset":0,"length":43,"style":"opacity:1"},{"offset":0,"length":43,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"defaultTextShadow:none"},{"offset":0,"length":43,"style":"backgroundColor:unset"},{"offset":0,"length":43,"style":"textShadow:none"},{"offset":0,"length":43,"style":"textShadowX:0px"},{"offset":0,"length":43,"style":"fontStretch:normal"},{"offset":0,"length":43,"style":"fontType:regular"},{"offset":0,"length":43,"style":"color:#333333"},{"offset":0,"length":43,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":43,"style":"textShadowY:4px"},{"offset":0,"length":43,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":43,"style":"lineHeight:135%"},{"offset":0,"length":43,"style":"letterSpacing:0%"},{"offset":0,"length":43,"style":"textHighlightEnable:false"},{"offset":0,"length":43,"style":"textTransform:none"},{"offset":0,"length":43,"style":"textShadowOpacity:none"},{"offset":0,"length":43,"style":"overridden:true"},{"offset":0,"length":43,"style":"textDecoration:none"},{"offset":0,"length":43,"style":"borderBottomStyle:none"},{"offset":0,"length":43,"style":"desktop-fontSize:22"},{"offset":0,"length":43,"style":"textShadowEnable:false"},{"offset":0,"length":43,"style":"hlnk:"},{"offset":0,"length":43,"style":"textShadowBlur:8px"},{"offset":0,"length":43,"style":"mobile-fontSize:20"},{"offset":0,"length":43,"style":"hlnke:true"},{"offset":0,"length":43,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"hlnkt:wp"},{"offset":0,"length":43,"style":"fontStyle:normal"},{"offset":0,"length":43,"style":"tablet-fontSize:20"},{"offset":0,"length":43,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"fontWeight:400"},{"offset":0,"length":43,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"adv3u","text":"Keep your workspace clean and organized.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":40,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"fontWeight:400"},{"offset":0,"length":40,"style":"textOutlineEnable:false"},{"offset":0,"length":40,"style":"fontFamily:Acme"},{"offset":0,"length":40,"style":"opacity:1"},{"offset":0,"length":40,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"defaultTextShadow:none"},{"offset":0,"length":40,"style":"backgroundColor:unset"},{"offset":0,"length":40,"style":"textShadow:none"},{"offset":0,"length":40,"style":"textShadowX:0px"},{"offset":0,"length":40,"style":"fontStretch:normal"},{"offset":0,"length":40,"style":"fontType:regular"},{"offset":0,"length":40,"style":"color:#333333"},{"offset":0,"length":40,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":40,"style":"textShadowY:4px"},{"offset":0,"length":40,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":40,"style":"lineHeight:135%"},{"offset":0,"length":40,"style":"letterSpacing:0%"},{"offset":0,"length":40,"style":"textHighlightEnable:false"},{"offset":0,"length":40,"style":"textTransform:none"},{"offset":0,"length":40,"style":"textShadowOpacity:none"},{"offset":0,"length":40,"style":"overridden:true"},{"offset":0,"length":40,"style":"textDecoration:none"},{"offset":0,"length":40,"style":"borderBottomStyle:none"},{"offset":0,"length":40,"style":"desktop-fontSize:22"},{"offset":0,"length":40,"style":"textShadowEnable:false"},{"offset":0,"length":40,"style":"hlnk:"},{"offset":0,"length":40,"style":"textShadowBlur:8px"},{"offset":0,"length":40,"style":"mobile-fontSize:20"},{"offset":0,"length":40,"style":"hlnke:true"},{"offset":0,"length":40,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":40,"style":"hlnkt:wp"},{"offset":0,"length":40,"style":"fontStyle:normal"},{"offset":0,"length":40,"style":"tablet-fontSize:20"},{"offset":0,"length":40,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"6qn2n","text":"Your score will be entered into the gradebook once your teacher has had a chance to review each students\' results. ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":115,"style":"textShadowOpacity:none"},{"offset":0,"length":115,"style":"overridden:true"},{"offset":0,"length":115,"style":"textDecoration:none"},{"offset":0,"length":115,"style":"desktop-fontSize:30"},{"offset":0,"length":115,"style":"borderBottomStyle:none"},{"offset":0,"length":115,"style":"textShadowEnable:false"},{"offset":0,"length":115,"style":"hlnk:"},{"offset":0,"length":115,"style":"textShadowBlur:8px"},{"offset":0,"length":115,"style":"mobile-fontSize:20"},{"offset":0,"length":115,"style":"hlnke:true"},{"offset":0,"length":115,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"hlnkt:wp"},{"offset":0,"length":115,"style":"fontStyle:normal"},{"offset":0,"length":115,"style":"tablet-fontSize:20"},{"offset":0,"length":115,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"fontWeight:400"},{"offset":0,"length":115,"style":"textOutlineEnable:false"},{"offset":0,"length":115,"style":"fontFamily:Acme"},{"offset":0,"length":115,"style":"opacity:1"},{"offset":0,"length":115,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"defaultTextShadow:none"},{"offset":0,"length":115,"style":"backgroundColor:unset"},{"offset":0,"length":115,"style":"textShadow:none"},{"offset":0,"length":115,"style":"textShadowX:0px"},{"offset":0,"length":115,"style":"fontStretch:normal"},{"offset":0,"length":115,"style":"fontType:regular"},{"offset":0,"length":115,"style":"color:#333333"},{"offset":0,"length":115,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":115,"style":"textShadowY:4px"},{"offset":0,"length":115,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":115,"style":"lineHeight:135%"},{"offset":0,"length":115,"style":"letterSpacing:0%"},{"offset":0,"length":115,"style":"textHighlightEnable:false"},{"offset":0,"length":115,"style":"textTransform:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"b5ehf","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"e9n64","text":"Remember...","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"letterSpacing:0%"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"},{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"desktop-fontSize:22"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"mobile-fontSize:20"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:20"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"color:#333333"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"textShadowY:4px"},{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"lineHeight:135%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"ess6b","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"66q8r","text":"Always inform your teacher of any accidents or issues. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":55,"style":"textShadowY:4px"},{"offset":0,"length":55,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":55,"style":"lineHeight:135%"},{"offset":0,"length":55,"style":"letterSpacing:0%"},{"offset":0,"length":55,"style":"textHighlightEnable:false"},{"offset":0,"length":55,"style":"textTransform:none"},{"offset":0,"length":55,"style":"textShadowOpacity:none"},{"offset":0,"length":55,"style":"overridden:true"},{"offset":0,"length":55,"style":"textDecoration:none"},{"offset":0,"length":55,"style":"borderBottomStyle:none"},{"offset":0,"length":55,"style":"desktop-fontSize:22"},{"offset":0,"length":55,"style":"textShadowEnable:false"},{"offset":0,"length":55,"style":"hlnk:"},{"offset":0,"length":55,"style":"textShadowBlur:8px"},{"offset":0,"length":55,"style":"mobile-fontSize:20"},{"offset":0,"length":55,"style":"hlnke:true"},{"offset":0,"length":55,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"hlnkt:wp"},{"offset":0,"length":55,"style":"fontStyle:normal"},{"offset":0,"length":55,"style":"tablet-fontSize:20"},{"offset":0,"length":55,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"fontWeight:400"},{"offset":0,"length":55,"style":"textOutlineEnable:false"},{"offset":0,"length":55,"style":"fontFamily:Acme"},{"offset":0,"length":55,"style":"opacity:1"},{"offset":0,"length":55,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"defaultTextShadow:none"},{"offset":0,"length":55,"style":"backgroundColor:unset"},{"offset":0,"length":55,"style":"textShadow:none"},{"offset":0,"length":55,"style":"textShadowX:0px"},{"offset":0,"length":55,"style":"fontStretch:normal"},{"offset":0,"length":55,"style":"fontType:regular"},{"offset":0,"length":55,"style":"color:#333333"},{"offset":0,"length":55,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"dgbjr","text":"Follow all directions before starting any lab.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":46,"style":"fontType:regular"},{"offset":0,"length":46,"style":"color:#333333"},{"offset":0,"length":46,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":46,"style":"textShadowY:4px"},{"offset":0,"length":46,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":46,"style":"lineHeight:135%"},{"offset":0,"length":46,"style":"letterSpacing:0%"},{"offset":0,"length":46,"style":"textHighlightEnable:false"},{"offset":0,"length":46,"style":"textTransform:none"},{"offset":0,"length":46,"style":"textShadowOpacity:none"},{"offset":0,"length":46,"style":"overridden:true"},{"offset":0,"length":46,"style":"textDecoration:none"},{"offset":0,"length":46,"style":"borderBottomStyle:none"},{"offset":0,"length":46,"style":"desktop-fontSize:22"},{"offset":0,"length":46,"style":"textShadowEnable:false"},{"offset":0,"length":46,"style":"hlnk:"},{"offset":0,"length":46,"style":"textShadowBlur:8px"},{"offset":0,"length":46,"style":"mobile-fontSize:20"},{"offset":0,"length":46,"style":"hlnke:true"},{"offset":0,"length":46,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"hlnkt:wp"},{"offset":0,"length":46,"style":"fontStyle:normal"},{"offset":0,"length":46,"style":"tablet-fontSize:20"},{"offset":0,"length":46,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"fontWeight:400"},{"offset":0,"length":46,"style":"textOutlineEnable:false"},{"offset":0,"length":46,"style":"fontFamily:Acme"},{"offset":0,"length":46,"style":"opacity:1"},{"offset":0,"length":46,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"defaultTextShadow:none"},{"offset":0,"length":46,"style":"backgroundColor:unset"},{"offset":0,"length":46,"style":"textShadow:none"},{"offset":0,"length":46,"style":"textShadowX:0px"},{"offset":0,"length":46,"style":"fontStretch:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"2e4fl","text":"Behave responsibly at all times in the  lab. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":45,"style":"textShadow:none"},{"offset":0,"length":45,"style":"textShadowX:0px"},{"offset":0,"length":45,"style":"fontStretch:normal"},{"offset":0,"length":45,"style":"fontType:regular"},{"offset":0,"length":45,"style":"color:#333333"},{"offset":0,"length":45,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":45,"style":"textShadowY:4px"},{"offset":0,"length":45,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":45,"style":"lineHeight:135%"},{"offset":0,"length":45,"style":"letterSpacing:0%"},{"offset":0,"length":45,"style":"textHighlightEnable:false"},{"offset":0,"length":45,"style":"textTransform:none"},{"offset":0,"length":45,"style":"textShadowOpacity:none"},{"offset":0,"length":45,"style":"overridden:true"},{"offset":0,"length":45,"style":"textDecoration:none"},{"offset":0,"length":45,"style":"borderBottomStyle:none"},{"offset":0,"length":45,"style":"desktop-fontSize:22"},{"offset":0,"length":45,"style":"textShadowEnable:false"},{"offset":0,"length":45,"style":"hlnk:"},{"offset":0,"length":45,"style":"textShadowBlur:8px"},{"offset":0,"length":45,"style":"mobile-fontSize:20"},{"offset":0,"length":45,"style":"hlnke:true"},{"offset":0,"length":45,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"hlnkt:wp"},{"offset":0,"length":45,"style":"fontStyle:normal"},{"offset":0,"length":45,"style":"tablet-fontSize:20"},{"offset":0,"length":45,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":45,"style":"fontWeight:400"},{"offset":0,"length":45,"style":"textOutlineEnable:false"},{"offset":0,"length":45,"style":"fontFamily:Acme"},{"offset":0,"length":45,"style":"opacity:1"},{"offset":0,"length":45,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":45,"style":"defaultTextShadow:none"},{"offset":0,"length":45,"style":"backgroundColor:unset"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"f0oa3","text":"Always wear goggles and proper safety gear.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":43,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"defaultTextShadow:none"},{"offset":0,"length":43,"style":"backgroundColor:unset"},{"offset":0,"length":43,"style":"textShadow:none"},{"offset":0,"length":43,"style":"textShadowX:0px"},{"offset":0,"length":43,"style":"fontStretch:normal"},{"offset":0,"length":43,"style":"fontType:regular"},{"offset":0,"length":43,"style":"color:#333333"},{"offset":0,"length":43,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":43,"style":"textShadowY:4px"},{"offset":0,"length":43,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":43,"style":"lineHeight:135%"},{"offset":0,"length":43,"style":"letterSpacing:0%"},{"offset":0,"length":43,"style":"textHighlightEnable:false"},{"offset":0,"length":43,"style":"textTransform:none"},{"offset":0,"length":43,"style":"textShadowOpacity:none"},{"offset":0,"length":43,"style":"overridden:true"},{"offset":0,"length":43,"style":"textDecoration:none"},{"offset":0,"length":43,"style":"borderBottomStyle:none"},{"offset":0,"length":43,"style":"desktop-fontSize:22"},{"offset":0,"length":43,"style":"textShadowEnable:false"},{"offset":0,"length":43,"style":"hlnk:"},{"offset":0,"length":43,"style":"textShadowBlur:8px"},{"offset":0,"length":43,"style":"mobile-fontSize:20"},{"offset":0,"length":43,"style":"hlnke:true"},{"offset":0,"length":43,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"hlnkt:wp"},{"offset":0,"length":43,"style":"fontStyle:normal"},{"offset":0,"length":43,"style":"tablet-fontSize:20"},{"offset":0,"length":43,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"fontWeight:400"},{"offset":0,"length":43,"style":"textOutlineEnable:false"},{"offset":0,"length":43,"style":"fontFamily:Acme"},{"offset":0,"length":43,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"adv3u","text":"Keep your workspace clean and organized.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":40,"style":"textOutlineEnable:false"},{"offset":0,"length":40,"style":"fontFamily:Acme"},{"offset":0,"length":40,"style":"opacity:1"},{"offset":0,"length":40,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"defaultTextShadow:none"},{"offset":0,"length":40,"style":"backgroundColor:unset"},{"offset":0,"length":40,"style":"textShadow:none"},{"offset":0,"length":40,"style":"textShadowX:0px"},{"offset":0,"length":40,"style":"fontStretch:normal"},{"offset":0,"length":40,"style":"fontType:regular"},{"offset":0,"length":40,"style":"color:#333333"},{"offset":0,"length":40,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":40,"style":"textShadowY:4px"},{"offset":0,"length":40,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":40,"style":"lineHeight:135%"},{"offset":0,"length":40,"style":"letterSpacing:0%"},{"offset":0,"length":40,"style":"textHighlightEnable:false"},{"offset":0,"length":40,"style":"textTransform:none"},{"offset":0,"length":40,"style":"textShadowOpacity:none"},{"offset":0,"length":40,"style":"overridden:true"},{"offset":0,"length":40,"style":"textDecoration:none"},{"offset":0,"length":40,"style":"borderBottomStyle:none"},{"offset":0,"length":40,"style":"desktop-fontSize:22"},{"offset":0,"length":40,"style":"textShadowEnable:false"},{"offset":0,"length":40,"style":"hlnk:"},{"offset":0,"length":40,"style":"textShadowBlur:8px"},{"offset":0,"length":40,"style":"mobile-fontSize:20"},{"offset":0,"length":40,"style":"hlnke:true"},{"offset":0,"length":40,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":40,"style":"hlnkt:wp"},{"offset":0,"length":40,"style":"fontStyle:normal"},{"offset":0,"length":40,"style":"tablet-fontSize:20"},{"offset":0,"length":40,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":40,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"fontWeight:400"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -134030,10 +134069,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 si21357:{
-name:'Button_235',
+name:'Submit_and_Exit',
 type:29,
-from:14659,
-to:14748,
+from:20053,
+to:22662,
 rp:0,
 rpa:0,
 mdi:'si21357c',
@@ -134042,8 +134081,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:0,
-sid:3,
+siaf:4,
+sid:87,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -134188,11 +134227,11 @@ vb:[-2,-2,-1,-1]
 Slide21282:{
 lb:'Completed',
 id:21282,
-from:15673,
-to:15762,
+from:19933,
+to:22662,
 iols:0,
 i360qs:false,
-sdu:3,
+sdu:91,
 presetData:[{
 presetId:'',
 presetType:3,
@@ -134812,7 +134851,7 @@ pprtd:false,
 peon:false,
 fadeInAtStart:0,
 fadeOutAtEnd:0,
-endAction:'cp.closeProject();'
+endAction:'cp.loopProject();'
 },
 borderProperties:{
 hasBorder:false
