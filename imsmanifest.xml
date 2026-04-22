@@ -33,11 +33,12 @@
 				<adlcp:location>metadata.xml</adlcp:location> 
 			</metadata>
 			
-			<file href="ar/KeyClick.mp3"/>
+			<file href="ar/21427.mp3"/>
 		    <file href="index.html"/>
 			<file href="scormdriver.js"/>
 			<file href="browsersniff.js"/>
 			
+<file href="ar/KeyClick.mp3"/> 
 <file href="assets/htmlimages/Answer_checkbox_correct.png"/> 
 <file href="assets/htmlimages/Answer_checkbox_incorrect.png"/> 
 <file href="assets/htmlimages/Answer_radio_correct.png"/> 
@@ -67,7 +68,6 @@
 <file href="dr/018620.png"/> 
 <file href="dr/018622.png"/> 
 <file href="dr/018624.png"/> 
-<file href="dr/01926.svg"/> 
 <file href="dr/019504.png"/> 
 <file href="dr/019507.png"/> 
 <file href="dr/019510.png"/> 
@@ -80,7 +80,6 @@
 <file href="dr/03066.svg"/> 
 <file href="dr/05276.jpg"/> 
 <file href="dr/05288.jpg"/> 
-<file href="dr/05292.jpg"/> 
 <file href="dr/05454.svg"/> 
 <file href="dr/0558.svg"/> 
 <file href="dr/05987.png"/> 
@@ -103,12 +102,9 @@
 <file href="dr/08348.png"/> 
 <file href="dr/08357.jpg"/> 
 <file href="dr/08359.png"/> 
-<file href="dr/08362.jpg"/> 
 <file href="dr/08364.jpg"/> 
-<file href="dr/08366.jpg"/> 
 <file href="dr/08368.jpg"/> 
 <file href="dr/08370.jpg"/> 
-<file href="dr/08375.jpg"/> 
 <file href="dr/08377.jpg"/> 
 <file href="dr/08379.jpg"/> 
 <file href="dr/08382.jpg"/> 
