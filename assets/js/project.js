@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:40918,
-to:41007,
+from:43309,
+to:43398,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72,9 +72,9 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd27:{
-from:41008,
-to:41228,
+StAd45:{
+from:43399,
+to:43619,
 src:'ar/21437.mp3',
 du:7383,
 saup:[{
@@ -2768,9 +2768,9 @@ uid:792,
 dn:'Slide792',
 visible:'1'
 },
-StAd28:{
-from:41008,
-to:41480,
+StAd46:{
+from:43399,
+to:43871,
 src:'ar/21441.mp3',
 du:15787,
 saup:[{
@@ -3702,15 +3702,15 @@ uid:793,
 dn:'Slide793',
 visible:'1'
 },
-StAd29:{
-from:41008,
-to:41411,
-src:'ar/21443.mp3',
-du:13467,
+StAd47:{
+from:43399,
+to:43489,
+src:'ar/21491.mp3',
+du:3063,
 saup:[{
 sn:902,
 del:0,
-du:13.4673,
+du:3.06327,
 l:false
 }
 ]
@@ -4390,8 +4390,8 @@ vb:[-1,-1,2,2]
 si1002:{
 name:'Image_Grid_1',
 type:1268,
-from:36436,
-to:36840,
+from:41098,
+to:41502,
 rp:0,
 rpa:0,
 mdi:'si1002c',
@@ -7727,8 +7727,8 @@ vb:[-1,-1,2,2]
 si1128:{
 name:'3_Image_Grid_Group_3',
 type:1268,
-from:36484,
-to:36840,
+from:41146,
+to:41502,
 rp:0,
 rpa:0,
 mdi:'si1128c',
@@ -7899,8 +7899,8 @@ vb:[-1,-1,1,1]
 si1139:{
 name:'Quiz1',
 type:15,
-from:6511,
-to:6594,
+from:41158,
+to:41502,
 rp:0,
 rpa:0,
 mdi:'si1139c',
@@ -7910,7 +7910,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:2,
-sid:2.8,
+sid:11.5,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -10200,8 +10200,8 @@ vb:[-2,-2,150,30]
 Slide902:{
 lb:'Course Overview',
 id:902,
-from:36436,
-to:36840,
+from:41098,
+to:41502,
 iols:0,
 i360qs:false,
 sdu:13.5,
@@ -10226,7 +10226,7 @@ sk:'Title and Image',
 slideTag:'title-image-slide',
 type:30,
 slideThemeCounter:0,
-audCC:'"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"5dddf\",\"text\":\"In this course, you can choose where to begin—lab equipment or lab rules and procedures.\\nClick on an image to choose which section you’d like to complete first.\\nAfter you finish both sections, you’ll unlock the safety quiz.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":223,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":223,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":223,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":223,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":223,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":223,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":223,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":223,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":223,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":223,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":223,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":223,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":223,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":223,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":223,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":223,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":223,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":223,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":223,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":223,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":223,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":223,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":223,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"opacity:1\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"In this course, you can choose where to begin—lab equipment or lab rules and procedures.\\nClick on an image to choose which section you’d like to complete first.\\nAfter you finish both sections, you’ll unlock the safety quiz.\",\"duration\":13.5,\"end\":13.5,\"id\":\"caption__9105__3\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"',
+audCC:'"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"5dddf\",\"text\":\"Choose which section of the lesson you\'d like to go to.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":55,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":55,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":55,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":55,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":55,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":55,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":55,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":55,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":55,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":55,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":55,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":55,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":55,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":55,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":55,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":55,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":55,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":55,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":55,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":55,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":55,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":55,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":55,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":55,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":55,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":55,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":55,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":55,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":55,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":55,\"style\":\"borderBottomStyle:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Choose which section of the lesson you\'d like to go to.\",\"duration\":3.1,\"end\":3.1,\"id\":\"caption__9105__3\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"',
 narratorCCMap:{
 }
 ,
@@ -10323,9 +10323,9 @@ uid:902,
 dn:'Slide902',
 visible:'1'
 },
-StAd30:{
-from:41008,
-to:41309,
+StAd48:{
+from:43399,
+to:43700,
 src:'ar/21445.mp3',
 du:10075,
 saup:[{
@@ -37462,9 +37462,9 @@ uid:19503,
 dn:'Slide19503',
 visible:'1'
 },
-StAd31:{
-from:41008,
-to:41392,
+StAd49:{
+from:43399,
+to:43783,
 src:'ar/21451.mp3',
 du:12863,
 saup:[{
@@ -51678,9 +51678,9 @@ uid:3177,
 dn:'Slide3177',
 visible:'1'
 },
-StAd32:{
-from:41008,
-to:41185,
+StAd50:{
+from:43399,
+to:43576,
 src:'ar/21449.mp3',
 du:5942,
 saup:[{
@@ -61734,9 +61734,9 @@ uid:5348,
 dn:'Slide5348',
 visible:'1'
 },
-StAd33:{
-from:41008,
-to:41249,
+StAd51:{
+from:43399,
+to:43640,
 src:'ar/21453.mp3',
 du:8126,
 saup:[{
@@ -76640,9 +76640,9 @@ uid:7383,
 dn:'Slide7383',
 visible:'1'
 },
-StAd34:{
-from:41008,
-to:41537,
+StAd52:{
+from:43399,
+to:43928,
 src:'ar/21459.mp3',
 du:17738,
 saup:[{
@@ -115447,9 +115447,9 @@ uid:10564,
 dn:'Slide10564',
 visible:'1'
 },
-StAd35:{
-from:41008,
-to:41270,
+StAd53:{
+from:43399,
+to:43661,
 src:'ar/21461.mp3',
 du:8775,
 saup:[{
@@ -115464,8 +115464,8 @@ l:false
 si21304:{
 name:'Image_1',
 type:1268,
-from:39112,
-to:40911,
+from:41503,
+to:43302,
 rp:0,
 rpa:0,
 mdi:'si21304c',
@@ -115653,8 +115653,8 @@ vb:[-1,-1,1,1]
 si21312:{
 name:'Image_Group_1',
 type:1268,
-from:39112,
-to:40911,
+from:41503,
+to:43302,
 rp:0,
 rpa:0,
 mdi:'si21312c',
@@ -116038,8 +116038,8 @@ vb:[-1,-1,1537,1025]
 si21333:{
 name:'Image_Group_Text_7',
 type:1268,
-from:31783,
-to:33552,
+from:41533,
+to:43302,
 rp:0,
 rpa:0,
 mdi:'si21333c',
@@ -116209,8 +116209,8 @@ vb:[-1,-1,1,1]
 si21341:{
 name:'Title_complete',
 type:1250,
-from:31783,
-to:33552,
+from:41533,
+to:43302,
 rp:0,
 rpa:0,
 mdi:'si21341c',
@@ -116253,7 +116253,7 @@ efva:[]
 eflh:[21412],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"51t9d","text":"Lab Safety Completed","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"textShadowY:4px"},{"offset":0,"length":20,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"textTransform:none"},{"offset":0,"length":20,"style":"color:#020C1C"},{"offset":0,"length":20,"style":"desktop-fontSize:72"},{"offset":0,"length":20,"style":"lineHeight:110%"},{"offset":0,"length":20,"style":"textShadowOpacity:none"},{"offset":0,"length":20,"style":"overridden:true"},{"offset":0,"length":20,"style":"textDecoration:none"},{"offset":0,"length":20,"style":"borderBottomStyle:none"},{"offset":0,"length":20,"style":"mobile-fontSize:60"},{"offset":0,"length":20,"style":"textShadowEnable:false"},{"offset":0,"length":20,"style":"hlnk:"},{"offset":0,"length":20,"style":"textShadowBlur:8px"},{"offset":0,"length":20,"style":"tablet-fontSize:72"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"fontStyle:normal"},{"offset":0,"length":20,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"fontWeight:400"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"letterSpacing:-4%"},{"offset":0,"length":20,"style":"fontFamily:Acme"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextShadow:none"},{"offset":0,"length":20,"style":"backgroundColor:unset"},{"offset":0,"length":20,"style":"textShadow:none"},{"offset":0,"length":20,"style":"textShadowX:0px"},{"offset":0,"length":20,"style":"fontStretch:normal"},{"offset":0,"length":20,"style":"fontType:regular"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"51t9d","text":"Lab Safety Completed","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"textShadowBlur:8px"},{"offset":0,"length":20,"style":"tablet-fontSize:72"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"fontStyle:normal"},{"offset":0,"length":20,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":20,"style":"fontWeight:400"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"letterSpacing:-4%"},{"offset":0,"length":20,"style":"fontFamily:Acme"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":20,"style":"defaultTextShadow:none"},{"offset":0,"length":20,"style":"backgroundColor:unset"},{"offset":0,"length":20,"style":"textShadow:none"},{"offset":0,"length":20,"style":"textShadowX:0px"},{"offset":0,"length":20,"style":"fontStretch:normal"},{"offset":0,"length":20,"style":"fontType:regular"},{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"textShadowY:4px"},{"offset":0,"length":20,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"textTransform:none"},{"offset":0,"length":20,"style":"color:#020C1C"},{"offset":0,"length":20,"style":"desktop-fontSize:72"},{"offset":0,"length":20,"style":"lineHeight:110%"},{"offset":0,"length":20,"style":"textShadowOpacity:none"},{"offset":0,"length":20,"style":"overridden:true"},{"offset":0,"length":20,"style":"textDecoration:none"},{"offset":0,"length":20,"style":"borderBottomStyle:none"},{"offset":0,"length":20,"style":"mobile-fontSize:60"},{"offset":0,"length":20,"style":"textShadowEnable:false"},{"offset":0,"length":20,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -116723,8 +116723,8 @@ vb:[-2,-2,-1,-1]
 Slide21282:{
 lb:'Completed',
 id:21282,
-from:39112,
-to:40911,
+from:41503,
+to:43302,
 iols:0,
 i360qs:false,
 sdu:60,
@@ -116801,8 +116801,8 @@ visible:'1'
 Slide21469:{
 lb:'Blank 1',
 id:21469,
-from:40912,
-to:40917,
+from:43303,
+to:43308,
 iols:0,
 i360qs:false,
 sdu:0.2,
@@ -116861,9 +116861,20 @@ iso:true,
 se:false
 }
 ,
+sea:'{"scripts":[{"then":[["cp.exit()"]]}]}',
+bph:[]
+,
 bookmarks:[]
 ,
-qs:''
+qs:'',
+iph:{
+21505:{
+ts:'',
+tr:''
+}
+
+}
+
 },
 Slide21469c:{
 b:[0,0,0,0],
@@ -117412,7 +117423,7 @@ dsType:0,
 dsWidth:80
 }
 ,
-slideAudios:'StAd27,StAd28,StAd29,StAd30,StAd31,StAd32,StAd33,StAd34,StAd35',
+slideAudios:'StAd45,StAd46,StAd47,StAd48,StAd49,StAd50,StAd51,StAd52,StAd53',
 vestr:0,
 vim:0,
 slides:'Slide792,Slide793,Slide902,Slide17766,Slide19503,Slide3177,Slide5348,Slide7383,Slide10045,Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300,Slide10564,Slide21282,Slide21469',
@@ -117470,7 +117481,7 @@ text:['"[{\"start\":0,\"speechAgent\":null,\"editorState\":{\"blocks\":[{\"key\"
 }
 ,{
 link:902,
-text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"5dddf\",\"text\":\"In this course, you can choose where to begin—lab equipment or lab rules and procedures.\\nClick on an image to choose which section you’d like to complete first.\\nAfter you finish both sections, you’ll unlock the safety quiz.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":223,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":223,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":223,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":223,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":223,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":223,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":223,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":223,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":223,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":223,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":223,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":223,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":223,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":223,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":223,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":223,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":223,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":223,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":223,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":223,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":223,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":223,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":223,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"opacity:1\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"In this course, you can choose where to begin—lab equipment or lab rules and procedures.\\nClick on an image to choose which section you’d like to complete first.\\nAfter you finish both sections, you’ll unlock the safety quiz.\",\"duration\":13.5,\"end\":13.5,\"id\":\"caption__9105__3\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
+text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"5dddf\",\"text\":\"In this course, you can choose where to begin—lab equipment or lab rules and procedures.\\nClick on an image to choose which section you’d like to complete first.\\nAfter you finish both sections, you’ll unlock the safety quiz.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":223,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":223,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":223,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":223,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":223,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":223,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":223,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":223,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":223,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":223,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":223,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":223,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":223,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":223,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":223,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":223,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":223,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":223,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":223,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":223,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":223,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":223,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":223,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":223,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":223,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":223,\"style\":\"opacity:1\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"In this course, you can choose where to begin—lab equipment or lab rules and procedures.\\nClick on an image to choose which section you’d like to complete first.\\nAfter you finish both sections, you’ll unlock the safety quiz.\",\"duration\":13.5,\"end\":13.5,\"id\":\"caption__9105__3\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"','"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"5dddf\",\"text\":\"Choose which section of the lesson you\'d like to go to.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":55,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":55,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":55,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":55,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":55,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":55,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":55,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":55,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":55,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":55,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":55,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":55,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":55,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":55,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":55,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":55,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":55,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":55,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":55,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":55,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":55,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":55,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":55,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":55,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":55,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":55,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":55,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":55,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":55,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":55,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":55,\"style\":\"borderBottomStyle:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Choose which section of the lesson you\'d like to go to.\",\"duration\":3.1,\"end\":3.1,\"id\":\"caption__9105__3\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
 }
 ,{
 link:17766,
@@ -117526,7 +117537,7 @@ text:[]
 }
 ,{
 link:21282,
-text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"eie29\",\"text\":\"Great job completing the lesson!\\nRemember to always follow lab safety rules and use equipment properly.\\nStay safe—and we’ll see you in the lab!\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":143,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":143,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":143,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":143,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":143,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":143,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":143,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":143,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":143,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":143,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":143,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":143,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":143,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":143,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":143,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":143,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":143,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":143,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":143,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":143,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":143,\"style\":\"WebkitTextStrokeWidth:1px\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Great job completing the lesson!\\nRemember to always follow lab safety rules and use equipment properly.\\nStay safe—and we’ll see you in the lab!\",\"duration\":8.8,\"end\":8.8,\"id\":\"caption__5280__9\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
+text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"eie29\",\"text\":\"Great job completing the lesson!\\nRemember to always follow lab safety rules and use equipment properly.\\nStay safe—and we’ll see you in the lab!\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":143,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":143,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":143,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":143,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":143,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":143,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":143,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":143,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":143,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":143,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":143,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":143,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":143,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":143,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":143,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":143,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":143,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":143,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":143,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":143,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":143,\"style\":\"WebkitTextStrokeWidth:1px\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Great job completing the lesson!\\nRemember to always follow lab safety rules and use equipment properly.\\nStay safe—and we’ll see you in the lab!\",\"duration\":8.8,\"end\":8.8,\"id\":\"caption__5280__9\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"','"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"eie29\",\"text\":\"Great job completing the lesson!\\nRemember to always follow lab safety rules and use equipment properly.\\nStay safe—and we’ll see you in the lab!\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":143,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":143,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":143,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":143,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":143,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":143,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":143,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":143,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":143,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":143,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":143,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":143,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":143,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":143,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":143,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":143,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":143,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":143,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":143,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":143,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":143,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":143,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":143,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":143,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":143,\"style\":\"WebkitTextStrokeWidth:1px\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Great job completing the lesson!\\nRemember to always follow lab safety rules and use equipment properly.\\nStay safe—and we’ll see you in the lab!\",\"duration\":8.8,\"end\":8.8,\"id\":\"caption__5280__9\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
 }
 ,{
 link:21469,
@@ -118380,7 +118391,7 @@ resources:['ar/21441.mp3']
 ,{
 slideID:2,
 ResourceList:{
-resources:['ar/21443.mp3']
+resources:['ar/21491.mp3']
 }
 
 }
@@ -118438,7 +118449,7 @@ cp.model.audios=[
 'ar/21437.mp3',
 'ar/KeyClick.mp3',
 'ar/21441.mp3',
-'ar/21443.mp3',
+'ar/21491.mp3',
 'ar/21445.mp3',
 'ar/21451.mp3',
 'ar/21449.mp3',
