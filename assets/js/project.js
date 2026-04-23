@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:1,
-to:90,
+from:9421,
+to:9510,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72,9 +72,9 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd0:{
-from:121,
-to:341,
+StAd27:{
+from:9541,
+to:9761,
 src:'ar/21509.mp3',
 du:7383,
 saup:[{
@@ -89,8 +89,8 @@ l:false
 si612:{
 name:'Paragraph_10',
 type:1268,
-from:91,
-to:342,
+from:9511,
+to:9762,
 rp:0,
 rpa:0,
 mdi:'si612c',
@@ -256,8 +256,8 @@ vb:[-1,-1,1,1]
 si606:{
 name:'Paragraph_Group_5',
 type:1268,
-from:91,
-to:342,
+from:9511,
+to:9762,
 rp:0,
 rpa:0,
 mdi:'si606c',
@@ -428,8 +428,8 @@ vb:[-1,-1,1,1]
 si538:{
 name:'Text_52',
 type:1250,
-from:91,
-to:342,
+from:9511,
+to:9762,
 rp:0,
 rpa:0,
 mdi:'si538c',
@@ -472,7 +472,7 @@ efva:[]
 eflh:[531],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"eqtk","text":"Lab Ready: ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:120"},{"offset":0,"length":11,"style":"mobile-fontSize:80"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"overridden:false"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:-1%"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"lineHeight:107%"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"tablet-fontSize:100"},{"offset":0,"length":11,"style":"textShadowY:4px"},{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"},{"offset":0,"length":11,"style":"color:#020C1C"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"false","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"eqtk","text":"Lab Ready: ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"overridden:false"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:-1%"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"lineHeight:107%"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"tablet-fontSize:100"},{"offset":0,"length":11,"style":"textShadowY:4px"},{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"},{"offset":0,"length":11,"style":"color:#020C1C"},{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:120"},{"offset":0,"length":11,"style":"mobile-fontSize:80"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"false","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -591,8 +591,8 @@ vb:[-1,-1,2,2]
 si547:{
 name:'Subtitle',
 type:1250,
-from:127,
-to:342,
+from:6901,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si547c',
@@ -754,8 +754,8 @@ vb:[-1,-1,2,2]
 si771:{
 name:'Block_Button_2',
 type:1268,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si771c',
@@ -921,8 +921,8 @@ vb:[-1,-1,1,1]
 si765:{
 name:'Block_Button_Group_2',
 type:1268,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si765c',
@@ -1125,8 +1125,8 @@ vb:[-1,-1,1,1]
 si633:{
 name:'Begin_Lesson_button',
 type:29,
-from:169,
-to:342,
+from:7018,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si633c',
@@ -1135,8 +1135,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:2.6,
-sid:5.8,
+siaf:5.1,
+sid:3.3,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -1281,8 +1281,8 @@ vb:[-2,-2,-1,-1]
 si647:{
 name:'Button_57',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si647c',
@@ -1436,8 +1436,8 @@ vb:[-2,-2,-1,-1]
 si661:{
 name:'Button_58',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si661c',
@@ -1591,8 +1591,8 @@ vb:[-2,-2,-1,-1]
 si675:{
 name:'Button_59',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si675c',
@@ -1746,8 +1746,8 @@ vb:[-2,-2,-1,-1]
 si689:{
 name:'Button_60',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si689c',
@@ -1901,8 +1901,8 @@ vb:[-2,-2,-1,-1]
 si703:{
 name:'Button_61',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si703c',
@@ -2056,8 +2056,8 @@ vb:[-2,-2,-1,-1]
 si717:{
 name:'Button_62',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si717c',
@@ -2211,8 +2211,8 @@ vb:[-2,-2,-1,-1]
 si731:{
 name:'Button_63',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si731c',
@@ -2366,8 +2366,8 @@ vb:[-2,-2,-1,-1]
 si745:{
 name:'Button_64',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si745c',
@@ -2521,8 +2521,8 @@ vb:[-2,-2,-1,-1]
 si759:{
 name:'Button_65',
 type:29,
-from:91,
-to:342,
+from:6865,
+to:7116,
 rp:0,
 rpa:0,
 mdi:'si759c',
@@ -2676,8 +2676,8 @@ vb:[-2,-2,-1,-1]
 Slide792:{
 lb:'Title',
 id:792,
-from:91,
-to:342,
+from:9511,
+to:9762,
 iols:0,
 i360qs:false,
 sdu:8.4,
@@ -2768,9 +2768,9 @@ uid:792,
 dn:'Slide792',
 visible:'1'
 },
-StAd1:{
-from:373,
-to:845,
+StAd28:{
+from:9793,
+to:10265,
 src:'ar/21511.mp3',
 du:15769,
 saup:[{
@@ -2785,8 +2785,8 @@ l:false
 si820:{
 name:'Paragraph_11',
 type:1268,
-from:343,
-to:846,
+from:7117,
+to:7620,
 rp:0,
 rpa:0,
 mdi:'si820c',
@@ -2952,8 +2952,8 @@ vb:[-1,-1,1,1]
 si828:{
 name:'Paragraph_Group_6',
 type:1268,
-from:343,
-to:846,
+from:7117,
+to:7620,
 rp:0,
 rpa:0,
 mdi:'si828c',
@@ -3128,8 +3128,8 @@ vb:[-1,-1,1,1]
 si836:{
 name:'Objectives_Title',
 type:1250,
-from:343,
-to:846,
+from:7117,
+to:7620,
 rp:0,
 rpa:0,
 mdi:'si836c',
@@ -3294,8 +3294,8 @@ vb:[-1,-1,2,2]
 si844:{
 name:'Objectives_Body',
 type:1250,
-from:367,
-to:846,
+from:7141,
+to:7620,
 rp:0,
 rpa:0,
 mdi:'si844c',
@@ -3460,8 +3460,8 @@ vb:[-1,-1,2,2]
 si860:{
 name:'Button_66',
 type:29,
-from:424,
-to:846,
+from:7513,
+to:7620,
 rp:0,
 rpa:0,
 mdi:'si860c',
@@ -3470,8 +3470,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:2.7,
-sid:14.1,
+siaf:13.2,
+sid:3.6,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -3616,8 +3616,8 @@ vb:[-2,-2,-1,-1]
 Slide793:{
 lb:'Objective',
 id:793,
-from:343,
-to:846,
+from:7117,
+to:7620,
 iols:0,
 i360qs:false,
 sdu:16.8,
@@ -3702,9 +3702,9 @@ uid:793,
 dn:'Slide793',
 visible:'1'
 },
-StAd2:{
-from:862,
-to:952,
+StAd29:{
+from:9778,
+to:9868,
 src:'ar/21513.mp3',
 du:3042,
 saup:[{
@@ -10323,9 +10323,9 @@ uid:902,
 dn:'Slide902',
 visible:'1'
 },
-StAd3:{
-from:1282,
-to:1583,
+StAd30:{
+from:9793,
+to:10094,
 src:'ar/21445.mp3',
 du:10075,
 saup:[{
@@ -37462,9 +37462,9 @@ uid:19503,
 dn:'Slide19503',
 visible:'1'
 },
-StAd4:{
-from:1693,
-to:2077,
+StAd31:{
+from:9781,
+to:10165,
 src:'ar/21515.mp3',
 du:12863,
 saup:[{
@@ -51678,9 +51678,9 @@ uid:3177,
 dn:'Slide3177',
 visible:'1'
 },
-StAd5:{
-from:2098,
-to:2275,
+StAd32:{
+from:9781,
+to:9958,
 src:'ar/21517.mp3',
 du:5936,
 saup:[{
@@ -61734,9 +61734,9 @@ uid:5348,
 dn:'Slide5348',
 visible:'1'
 },
-StAd6:{
-from:2308,
-to:2549,
+StAd33:{
+from:9781,
+to:10022,
 src:'ar/21519.mp3',
 du:8126,
 saup:[{
@@ -76640,9 +76640,9 @@ uid:7383,
 dn:'Slide7383',
 visible:'1'
 },
-StAd7:{
-from:2569,
-to:3098,
+StAd34:{
+from:9781,
+to:10310,
 src:'ar/21521.mp3',
 du:17734,
 saup:[{
@@ -76657,8 +76657,8 @@ l:false
 si10076:{
 name:'Text_Group',
 type:1268,
-from:2551,
-to:3099,
+from:6226,
+to:6774,
 rp:0,
 rpa:0,
 mdi:'si10076c',
@@ -76824,8 +76824,8 @@ vb:[-1,-1,1,1]
 si10084:{
 name:'Paragraph_Group_8',
 type:1268,
-from:2551,
-to:3099,
+from:6226,
+to:6774,
 rp:0,
 rpa:0,
 mdi:'si10084c',
@@ -77000,8 +77000,8 @@ vb:[-1,-1,1,1]
 si10092:{
 name:'title_quiz',
 type:1250,
-from:2551,
-to:3099,
+from:6226,
+to:6774,
 rp:0,
 rpa:0,
 mdi:'si10092c',
@@ -77166,8 +77166,8 @@ vb:[-1,-1,2,2]
 si10108:{
 name:'Instructions1',
 type:1250,
-from:2581,
-to:3099,
+from:6256,
+to:6774,
 rp:0,
 rpa:0,
 mdi:'si10108c',
@@ -77332,8 +77332,8 @@ vb:[-1,-1,2,2]
 si10116:{
 name:'Start_Quiz',
 type:29,
-from:2611,
-to:3099,
+from:6646,
+to:6774,
 rp:0,
 rpa:0,
 mdi:'si10116c',
@@ -77342,8 +77342,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:2,
-sid:16.3,
+siaf:14,
+sid:4.3,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -77358,9 +77358,22 @@ retainState:false,
 immo:false,
 apsn:'Slide10045',
 efph:{
+21527:{
+efdu:0.6,
+efde:0,
+efa:7,
+efre:1,
+efdi:8,
+efe:214,
+efty:0,
+eftd:0,
+efdaa:true,
+efva:[]
+}
+
 }
 ,
-eflh:[],
+eflh:[21527],
 oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(12952);"]]}]}',
 iflbx:false,
 ipflbx:true,
@@ -77488,8 +77501,8 @@ vb:[-2,-2,-1,-1]
 Slide10045:{
 lb:'Quiz',
 id:10045,
-from:2551,
-to:3099,
+from:6226,
+to:6774,
 iols:0,
 i360qs:false,
 sdu:18.3,
@@ -115458,9 +115471,9 @@ uid:10564,
 dn:'Slide10564',
 visible:'1'
 },
-StAd8:{
-from:4348,
-to:4610,
+StAd35:{
+from:9781,
+to:10043,
 src:'ar/21523.mp3',
 du:8773,
 saup:[{
@@ -115475,8 +115488,8 @@ l:false
 si21304:{
 name:'Image_1',
 type:1268,
-from:4330,
-to:6129,
+from:7621,
+to:9420,
 rp:0,
 rpa:0,
 mdi:'si21304c',
@@ -115664,8 +115677,8 @@ vb:[-1,-1,1,1]
 si21312:{
 name:'Image_Group_1',
 type:1268,
-from:4330,
-to:6129,
+from:7621,
+to:9420,
 rp:0,
 rpa:0,
 mdi:'si21312c',
@@ -115840,8 +115853,8 @@ vb:[-1,-1,1,1]
 si21323:{
 name:'ChatGPT_Image_Apr_21__2026__01_50_53_PM',
 type:15,
-from:4330,
-to:6129,
+from:7621,
+to:9420,
 rp:0,
 rpa:0,
 mdi:'si21323c',
@@ -116049,8 +116062,8 @@ vb:[-1,-1,1537,1025]
 si21333:{
 name:'Image_Group_Text_7',
 type:1268,
-from:4360,
-to:6129,
+from:7651,
+to:9420,
 rp:0,
 rpa:0,
 mdi:'si21333c',
@@ -116220,8 +116233,8 @@ vb:[-1,-1,1,1]
 si21341:{
 name:'Title_complete',
 type:1250,
-from:4360,
-to:6129,
+from:7651,
+to:9420,
 rp:0,
 rpa:0,
 mdi:'si21341c',
@@ -116386,8 +116399,8 @@ vb:[-1,-1,2,2]
 si21349:{
 name:'Reminders',
 type:1250,
-from:4390,
-to:6129,
+from:7681,
+to:9420,
 rp:0,
 rpa:0,
 mdi:'si21349c',
@@ -116552,8 +116565,8 @@ vb:[-1,-1,2,2]
 si21357:{
 name:'Submit_and_Exit',
 type:29,
-from:4450,
-to:6129,
+from:7852,
+to:9420,
 rp:0,
 rpa:0,
 mdi:'si21357c',
@@ -116562,8 +116575,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:4,
-sid:56,
+siaf:7.7,
+sid:52.3,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -116734,8 +116747,8 @@ vb:[-2,-2,-1,-1]
 Slide21282:{
 lb:'Completed',
 id:21282,
-from:4330,
-to:6129,
+from:7621,
+to:9420,
 iols:0,
 i360qs:false,
 sdu:60,
@@ -117057,7 +117070,7 @@ vt:9
 var351var351:{
 vid:351,
 name:'Project.ShowPlaybar',
-vv:0,
+vv:1,
 vvt:0,
 vt:9
 },
@@ -117390,7 +117403,7 @@ kCPDropReject:''
 }
 ,
 prjBgColor:'#ffffff',
-pkt:0,
+pkt:1,
 htmlBgColor:'#f5f4f1',
 shc:false,
 pN:'Lab Safety.cpt'
@@ -117425,7 +117438,7 @@ dsType:0,
 dsWidth:80
 }
 ,
-slideAudios:'StAd0,StAd1,StAd2,StAd3,StAd4,StAd5,StAd6,StAd7,StAd8',
+slideAudios:'StAd27,StAd28,StAd29,StAd30,StAd31,StAd32,StAd33,StAd34,StAd35',
 vestr:0,
 vim:0,
 slides:'Slide792,Slide793,Slide902,Slide17766,Slide19503,Slide3177,Slide5348,Slide7383,Slide10045,Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300,Slide10564,Slide21282,Slide21469',
@@ -117468,18 +117481,18 @@ locale:0
 },
 tocProperties:{
 enableNavigation:true,
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":792,"isQuizSlide":false,"label":"Title","slideVisited":false,"type":"slide","id":"Slide792"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":793,"isQuizSlide":false,"label":"Objective","slideVisited":false,"type":"slide","id":"Slide793"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":902,"isQuizSlide":false,"label":"Course Overview","slideVisited":false,"type":"slide","id":"Slide902"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17766,"isQuizSlide":false,"label":"Lab Equipment pg 1","slideVisited":false,"type":"slide","id":"Slide17766"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19503,"isQuizSlide":false,"label":"Lab Equipment pg 2","slideVisited":false,"type":"slide","id":"Slide19503"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3177,"isQuizSlide":false,"label":"Lab Rules and Procedures","slideVisited":false,"type":"slide","id":"Slide3177"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5348,"isQuizSlide":false,"label":"Drag and Drop Quick Check for Lab Equip","slideVisited":false,"type":"slide","id":"Slide5348"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7383,"isQuizSlide":false,"label":"Lab Rules and Procedures Quick Check","slideVisited":false,"type":"slide","id":"Slide7383"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10045,"isQuizSlide":false,"label":"Quiz","slideVisited":false,"type":"slide","id":"Slide10045"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10281,"isQuizSlide":true,"label":"Matching Lab Equipment","slideVisited":false,"type":"slide","id":"Slide10281"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14653,"isQuizSlide":true,"label":"Correct Incorrect 1","slideVisited":false,"type":"slide","id":"Slide14653"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15186,"isQuizSlide":true,"label":"Correct Incorrect 2","slideVisited":false,"type":"slide","id":"Slide15186"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15453,"isQuizSlide":true,"label":"Correct Incorrect 3","slideVisited":false,"type":"slide","id":"Slide15453"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15720,"isQuizSlide":true,"label":"Correct Incorrect 4","slideVisited":false,"type":"slide","id":"Slide15720"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15721,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide15721"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16300,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide16300"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":10564,"isQuizSlide":true,"label":"Results","slideVisited":false,"type":"slide","id":"Slide10564"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21282,"isQuizSlide":false,"label":"Completed","slideVisited":false,"type":"slide","id":"Slide21282"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21469,"isQuizSlide":false,"label":"End","slideVisited":false,"type":"slide","id":"Slide21469"}],"tocGeneratedOnPreviewClick":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":792,"isQuizSlide":false,"label":"Title","slideVisited":false,"type":"slide","id":"Slide792"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":793,"isQuizSlide":false,"label":"Objective","slideVisited":false,"type":"slide","id":"Slide793"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":902,"isQuizSlide":false,"label":"Course Overview","slideVisited":false,"type":"slide","id":"Slide902"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17766,"isQuizSlide":false,"label":"Lab Equipment pg 1","slideVisited":false,"type":"slide","id":"Slide17766"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19503,"isQuizSlide":false,"label":"Lab Equipment pg 2","slideVisited":false,"type":"slide","id":"Slide19503"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3177,"isQuizSlide":false,"label":"Lab Rules and Procedures","slideVisited":false,"type":"slide","id":"Slide3177"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5348,"isQuizSlide":false,"label":"Drag and Drop Quick Check for Lab Equip","slideVisited":false,"type":"slide","id":"Slide5348"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7383,"isQuizSlide":false,"label":"Lab Rules and Procedures Quick Check","slideVisited":false,"type":"slide","id":"Slide7383"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10045,"isQuizSlide":false,"label":"Quiz","slideVisited":false,"type":"slide","id":"Slide10045"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10281,"isQuizSlide":true,"label":"Matching Lab Equipment","slideVisited":false,"type":"slide","id":"Slide10281"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14653,"isQuizSlide":true,"label":"Correct Incorrect 1","slideVisited":false,"type":"slide","id":"Slide14653"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15186,"isQuizSlide":true,"label":"Correct Incorrect 2","slideVisited":false,"type":"slide","id":"Slide15186"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15453,"isQuizSlide":true,"label":"Correct Incorrect 3","slideVisited":false,"type":"slide","id":"Slide15453"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15720,"isQuizSlide":true,"label":"Correct Incorrect 4","slideVisited":false,"type":"slide","id":"Slide15720"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15721,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide15721"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16300,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide16300"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":10564,"isQuizSlide":true,"label":"Results","slideVisited":false,"type":"slide","id":"Slide10564"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21282,"isQuizSlide":false,"label":"Completed","slideVisited":false,"type":"slide","id":"Slide21282"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21469,"isQuizSlide":false,"label":"End","slideVisited":false,"type":"slide","id":"Slide21469"}],"tocGeneratedOnPreviewClick":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":false,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
 usedFonts:'["Georgia","Arial","Acme","Montserrat"]'
 },
 trecs:[{
 link:792,
-text:['""']
+text:['""','""','""']
 }
 ,{
 link:793,
-text:['""']
+text:['""','""']
 }
 ,{
 link:902,
@@ -117507,7 +117520,7 @@ text:['""']
 }
 ,{
 link:10045,
-text:['""']
+text:['""','""']
 }
 ,{
 link:10281,
@@ -117539,7 +117552,7 @@ text:[]
 }
 ,{
 link:21282,
-text:['""']
+text:['""','""']
 }
 ,{
 link:21469,
@@ -117990,6 +118003,15 @@ ipiv:{
 
 }
 ,{
+ip:'dr/08325.jpg',
+ipiv:{
+430:1,
+768:1,
+1280:1
+}
+
+}
+,{
 ip:'dr/08333.png',
 ipiv:{
 430:1,
@@ -118154,7 +118176,7 @@ resources:['dr/013024.svg','dr/013576.png','dr/013686.png','dr/019504.png','dr/0
 ,{
 slideID:5,
 ResourceList:{
-resources:['dr/02280.svg','dr/02300.svg','dr/0558.svg','dr/08321.jpg','dr/08333.png','dr/08339.png','dr/08342.png','dr/08345.png','dr/08348.png','dr/08359.png']
+resources:['dr/02280.svg','dr/02300.svg','dr/02376.svg','dr/02387.svg','dr/03066.svg','dr/0558.svg','dr/08321.jpg','dr/08333.png','dr/08339.png','dr/08342.png','dr/08345.png','dr/08348.png','dr/08359.png']
 }
 
 }
@@ -118168,7 +118190,7 @@ resources:['dr/011866.jpg','dr/01369.svg','dr/02280.svg','dr/05288.jpg','dr/0598
 ,{
 slideID:7,
 ResourceList:{
-resources:['dr/016863.png','dr/02280.svg','dr/0558.svg','dr/0619.svg','dr/06598.png','dr/06708.png','dr/06818.png','dr/06928.png','dr/07038.png','dr/07148.png','dr/08321.jpg']
+resources:['dr/016863.png','dr/02280.svg','dr/0558.svg','dr/0619.svg','dr/06598.png','dr/06708.png','dr/06818.png','dr/06928.png','dr/07038.png','dr/07148.png','dr/07250.svg','dr/08321.jpg']
 }
 
 }
@@ -118182,7 +118204,7 @@ resources:['dr/011271.jpg','dr/0558.svg']
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/0558.svg']
+resources:['dr/0558.svg','dr/08325.jpg']
 }
 
 }
@@ -118260,7 +118282,7 @@ resources:['ar/21509.mp3']
 ,{
 slideID:1,
 ResourceList:{
-resources:['ar/21511.mp3']
+resources:['ar/21511.mp3','ar/KeyClick.mp3']
 }
 
 }
@@ -118324,6 +118346,7 @@ cp.model.tocVideos=[
 cp.model.audios=[
 'ar/21509.mp3',
 'ar/21511.mp3',
+'ar/KeyClick.mp3',
 'ar/21513.mp3',
 'ar/21445.mp3',
 'ar/21515.mp3',
@@ -118351,7 +118374,7 @@ cp.cv('Project.CurrentSlideName','slide',1,15,0);
 cp.cv('Project.CurrentSlideNumber',1,1,15,0);
 cp.cv('Project.LockTOC',0,1,15,0);
 cp.cv('Project.MuteAudio',0,1,15,0);
-cp.cv('Project.ShowPlaybar',0,1,15,0);
+cp.cv('Project.ShowPlaybar',1,1,15,0);
 cp.cv('Project.ShowTOC',0,1,15,0);
 cp.cv('Project.SlideCount',1,1,15,0);
 cp.cv('Question.AnswerChoice','',1,15,0);
