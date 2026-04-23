@@ -5,9 +5,9 @@
 "tags":"",
 "thumbnail":"",
 "source":"assets",
-"durationInFrames":1620,
+"durationInFrames":1710,
 "frameRate":30,
-"totalSlides":18,
+"totalSlides":19,
 "width":1366,
 "height":768,
 "responsive":true,
@@ -326,7 +326,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":219
+"durationInFrames":222
 }
 ,
 "navigation":{
@@ -463,7 +463,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":486
 }
 ,
 "navigation":{
@@ -1199,7 +1199,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":144
+"durationInFrames":405
 }
 ,
 "navigation":{
@@ -2244,7 +2244,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":303
 }
 ,
 "navigation":{
@@ -4372,7 +4372,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":387
 }
 ,
 "navigation":{
@@ -5075,7 +5075,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":210
 }
 ,
 "navigation":{
@@ -6183,7 +6183,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":243
 }
 ,
 "navigation":{
@@ -6307,7 +6307,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":531
 }
 ,
 "navigation":{
@@ -8875,6 +8875,24 @@
 
 },
 {
+"id":"Slide21469",
+"class":"Normal Slide",
+"instance":"Blank 1",
+"thumbnail":"",
+"children":[],
+"roles":{
+"slide":{
+"durationInFrames":6
+}
+,
+"navigation":{
+"navid":"Slide21469"
+}
+
+}
+
+},
+{
 "id":"Pool243",
 "class":"pool",
 "roles":{
@@ -8891,7 +8909,7 @@
 "id":"Lab Safety",
 "class":"project",
 "title":"Lab Safety",
-"children":["Slide792","Slide793","Slide902","Slide17766","Slide19503","Slide3177","Slide5348","Slide7383","Slide10045","Slide10281","Slide14653","Slide15186","Slide15453","Slide15720","Slide15721","Slide16300","Slide10564","Slide21282"],
+"children":["Slide792","Slide793","Slide902","Slide17766","Slide19503","Slide3177","Slide5348","Slide7383","Slide10045","Slide10281","Slide14653","Slide15186","Slide15453","Slide15720","Slide15721","Slide16300","Slide10564","Slide21282","Slide21469"],
 "roles":{
 "quiz":{
 "id":199,
@@ -9017,6 +9035,10 @@
 ,{
 "id":"Slide21282",
 "title":"Completed"
+}
+,{
+"id":"Slide21469",
+"title":"Blank 1"
 }
 ]
 }
