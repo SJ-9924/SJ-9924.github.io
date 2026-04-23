@@ -391,6 +391,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"855",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -702,6 +715,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"1050",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1005,6 +1031,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"1227",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1081,6 +1120,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"1286",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1155,6 +1207,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"1344",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -8864,7 +8929,7 @@
 {
 "id":"Slide21469",
 "class":"Normal Slide",
-"instance":"Blank 1",
+"instance":"End",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -8893,9 +8958,9 @@
 
 },
 {
-"id":"Lab Safety copy",
+"id":"Lab Safety",
 "class":"project",
-"title":"Lab Safety copy",
+"title":"Lab Safety",
 "children":["Slide792","Slide793","Slide902","Slide17766","Slide19503","Slide3177","Slide5348","Slide7383","Slide10045","Slide10281","Slide14653","Slide15186","Slide15453","Slide15720","Slide15721","Slide16300","Slide10564","Slide21282","Slide21469"],
 "roles":{
 "quiz":{
@@ -9025,7 +9090,7 @@
 }
 ,{
 "id":"Slide21469",
-"title":"Blank 1"
+"title":"End"
 }
 ]
 }
