@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:1,
-to:90,
+from:6232,
+to:6321,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -84,9 +84,9 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd0:{
-from:121,
-to:341,
+StAd18:{
+from:6352,
+to:6572,
 src:'ar/21509.mp3',
 du:7383,
 saup:[{
@@ -3208,9 +3208,9 @@ uid:792,
 dn:'Slide792',
 visible:'1'
 },
-StAd1:{
-from:373,
-to:845,
+StAd19:{
+from:6352,
+to:6824,
 src:'ar/21511.mp3',
 du:15769,
 saup:[{
@@ -4286,9 +4286,9 @@ uid:793,
 dn:'Slide793',
 visible:'1'
 },
-StAd2:{
-from:862,
-to:952,
+StAd20:{
+from:6337,
+to:6427,
 src:'ar/21513.mp3',
 du:3042,
 saup:[{
@@ -11834,9 +11834,9 @@ uid:902,
 dn:'Slide902',
 visible:'1'
 },
-StAd3:{
-from:1282,
-to:1583,
+StAd21:{
+from:6352,
+to:6653,
 src:'ar/21445.mp3',
 du:10075,
 saup:[{
@@ -43281,9 +43281,9 @@ uid:19503,
 dn:'Slide19503',
 visible:'1'
 },
-StAd4:{
-from:1693,
-to:2077,
+StAd22:{
+from:6340,
+to:6724,
 src:'ar/21515.mp3',
 du:12863,
 saup:[{
@@ -59726,9 +59726,9 @@ uid:3177,
 dn:'Slide3177',
 visible:'1'
 },
-StAd5:{
-from:2098,
-to:2275,
+StAd23:{
+from:6340,
+to:6517,
 src:'ar/21517.mp3',
 du:5936,
 saup:[{
@@ -71342,9 +71342,9 @@ uid:5348,
 dn:'Slide5348',
 visible:'1'
 },
-StAd6:{
-from:2308,
-to:2549,
+StAd24:{
+from:6340,
+to:6581,
 src:'ar/21519.mp3',
 du:8126,
 saup:[{
@@ -71359,8 +71359,8 @@ l:false
 si7401:{
 name:'Hotspot_Widget_1',
 type:1268,
-from:2290,
-to:2550,
+from:6322,
+to:6582,
 rp:0,
 rpa:0,
 mdi:'si7401c',
@@ -71541,6 +71541,32 @@ Mh:''
 p:'absolute',
 ipiv:1
 }
+,
+1920:{
+l:'0px',
+t:'0px',
+b:'auto',
+r:'auto',
+lhEID:0,
+lhV:'0px',
+lhID:-1,
+lvEID:0,
+lvV:'0px',
+lvID:-1,
+w:'0px',
+h:'0px',
+cah:false,
+cav:false,
+rpmm:{
+mw:'1px',
+mh:'1px',
+Mw:'',
+Mh:''
+}
+,
+p:'absolute',
+ipiv:1
+}
 
 }
 ,
@@ -71590,8 +71616,8 @@ vb:[-1,-1,1,1]
 si7409:{
 name:'Title_1',
 type:1250,
-from:2290,
-to:2550,
+from:6322,
+to:6582,
 rp:0,
 rpa:0,
 mdi:'si7409c',
@@ -71621,7 +71647,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"644bk","text":"Lab Rules and Procedures Quick Check","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":36,"style":"overridden:false"},{"offset":0,"length":36,"style":"hlnk:"},{"offset":0,"length":36,"style":"hlnkt:wp"},{"offset":0,"length":36,"style":"textOutlineEnable:false"},{"offset":0,"length":36,"style":"opacity:1"},{"offset":0,"length":36,"style":"hlnke:true"},{"offset":0,"length":36,"style":"backgroundColor:unset"},{"offset":0,"length":36,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":36,"style":"textHighlightEnable:false"},{"offset":0,"length":36,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"presetId":"text-heading-5","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"644bk","text":"Lab Rules and Procedures Quick Check","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":36,"style":"hlnkt:wp"},{"offset":0,"length":36,"style":"textOutlineEnable:false"},{"offset":0,"length":36,"style":"opacity:1"},{"offset":0,"length":36,"style":"hlnke:true"},{"offset":0,"length":36,"style":"backgroundColor:unset"},{"offset":0,"length":36,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":36,"style":"textHighlightEnable:false"},{"offset":0,"length":36,"style":"textShadowEnable:false"},{"offset":0,"length":36,"style":"overridden:false"},{"offset":0,"length":36,"style":"hlnk:"}],"entityRanges":[],"data":{"presetId":"text-heading-5","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -71740,6 +71766,33 @@ lhV:'0.000%',
 lhID:-1,
 lvEID:0,
 lvV:'0.000%',
+lvID:-1,
+w:'0.073%',
+h:'auto',
+apr:'1.000',
+cah:false,
+cav:false,
+rpmm:{
+mw:'0px',
+mh:'1px',
+Mw:'',
+Mh:''
+}
+,
+p:'absolute',
+ipiv:1
+}
+,
+1920:{
+l:'0px',
+t:'0px',
+b:'auto',
+r:'auto',
+lhEID:0,
+lhV:'0px',
+lhID:-1,
+lvEID:0,
+lvV:'0px',
 lvID:-1,
 w:'0.073%',
 h:'auto',
@@ -88487,8 +88540,8 @@ vb:[-2,-2,-1,-1]
 Slide7383:{
 lb:'Lab Rules and Procedures Quick Check',
 id:7383,
-from:2290,
-to:2550,
+from:6322,
+to:6582,
 iols:0,
 i360qs:false,
 sdu:8.7,
@@ -88586,9 +88639,9 @@ uid:7383,
 dn:'Slide7383',
 visible:'1'
 },
-StAd7:{
-from:2569,
-to:3098,
+StAd25:{
+from:6601,
+to:7130,
 src:'ar/21521.mp3',
 du:17734,
 saup:[{
@@ -133592,9 +133645,9 @@ uid:10564,
 dn:'Slide10564',
 visible:'1'
 },
-StAd8:{
-from:4348,
-to:4610,
+StAd26:{
+from:6601,
+to:6863,
 src:'ar/21523.mp3',
 du:8773,
 saup:[{
@@ -135142,8 +135195,8 @@ visible:'1'
 Slide21469:{
 lb:'Blank 1',
 id:21469,
-from:6130,
-to:6135,
+from:6226,
+to:6231,
 iols:0,
 i360qs:false,
 sdu:0.2,
@@ -135741,7 +135794,7 @@ kCPDropReject:''
 }
 ,
 prjBgColor:'#ffffff',
-pkt:0,
+pkt:1,
 htmlBgColor:'#f5f4f1',
 shc:false,
 pN:'Lab Safety copy.cpt'
@@ -135773,10 +135826,10 @@ isPublishedFromLacuna:false,
 ivne:false,
 deviceScaling:{
 dsType:1,
-dsWidth:70
+dsWidth:80
 }
 ,
-slideAudios:'StAd0,StAd1,StAd2,StAd3,StAd4,StAd5,StAd6,StAd7,StAd8',
+slideAudios:'StAd18,StAd19,StAd20,StAd21,StAd22,StAd23,StAd24,StAd25,StAd26',
 vestr:0,
 vim:0,
 slides:'Slide792,Slide793,Slide902,Slide17766,Slide19503,Slide3177,Slide5348,Slide7383,Slide10045,Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300,Slide10564,Slide21282,Slide21469',
@@ -135784,7 +135837,7 @@ questionSlides:'Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide1572
 questions:'Slide10281q0,Slide14653q1,Slide15186q2,Slide15453q3,Slide15720q4,Slide15721q5,Slide16300q6',
 autoplay:false,
 preloader:true,
-preloaderFileName:'dr/loading.gif',
+preloaderFileName:'dr/021525.jpg',
 preloaderPercentage:100,
 pprtd:false,
 peon:false,
@@ -135854,7 +135907,7 @@ text:['""']
 }
 ,{
 link:7383,
-text:['""']
+text:['""','""']
 }
 ,{
 link:10045,
@@ -135969,7 +136022,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136019,7 +136073,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136059,7 +136114,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136164,12 +136220,24 @@ ipiv:{
 
 }
 ,{
+ip:'dr/021525.jpg',
+ipiv:{
+430:1,
+768:1,
+1280:1,
+1366:1,
+1920:1
+}
+
+}
+,{
 ip:'dr/02280.svg',
 ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136179,7 +136247,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136239,7 +136308,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136249,7 +136319,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136269,7 +136340,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136359,7 +136431,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136369,7 +136442,19 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
+}
+
+}
+,{
+ip:'dr/08325.jpg',
+ipiv:{
+430:1,
+768:1,
+1280:1,
+1366:1,
+1920:1
 }
 
 }
@@ -136429,7 +136514,8 @@ ipiv:{
 430:1,
 768:1,
 1280:1,
-1366:1
+1366:1,
+1920:1
 }
 
 }
@@ -136552,7 +136638,7 @@ resources:['dr/013024.svg','dr/013576.png','dr/013686.png','dr/019504.png','dr/0
 ,{
 slideID:5,
 ResourceList:{
-resources:['dr/02280.svg','dr/02300.svg','dr/0558.svg','dr/08321.jpg','dr/08333.png','dr/08339.png','dr/08342.png','dr/08345.png','dr/08348.png','dr/08359.png']
+resources:['dr/02280.svg','dr/02300.svg','dr/02376.svg','dr/02387.svg','dr/03066.svg','dr/0558.svg','dr/08321.jpg','dr/08333.png','dr/08339.png','dr/08342.png','dr/08345.png','dr/08348.png','dr/08359.png']
 }
 
 }
@@ -136566,7 +136652,7 @@ resources:['dr/011866.jpg','dr/01369.svg','dr/02280.svg','dr/05288.jpg','dr/0598
 ,{
 slideID:7,
 ResourceList:{
-resources:['dr/016863.png','dr/02280.svg','dr/0558.svg','dr/0619.svg','dr/06598.png','dr/06708.png','dr/06818.png','dr/06928.png','dr/07038.png','dr/07148.png','dr/08321.jpg']
+resources:['dr/016863.png','dr/02280.svg','dr/0558.svg','dr/0619.svg','dr/06598.png','dr/06708.png','dr/06818.png','dr/06928.png','dr/07038.png','dr/07148.png','dr/07250.svg','dr/08321.jpg']
 }
 
 }
@@ -136580,7 +136666,7 @@ resources:['dr/011271.jpg','dr/0558.svg']
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/0558.svg']
+resources:['dr/0558.svg','dr/08325.jpg']
 }
 
 }
@@ -136651,7 +136737,7 @@ resources:['dr/08323.jpg']
 cp.model.audioresources=[{
 slideID:0,
 ResourceList:{
-resources:['ar/21509.mp3']
+resources:['ar/21509.mp3','ar/KeyClick.mp3']
 }
 
 }
@@ -136721,6 +136807,7 @@ cp.model.tocVideos=[
 ];
 cp.model.audios=[
 'ar/21509.mp3',
+'ar/KeyClick.mp3',
 'ar/21511.mp3',
 'ar/21513.mp3',
 'ar/21445.mp3',

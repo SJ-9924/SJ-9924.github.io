@@ -46,6 +46,7 @@
 <file href="ar/21519.mp3"/> 
 <file href="ar/21521.mp3"/> 
 <file href="ar/21523.mp3"/> 
+<file href="ar/KeyClick.mp3"/> 
 <file href="assets/htmlimages/Answer_checkbox_correct.png"/> 
 <file href="assets/htmlimages/Answer_checkbox_incorrect.png"/> 
 <file href="assets/htmlimages/Answer_radio_correct.png"/> 
@@ -80,6 +81,7 @@
 <file href="dr/019510.png"/> 
 <file href="dr/019512.png"/> 
 <file href="dr/021409.png"/> 
+<file href="dr/021525.jpg"/> 
 <file href="dr/02280.svg"/> 
 <file href="dr/02300.svg"/> 
 <file href="dr/02376.svg"/> 
@@ -101,6 +103,7 @@
 <file href="dr/0786.jpg"/> 
 <file href="dr/08321.jpg"/> 
 <file href="dr/08323.jpg"/> 
+<file href="dr/08325.jpg"/> 
 <file href="dr/08333.png"/> 
 <file href="dr/08339.png"/> 
 <file href="dr/08342.png"/> 
@@ -115,7 +118,6 @@
 <file href="dr/08379.jpg"/> 
 <file href="dr/08382.jpg"/> 
 <file href="dr/08384.jpg"/> 
-<file href="dr/loading.gif"/> 
 <file href="goodbye.html"/> 
 <file href="index.html"/> 
 <file href="pools/243/243.js"/> 
