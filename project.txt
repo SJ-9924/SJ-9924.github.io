@@ -5,9 +5,9 @@
 "tags":"",
 "thumbnail":"",
 "source":"assets",
-"durationInFrames":1710,
+"durationInFrames":1620,
 "frameRate":30,
-"totalSlides":19,
+"totalSlides":18,
 "width":1366,
 "height":768,
 "responsive":true,
@@ -6545,7 +6545,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6562,7 +6562,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6579,7 +6579,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6596,7 +6596,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6613,7 +6613,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6630,7 +6630,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6647,7 +6647,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6664,7 +6664,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -6681,7 +6681,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide10281q0"
+"question":"Slide10281q6"
 }
 ,
 "textData":{
@@ -7656,7 +7656,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -7673,7 +7673,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -7690,7 +7690,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -7707,7 +7707,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -7724,7 +7724,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -7741,7 +7741,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -7758,7 +7758,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -7775,7 +7775,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide15720q4"
+"question":"Slide15720q6"
 }
 ,
 "textData":{
@@ -8866,7 +8866,7 @@
 {
 "id":"si21357",
 "class":"TODO::Senthil",
-"instance":"Submit_and_Exit",
+"instance":"Close_browser_button",
 "roles":{
 "click":{
 "subtype":"button"
@@ -8927,24 +8927,6 @@
 
 },
 {
-"id":"Slide21469",
-"class":"Normal Slide",
-"instance":"End",
-"thumbnail":"",
-"children":[],
-"roles":{
-"slide":{
-"durationInFrames":6
-}
-,
-"navigation":{
-"navid":"Slide21469"
-}
-
-}
-
-},
-{
 "id":"Pool243",
 "class":"pool",
 "roles":{
@@ -8961,14 +8943,14 @@
 "id":"Lab Safety",
 "class":"project",
 "title":"Lab Safety",
-"children":["Slide792","Slide793","Slide902","Slide17766","Slide19503","Slide3177","Slide5348","Slide7383","Slide10045","Slide10281","Slide14653","Slide15186","Slide15453","Slide15720","Slide15721","Slide16300","Slide10564","Slide21282","Slide21469"],
+"children":["Slide792","Slide793","Slide902","Slide17766","Slide19503","Slide3177","Slide5348","Slide7383","Slide10045","Slide10281","Slide14653","Slide15186","Slide15453","Slide15720","Slide15721","Slide16300","Slide10564","Slide21282"],
 "roles":{
 "quiz":{
 "id":199,
 "branched":false,
 "submitAll":false,
 "review":true,
-"questions":["Slide10281q0","Slide14653q1","Slide15186q2","Slide15453q3","Slide15720q4","Slide15721q5","Slide16300q6"],
+"questions":["Slide10281q6","Slide14653q1","Slide15186q2","Slide15453q3","Slide15720q6","Slide15721q5","Slide16300q6"],
 "minScore":0,
 "maxScore":50,
 "passScore":35
@@ -9004,14 +8986,14 @@
 "CCData":{
 "viewDataIsPercent":true,
 "viewData":100,
-"quizData":"quiz_attempted"
+"quizData":"quizpassed_or_limitreached"
 }
 ,
 "SCCriteria":"viewPercent_or_quiz",
 "SCData":{
 "viewDataIsPercent":true,
 "viewData":100,
-"quizData":"quiz_attempted"
+"quizData":"quizpassed_or_limitreached"
 }
 ,
 "exitNormalIfCompleted":false
@@ -9087,10 +9069,6 @@
 ,{
 "id":"Slide21282",
 "title":"Completed"
-}
-,{
-"id":"Slide21469",
-"title":"End"
 }
 ]
 }

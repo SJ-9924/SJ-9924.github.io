@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:9421,
-to:9510,
+from:12436,
+to:12525,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72,9 +72,9 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd27:{
-from:9541,
-to:9761,
+StAd54:{
+from:12556,
+to:12776,
 src:'ar/21509.mp3',
 du:7383,
 saup:[{
@@ -89,8 +89,8 @@ l:false
 si612:{
 name:'Paragraph_10',
 type:1268,
-from:9511,
-to:9762,
+from:12184,
+to:12435,
 rp:0,
 rpa:0,
 mdi:'si612c',
@@ -256,8 +256,8 @@ vb:[-1,-1,1,1]
 si606:{
 name:'Paragraph_Group_5',
 type:1268,
-from:9511,
-to:9762,
+from:12184,
+to:12435,
 rp:0,
 rpa:0,
 mdi:'si606c',
@@ -428,8 +428,8 @@ vb:[-1,-1,1,1]
 si538:{
 name:'Text_52',
 type:1250,
-from:9511,
-to:9762,
+from:12184,
+to:12435,
 rp:0,
 rpa:0,
 mdi:'si538c',
@@ -472,7 +472,7 @@ efva:[]
 eflh:[531],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"eqtk","text":"Lab Ready: ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"overridden:false"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:-1%"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"lineHeight:107%"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"tablet-fontSize:100"},{"offset":0,"length":11,"style":"textShadowY:4px"},{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"},{"offset":0,"length":11,"style":"color:#020C1C"},{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:120"},{"offset":0,"length":11,"style":"mobile-fontSize:80"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"false","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"eqtk","text":"Lab Ready: ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"color:#020C1C"},{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:120"},{"offset":0,"length":11,"style":"mobile-fontSize:80"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"overridden:false"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:-1%"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"lineHeight:107%"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"tablet-fontSize:100"},{"offset":0,"length":11,"style":"textShadowY:4px"},{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"false","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -2676,8 +2676,8 @@ vb:[-2,-2,-1,-1]
 Slide792:{
 lb:'Title',
 id:792,
-from:9511,
-to:9762,
+from:12184,
+to:12435,
 iols:0,
 i360qs:false,
 sdu:8.4,
@@ -2768,9 +2768,9 @@ uid:792,
 dn:'Slide792',
 visible:'1'
 },
-StAd28:{
-from:9793,
-to:10265,
+StAd55:{
+from:12556,
+to:13028,
 src:'ar/21511.mp3',
 du:15769,
 saup:[{
@@ -3702,9 +3702,9 @@ uid:793,
 dn:'Slide793',
 visible:'1'
 },
-StAd29:{
-from:9778,
-to:9868,
+StAd56:{
+from:12541,
+to:12631,
 src:'ar/21513.mp3',
 du:3042,
 saup:[{
@@ -10323,9 +10323,9 @@ uid:902,
 dn:'Slide902',
 visible:'1'
 },
-StAd30:{
-from:9793,
-to:10094,
+StAd57:{
+from:12556,
+to:12857,
 src:'ar/21445.mp3',
 du:10075,
 saup:[{
@@ -23821,8 +23821,8 @@ vb:[-2,-2,-1,-1]
 Slide17766:{
 lb:'Lab Equipment pg 1',
 id:17766,
-from:1252,
-to:1584,
+from:12526,
+to:12858,
 iols:0,
 i360qs:false,
 sdu:11.1,
@@ -37462,9 +37462,9 @@ uid:19503,
 dn:'Slide19503',
 visible:'1'
 },
-StAd31:{
-from:9781,
-to:10165,
+StAd58:{
+from:12877,
+to:13261,
 src:'ar/21515.mp3',
 du:12863,
 saup:[{
@@ -51588,8 +51588,8 @@ vb:[-2,-2,-1,-1]
 Slide3177:{
 lb:'Lab Rules and Procedures',
 id:3177,
-from:1675,
-to:2079,
+from:12859,
+to:13263,
 iols:0,
 i360qs:false,
 sdu:13.5,
@@ -51678,9 +51678,9 @@ uid:3177,
 dn:'Slide3177',
 visible:'1'
 },
-StAd32:{
-from:9781,
-to:9958,
+StAd59:{
+from:13282,
+to:13459,
 src:'ar/21517.mp3',
 du:5936,
 saup:[{
@@ -61734,9 +61734,9 @@ uid:5348,
 dn:'Slide5348',
 visible:'1'
 },
-StAd33:{
-from:9781,
-to:10022,
+StAd60:{
+from:13282,
+to:13523,
 src:'ar/21519.mp3',
 du:8126,
 saup:[{
@@ -61751,8 +61751,8 @@ l:false
 si7401:{
 name:'Hotspot_Widget_1',
 type:1268,
-from:2290,
-to:2550,
+from:13264,
+to:13524,
 rp:0,
 rpa:0,
 mdi:'si7401c',
@@ -61776,7 +61776,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":true,"slide-item-prev-button":true,"slide-item-widget-instructions":false,"hotspot-widget-image":true,"hotspot-button":true,"callout-title":true,"callout-image":false,"callout-body":true},"alignment":{"slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT"},"canBeCard":false,"numberOfHotspots":{"value":5},"activeHotspot":{"value":4},"isForcedNavigationEnabled":true,"widgetLayout":{"value":"F"},"padding":{"isDTMLinked":true,"mobile":{"left":4,"right":4,"top":8,"bottom":8},"tablet":{"left":4,"right":4,"top":15,"bottom":15},"left":4,"right":4,"top":25,"bottom":25},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{}}',
+widgetProps:'{"visibilityInfo":{"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":true,"slide-item-prev-button":true,"slide-item-widget-instructions":false,"hotspot-widget-image":true,"hotspot-button":true,"callout-title":true,"callout-image":false,"callout-body":true},"alignment":{"slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT"},"canBeCard":false,"numberOfHotspots":{"value":5},"activeHotspot":{"value":3},"isForcedNavigationEnabled":true,"widgetLayout":{"value":"F"},"padding":{"isDTMLinked":true,"mobile":{"left":4,"right":4,"top":8,"bottom":8},"tablet":{"left":4,"right":4,"top":15,"bottom":15},"left":4,"right":4,"top":25,"bottom":25},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{}}',
 retainState:false,
 immo:false,
 apsn:'Slide7383',
@@ -62412,8 +62412,8 @@ vb:[-2,-2,150,30]
 si7433:{
 name:'Hotspot_Insertion_Area_1',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si7433c',
@@ -62579,8 +62579,8 @@ vb:[-1,-1,1,1]
 si7441:{
 name:'Non_Responsive_1',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si7441c',
@@ -63157,8 +63157,8 @@ vb:[-1,-1,1081,721]
 si7467:{
 name:'Leaving_Class',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si7467c',
@@ -66781,8 +66781,8 @@ vb:[-2,-2,-1,-1]
 si7683:{
 name:'No_goggles__hair_down__airpods',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si7683c',
@@ -66806,7 +66806,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"hotspot-button":true,"callout-image":false,"callout-title":true,"callout-body":true,"card":true},"calloutRevealDirection":{"value":"TOP","isOverridden":false},"alignment":{"hotspot-button":"LEFT","callout-image":"LEFT","callout-title":"LEFT","callout-body":"LEFT"},"canBeCard":true,"calloutRevealCursorEvent":{"value":"CLICK"},"sizeNPos":{"width":"240"},"childNodesCustomStyles":{"cp-hotspot-widget-paragraph":{"all":{},"tablet":{},"mobile":{}}},"padding":{"top":5,"bottom":5,"left":5,"right":5},"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"appearanceProperties":{"border":{"enabled":true,"color":"#000000FF","size":2,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":8,"bottomLeft":8,"bottomRight":8,"topRight":8}},"shadow":{"shadowX":0,"shadowY":4,"shadowBlur":8,"enabled":true,"type":1,"color":"var(--c3)"}}}',
+widgetProps:'{"visibilityInfo":{"hotspot-button":true,"callout-image":false,"callout-title":true,"callout-body":true,"card":true},"calloutRevealDirection":{"value":"BOTTOM","isOverridden":false},"alignment":{"hotspot-button":"LEFT","callout-image":"LEFT","callout-title":"LEFT","callout-body":"LEFT"},"canBeCard":true,"calloutRevealCursorEvent":{"value":"CLICK"},"sizeNPos":{"width":"240"},"childNodesCustomStyles":{"cp-hotspot-widget-paragraph":{"all":{},"tablet":{},"mobile":{}}},"padding":{"top":5,"bottom":5,"left":5,"right":5},"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"appearanceProperties":{"border":{"enabled":true,"color":"#000000FF","size":2,"type":0},"cornerRadius":{"type":1,"value":{"topLeft":8,"bottomLeft":8,"bottomRight":8,"topRight":8}},"shadow":{"shadowX":0,"shadowY":4,"shadowBlur":8,"enabled":true,"type":1,"color":"var(--c3)"}}}',
 parentGroup:'si7441',
 retainState:false,
 immo:false,
@@ -68593,8 +68593,8 @@ vb:[-2,-2,-1,-1]
 si7791:{
 name:'Food_Drink',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si7791c',
@@ -74023,8 +74023,8 @@ vb:[-2,-2,-1,-1]
 si8115:{
 name:'Hotspot_Button_Container_1',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si8115c',
@@ -74048,7 +74048,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"canBeCard":false,"sizeNPos":{"left":139.13092672413794,"top":178.76778017241378,"width":32,"height":32},"buttonState":{"value":"moved"},"svgPath":"Hotspot_default.svg","designOption":"DEFAULT_HOTSPOT_BUTTON_OPTION","designOptionStyles":{},"initialHorizontalPadding":8}',
+widgetProps:'{"canBeCard":false,"sizeNPos":{"left":278.1547379032258,"top":172.6212197580645,"width":32,"height":32},"buttonState":{"value":"moved"},"svgPath":"Hotspot_default.svg","designOption":"DEFAULT_HOTSPOT_BUTTON_OPTION","designOptionStyles":{},"initialHorizontalPadding":8}',
 parentGroup:'si7441',
 retainState:false,
 immo:false,
@@ -74705,8 +74705,8 @@ vb:[666,367,700,401]
 si8147:{
 name:'Hotspot_Button_Container_3',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si8147c',
@@ -74730,7 +74730,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"canBeCard":false,"sizeNPos":{"left":602.9664818548387,"top":500.2303427419355,"width":42.40673434349799,"height":31.99221703314012},"buttonState":{"value":"moved"},"svgPath":"Hotspot_default.svg","designOption":"DEFAULT_HOTSPOT_BUTTON_OPTION","designOptionStyles":{},"initialHorizontalPadding":8}',
+widgetProps:'{"canBeCard":false,"sizeNPos":{"left":571.7305947580645,"top":353.1930443548387,"width":42.40673434349799,"height":31.99221703314012},"buttonState":{"value":"moved"},"svgPath":"Hotspot_default.svg","designOption":"DEFAULT_HOTSPOT_BUTTON_OPTION","designOptionStyles":{},"initialHorizontalPadding":8}',
 parentGroup:'si7441',
 retainState:false,
 immo:false,
@@ -75046,8 +75046,8 @@ vb:[666,367,700,401]
 si8163:{
 name:'Hotspot_Button_Container_4',
 type:1268,
-from:2290,
-to:2550,
+from:9853,
+to:10113,
 rp:0,
 rpa:0,
 mdi:'si8163c',
@@ -75071,7 +75071,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"canBeCard":false,"sizeNPos":{"left":850,"top":580.2721774193549,"width":34.33701087688578,"height":31.999890557650865},"buttonState":{"value":"moved"},"svgPath":"Hotspot_default.svg","designOption":"DEFAULT_HOTSPOT_BUTTON_OPTION","designOptionStyles":{},"initialHorizontalPadding":8}',
+widgetProps:'{"canBeCard":false,"sizeNPos":{"left":972.8714717741935,"top":504.42137096774195,"width":34.33701087688578,"height":31.999890557650865},"buttonState":{"value":"moved"},"svgPath":"Hotspot_default.svg","designOption":"DEFAULT_HOTSPOT_BUTTON_OPTION","designOptionStyles":{},"initialHorizontalPadding":8}',
 parentGroup:'si7441',
 retainState:false,
 immo:false,
@@ -76553,8 +76553,8 @@ vb:[-2,-2,-1,-1]
 Slide7383:{
 lb:'Lab Rules and Procedures Quick Check',
 id:7383,
-from:2290,
-to:2550,
+from:13264,
+to:13524,
 iols:0,
 i360qs:false,
 sdu:8.7,
@@ -76640,9 +76640,9 @@ uid:7383,
 dn:'Slide7383',
 visible:'1'
 },
-StAd34:{
-from:9781,
-to:10310,
+StAd61:{
+from:13543,
+to:14072,
 src:'ar/21521.mp3',
 du:17734,
 saup:[{
@@ -76657,8 +76657,8 @@ l:false
 si10076:{
 name:'Text_Group',
 type:1268,
-from:6226,
-to:6774,
+from:13525,
+to:14073,
 rp:0,
 rpa:0,
 mdi:'si10076c',
@@ -76824,8 +76824,8 @@ vb:[-1,-1,1,1]
 si10084:{
 name:'Paragraph_Group_8',
 type:1268,
-from:6226,
-to:6774,
+from:13525,
+to:14073,
 rp:0,
 rpa:0,
 mdi:'si10084c',
@@ -77000,8 +77000,8 @@ vb:[-1,-1,1,1]
 si10092:{
 name:'title_quiz',
 type:1250,
-from:6226,
-to:6774,
+from:13525,
+to:14073,
 rp:0,
 rpa:0,
 mdi:'si10092c',
@@ -77166,8 +77166,8 @@ vb:[-1,-1,2,2]
 si10108:{
 name:'Instructions1',
 type:1250,
-from:6256,
-to:6774,
+from:13555,
+to:14073,
 rp:0,
 rpa:0,
 mdi:'si10108c',
@@ -77332,8 +77332,8 @@ vb:[-1,-1,2,2]
 si10116:{
 name:'Start_Quiz',
 type:29,
-from:6646,
-to:6774,
+from:13765,
+to:14073,
 rp:0,
 rpa:0,
 mdi:'si10116c',
@@ -77342,8 +77342,8 @@ v:0,
 enabled:true,
 defEn:true,
 vu:[],
-siaf:14,
-sid:4.3,
+siaf:8,
+sid:10.3,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -77501,8 +77501,8 @@ vb:[-2,-2,-1,-1]
 Slide10045:{
 lb:'Quiz',
 id:10045,
-from:6226,
-to:6774,
+from:13525,
+to:14073,
 iols:0,
 i360qs:false,
 sdu:18.3,
@@ -77590,8 +77590,8 @@ visible:'1'
 si10330:{
 name:'ResponsiveContainer_280',
 type:1268,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10330c',
@@ -77765,8 +77765,8 @@ vb:[-1,-1,1,1]
 si10338:{
 name:'$container-match-the-column-card_name_1',
 type:1268,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10338c',
@@ -78005,8 +78005,8 @@ vb:[-1,-1,1,1]
 si10346:{
 name:'Text_179',
 type:1250,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10346c',
@@ -78157,8 +78157,8 @@ vb:[-1,-1,2,2]
 si10353:{
 name:'Text_180',
 type:1250,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10353c',
@@ -78309,8 +78309,8 @@ vb:[-1,-1,2,2]
 si10360:{
 name:'Button_125',
 type:29,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10360c',
@@ -78463,8 +78463,8 @@ vb:[-2,-2,-1,-1]
 si10373:{
 name:'Button_126',
 type:29,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10373c',
@@ -78617,8 +78617,8 @@ vb:[-2,-2,-1,-1]
 si10386:{
 name:'Button_127',
 type:29,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10386c',
@@ -78771,8 +78771,8 @@ vb:[-2,-2,-1,-1]
 si10399:{
 name:'Button_128',
 type:29,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10399c',
@@ -78925,8 +78925,8 @@ vb:[-2,-2,-1,-1]
 si10412:{
 name:'Button_129',
 type:29,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10412c',
@@ -79079,8 +79079,8 @@ vb:[-2,-2,-1,-1]
 si10419:{
 name:'Button_130',
 type:29,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10419c',
@@ -79233,8 +79233,8 @@ vb:[-2,-2,-1,-1]
 si10432:{
 name:'Button_131',
 type:29,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10432c',
@@ -79387,8 +79387,8 @@ vb:[-2,-2,-1,-1]
 si10445:{
 name:'Text_181',
 type:1250,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10445c',
@@ -79536,8 +79536,8 @@ vb:[-1,-1,2,2]
 si10452:{
 name:'Text_182',
 type:1250,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10452c',
@@ -79685,8 +79685,8 @@ vb:[-1,-1,2,2]
 si10459:{
 name:'Text_183',
 type:1250,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10459c',
@@ -79834,8 +79834,8 @@ vb:[-1,-1,2,2]
 si10466:{
 name:'DropDown_1',
 type:10189,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10466c',
@@ -79989,8 +79989,8 @@ vb:[-2,-2,-1,-1]
 si10474:{
 name:'DropDown_2',
 type:10189,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10474c',
@@ -80144,8 +80144,8 @@ vb:[-2,-2,-1,-1]
 si10482:{
 name:'DropDown_3',
 type:10189,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10482c',
@@ -80299,8 +80299,8 @@ vb:[-2,-2,-1,-1]
 si11280:{
 name:'Text_199',
 type:1250,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si11280c',
@@ -80448,8 +80448,8 @@ vb:[-1,-1,2,2]
 si11287:{
 name:'Text_200',
 type:1250,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si11287c',
@@ -80597,8 +80597,8 @@ vb:[-1,-1,2,2]
 si11294:{
 name:'DropDown_4',
 type:10189,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si11294c',
@@ -80752,8 +80752,8 @@ vb:[-2,-2,-1,-1]
 si11302:{
 name:'DropDown_5',
 type:10189,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si11302c',
@@ -80907,8 +80907,8 @@ vb:[-2,-2,-1,-1]
 si10501:{
 name:'Caption_2',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10501c',
@@ -81142,8 +81142,8 @@ vb:[-2,-2,3,3]
 si10510:{
 name:'Caption_2',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10510c',
@@ -81377,8 +81377,8 @@ vb:[-2,-2,3,3]
 si10519:{
 name:'Caption_2',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10519c',
@@ -81609,8 +81609,8 @@ vb:[-4,-4,2,2]
 si10490:{
 name:'Caption_2',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10490c',
@@ -81865,8 +81865,8 @@ vb:[-4,-4,2,2]
 si12467:{
 name:'Caption_2',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si12467c',
@@ -82100,8 +82100,8 @@ vb:[-2,-2,3,3]
 si10538:{
 name:'Caption_3',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10538c',
@@ -82332,8 +82332,8 @@ vb:[-4,-4,2,2]
 si10547:{
 name:'Caption_3',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10547c',
@@ -82564,8 +82564,8 @@ vb:[-4,-4,2,2]
 si10556:{
 name:'Caption_3',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10556c',
@@ -82796,8 +82796,8 @@ vb:[-4,-4,2,2]
 si10527:{
 name:'Caption_3',
 type:612,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 rp:0,
 rpa:0,
 mdi:'si10527c',
@@ -83046,8 +83046,8 @@ vb:[-4,-4,2,2]
 Slide10281:{
 lb:'Matching Lab Equipment',
 id:10281,
-from:3100,
-to:3189,
+from:10114,
+to:10203,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -83105,9 +83105,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide10281q0',
-qnq:0,
-pa:3143,
+qs:'Slide10281q6',
+qnq:6,
+pa:10159,
 iph:{
 10320:{
 ts:'',
@@ -83132,9 +83132,9 @@ uid:10281,
 dn:'Slide10281',
 visible:'1'
 },
-Slide10281q0:{
+Slide10281q6:{
 noa:2,
-qt:'Match The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct Use',
+qt:'Match The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct Use',
 it:true,
 is:false,
 ipq:false,
@@ -83143,7 +83143,7 @@ sat:true,
 qst:0,
 ish:false,
 ips:false,
-qnq:0,
+qnq:6,
 sn:'Slide10281',
 oid:'Quiz_20264795554',
 iid:'10306',
@@ -95520,8 +95520,8 @@ cal:['si15230']
 si15679:{
 name:'',
 type:1268,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15679c',
@@ -95695,8 +95695,8 @@ vb:[-1,-1,1,1]
 si15599:{
 name:'',
 type:1268,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15599c',
@@ -95903,8 +95903,8 @@ vb:[-1,-1,1,1]
 si15480:{
 name:'Text_228',
 type:1250,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15480c',
@@ -96052,8 +96052,8 @@ vb:[-2,-2,150,30]
 si15487:{
 name:'Text_229',
 type:1250,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15487c',
@@ -96204,8 +96204,8 @@ vb:[-1,-1,2,2]
 si15497:{
 name:'Checkbox_7',
 type:10090,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15497c',
@@ -96365,8 +96365,8 @@ vb:[-2,-2,-1,-1]
 si15505:{
 name:'Checkbox_8',
 type:10090,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15505c',
@@ -96526,8 +96526,8 @@ vb:[-2,-2,-1,-1]
 si15521:{
 name:'Button_182',
 type:29,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15521c',
@@ -96680,8 +96680,8 @@ vb:[-2,-2,-1,-1]
 si15534:{
 name:'Button_183',
 type:29,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15534c',
@@ -96834,8 +96834,8 @@ vb:[-2,-2,-1,-1]
 si15547:{
 name:'Button_184',
 type:29,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15547c',
@@ -96988,8 +96988,8 @@ vb:[-2,-2,-1,-1]
 si15560:{
 name:'Button_185',
 type:29,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15560c',
@@ -97142,8 +97142,8 @@ vb:[-2,-2,-1,-1]
 si15567:{
 name:'Button_186',
 type:29,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15567c',
@@ -97296,8 +97296,8 @@ vb:[-2,-2,-1,-1]
 si15580:{
 name:'Button_187',
 type:29,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15580c',
@@ -97450,8 +97450,8 @@ vb:[-2,-2,-1,-1]
 si15593:{
 name:'Button_188',
 type:29,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15593c',
@@ -97604,8 +97604,8 @@ vb:[-2,-2,-1,-1]
 si15607:{
 name:'Caption_9',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15607c',
@@ -97839,8 +97839,8 @@ vb:[-2,-2,3,3]
 si15615:{
 name:'Caption_9',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15615c',
@@ -98074,8 +98074,8 @@ vb:[-2,-2,3,3]
 si15623:{
 name:'Caption_9',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15623c',
@@ -98306,8 +98306,8 @@ vb:[-4,-4,2,2]
 si15636:{
 name:'Caption_11',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15636c',
@@ -98556,8 +98556,8 @@ vb:[-4,-4,2,2]
 si15644:{
 name:'Caption_10',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15644c',
@@ -98788,8 +98788,8 @@ vb:[-4,-4,2,2]
 si15652:{
 name:'Caption_10',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15652c',
@@ -99020,8 +99020,8 @@ vb:[-4,-4,2,2]
 si15660:{
 name:'Caption_10',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15660c',
@@ -99252,8 +99252,8 @@ vb:[-4,-4,2,2]
 si15673:{
 name:'Caption_12',
 type:612,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 rp:0,
 rpa:0,
 mdi:'si15673c',
@@ -99502,8 +99502,8 @@ vb:[-4,-4,2,2]
 Slide15720:{
 lb:'Correct Incorrect 4',
 id:15720,
-from:3460,
-to:3549,
+from:10204,
+to:10293,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -99561,9 +99561,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide15720q4',
-qnq:4,
-pa:3503,
+qs:'Slide15720q6',
+qnq:6,
+pa:10249,
 iph:{
 15701:{
 ts:'',
@@ -99588,9 +99588,9 @@ uid:15720,
 dn:'Slide15720',
 visible:'1'
 },
-Slide15720q4:{
+Slide15720q6:{
 noa:1,
-qt:'Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.',
+qt:'Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.',
 it:true,
 is:false,
 ipq:false,
@@ -99599,7 +99599,7 @@ sat:true,
 qst:0,
 ish:false,
 ips:false,
-qnq:4,
+qnq:6,
 sn:'Slide15720',
 oid:'Quiz_20264795554',
 iid:'15468',
@@ -99614,7 +99614,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si15497c:0','si15505c:1'],
+ao:['si15497c:2','si15505c:3'],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -115471,9 +115471,9 @@ uid:10564,
 dn:'Slide10564',
 visible:'1'
 },
-StAd35:{
-from:9781,
-to:10043,
+StAd62:{
+from:14092,
+to:14354,
 src:'ar/21523.mp3',
 du:8773,
 saup:[{
@@ -115488,8 +115488,8 @@ l:false
 si21304:{
 name:'Image_1',
 type:1268,
-from:7621,
-to:9420,
+from:14074,
+to:15873,
 rp:0,
 rpa:0,
 mdi:'si21304c',
@@ -115677,8 +115677,8 @@ vb:[-1,-1,1,1]
 si21312:{
 name:'Image_Group_1',
 type:1268,
-from:7621,
-to:9420,
+from:14074,
+to:15873,
 rp:0,
 rpa:0,
 mdi:'si21312c',
@@ -116062,8 +116062,8 @@ vb:[-1,-1,1537,1025]
 si21333:{
 name:'Image_Group_Text_7',
 type:1268,
-from:7651,
-to:9420,
+from:10324,
+to:12093,
 rp:0,
 rpa:0,
 mdi:'si21333c',
@@ -116399,8 +116399,8 @@ vb:[-1,-1,2,2]
 si21349:{
 name:'Reminders',
 type:1250,
-from:7681,
-to:9420,
+from:10354,
+to:12093,
 rp:0,
 rpa:0,
 mdi:'si21349c',
@@ -116443,7 +116443,7 @@ efva:[]
 eflh:[21413],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"6qn2n","text":"Your score will be entered into the gradebook once your teacher has had a chance to review each students\' results. ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":115,"style":"textShadowOpacity:none"},{"offset":0,"length":115,"style":"overridden:true"},{"offset":0,"length":115,"style":"textDecoration:none"},{"offset":0,"length":115,"style":"desktop-fontSize:30"},{"offset":0,"length":115,"style":"borderBottomStyle:none"},{"offset":0,"length":115,"style":"textShadowEnable:false"},{"offset":0,"length":115,"style":"hlnk:"},{"offset":0,"length":115,"style":"textShadowBlur:8px"},{"offset":0,"length":115,"style":"mobile-fontSize:20"},{"offset":0,"length":115,"style":"hlnke:true"},{"offset":0,"length":115,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"hlnkt:wp"},{"offset":0,"length":115,"style":"fontStyle:normal"},{"offset":0,"length":115,"style":"tablet-fontSize:20"},{"offset":0,"length":115,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"fontWeight:400"},{"offset":0,"length":115,"style":"textOutlineEnable:false"},{"offset":0,"length":115,"style":"fontFamily:Acme"},{"offset":0,"length":115,"style":"opacity:1"},{"offset":0,"length":115,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"defaultTextShadow:none"},{"offset":0,"length":115,"style":"backgroundColor:unset"},{"offset":0,"length":115,"style":"textShadow:none"},{"offset":0,"length":115,"style":"textShadowX:0px"},{"offset":0,"length":115,"style":"fontStretch:normal"},{"offset":0,"length":115,"style":"fontType:regular"},{"offset":0,"length":115,"style":"color:#333333"},{"offset":0,"length":115,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":115,"style":"textShadowY:4px"},{"offset":0,"length":115,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":115,"style":"lineHeight:135%"},{"offset":0,"length":115,"style":"letterSpacing:0%"},{"offset":0,"length":115,"style":"textHighlightEnable:false"},{"offset":0,"length":115,"style":"textTransform:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"b5ehf","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"e9n64","text":"Remember...","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"letterSpacing:0%"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"},{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"desktop-fontSize:22"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"mobile-fontSize:20"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:20"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"color:#333333"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"textShadowY:4px"},{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"lineHeight:135%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"ess6b","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"66q8r","text":"Always inform your teacher of any accidents or issues. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":55,"style":"textShadowY:4px"},{"offset":0,"length":55,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":55,"style":"lineHeight:135%"},{"offset":0,"length":55,"style":"letterSpacing:0%"},{"offset":0,"length":55,"style":"textHighlightEnable:false"},{"offset":0,"length":55,"style":"textTransform:none"},{"offset":0,"length":55,"style":"textShadowOpacity:none"},{"offset":0,"length":55,"style":"overridden:true"},{"offset":0,"length":55,"style":"textDecoration:none"},{"offset":0,"length":55,"style":"borderBottomStyle:none"},{"offset":0,"length":55,"style":"desktop-fontSize:22"},{"offset":0,"length":55,"style":"textShadowEnable:false"},{"offset":0,"length":55,"style":"hlnk:"},{"offset":0,"length":55,"style":"textShadowBlur:8px"},{"offset":0,"length":55,"style":"mobile-fontSize:20"},{"offset":0,"length":55,"style":"hlnke:true"},{"offset":0,"length":55,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"hlnkt:wp"},{"offset":0,"length":55,"style":"fontStyle:normal"},{"offset":0,"length":55,"style":"tablet-fontSize:20"},{"offset":0,"length":55,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"fontWeight:400"},{"offset":0,"length":55,"style":"textOutlineEnable:false"},{"offset":0,"length":55,"style":"fontFamily:Acme"},{"offset":0,"length":55,"style":"opacity:1"},{"offset":0,"length":55,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"defaultTextShadow:none"},{"offset":0,"length":55,"style":"backgroundColor:unset"},{"offset":0,"length":55,"style":"textShadow:none"},{"offset":0,"length":55,"style":"textShadowX:0px"},{"offset":0,"length":55,"style":"fontStretch:normal"},{"offset":0,"length":55,"style":"fontType:regular"},{"offset":0,"length":55,"style":"color:#333333"},{"offset":0,"length":55,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"dgbjr","text":"Follow all directions before starting any lab.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":46,"style":"fontType:regular"},{"offset":0,"length":46,"style":"color:#333333"},{"offset":0,"length":46,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":46,"style":"textShadowY:4px"},{"offset":0,"length":46,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":46,"style":"lineHeight:135%"},{"offset":0,"length":46,"style":"letterSpacing:0%"},{"offset":0,"length":46,"style":"textHighlightEnable:false"},{"offset":0,"length":46,"style":"textTransform:none"},{"offset":0,"length":46,"style":"textShadowOpacity:none"},{"offset":0,"length":46,"style":"overridden:true"},{"offset":0,"length":46,"style":"textDecoration:none"},{"offset":0,"length":46,"style":"borderBottomStyle:none"},{"offset":0,"length":46,"style":"desktop-fontSize:22"},{"offset":0,"length":46,"style":"textShadowEnable:false"},{"offset":0,"length":46,"style":"hlnk:"},{"offset":0,"length":46,"style":"textShadowBlur:8px"},{"offset":0,"length":46,"style":"mobile-fontSize:20"},{"offset":0,"length":46,"style":"hlnke:true"},{"offset":0,"length":46,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"hlnkt:wp"},{"offset":0,"length":46,"style":"fontStyle:normal"},{"offset":0,"length":46,"style":"tablet-fontSize:20"},{"offset":0,"length":46,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"fontWeight:400"},{"offset":0,"length":46,"style":"textOutlineEnable:false"},{"offset":0,"length":46,"style":"fontFamily:Acme"},{"offset":0,"length":46,"style":"opacity:1"},{"offset":0,"length":46,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"defaultTextShadow:none"},{"offset":0,"length":46,"style":"backgroundColor:unset"},{"offset":0,"length":46,"style":"textShadow:none"},{"offset":0,"length":46,"style":"textShadowX:0px"},{"offset":0,"length":46,"style":"fontStretch:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"2e4fl","text":"Behave responsibly at all times in the  lab. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":45,"style":"textShadow:none"},{"offset":0,"length":45,"style":"textShadowX:0px"},{"offset":0,"length":45,"style":"fontStretch:normal"},{"offset":0,"length":45,"style":"fontType:regular"},{"offset":0,"length":45,"style":"color:#333333"},{"offset":0,"length":45,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":45,"style":"textShadowY:4px"},{"offset":0,"length":45,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":45,"style":"lineHeight:135%"},{"offset":0,"length":45,"style":"letterSpacing:0%"},{"offset":0,"length":45,"style":"textHighlightEnable:false"},{"offset":0,"length":45,"style":"textTransform:none"},{"offset":0,"length":45,"style":"textShadowOpacity:none"},{"offset":0,"length":45,"style":"overridden:true"},{"offset":0,"length":45,"style":"textDecoration:none"},{"offset":0,"length":45,"style":"borderBottomStyle:none"},{"offset":0,"length":45,"style":"desktop-fontSize:22"},{"offset":0,"length":45,"style":"textShadowEnable:false"},{"offset":0,"length":45,"style":"hlnk:"},{"offset":0,"length":45,"style":"textShadowBlur:8px"},{"offset":0,"length":45,"style":"mobile-fontSize:20"},{"offset":0,"length":45,"style":"hlnke:true"},{"offset":0,"length":45,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"hlnkt:wp"},{"offset":0,"length":45,"style":"fontStyle:normal"},{"offset":0,"length":45,"style":"tablet-fontSize:20"},{"offset":0,"length":45,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":45,"style":"fontWeight:400"},{"offset":0,"length":45,"style":"textOutlineEnable:false"},{"offset":0,"length":45,"style":"fontFamily:Acme"},{"offset":0,"length":45,"style":"opacity:1"},{"offset":0,"length":45,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":45,"style":"defaultTextShadow:none"},{"offset":0,"length":45,"style":"backgroundColor:unset"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"f0oa3","text":"Always wear goggles and proper safety gear.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":43,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"defaultTextShadow:none"},{"offset":0,"length":43,"style":"backgroundColor:unset"},{"offset":0,"length":43,"style":"textShadow:none"},{"offset":0,"length":43,"style":"textShadowX:0px"},{"offset":0,"length":43,"style":"fontStretch:normal"},{"offset":0,"length":43,"style":"fontType:regular"},{"offset":0,"length":43,"style":"color:#333333"},{"offset":0,"length":43,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":43,"style":"textShadowY:4px"},{"offset":0,"length":43,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":43,"style":"lineHeight:135%"},{"offset":0,"length":43,"style":"letterSpacing:0%"},{"offset":0,"length":43,"style":"textHighlightEnable:false"},{"offset":0,"length":43,"style":"textTransform:none"},{"offset":0,"length":43,"style":"textShadowOpacity:none"},{"offset":0,"length":43,"style":"overridden:true"},{"offset":0,"length":43,"style":"textDecoration:none"},{"offset":0,"length":43,"style":"borderBottomStyle:none"},{"offset":0,"length":43,"style":"desktop-fontSize:22"},{"offset":0,"length":43,"style":"textShadowEnable:false"},{"offset":0,"length":43,"style":"hlnk:"},{"offset":0,"length":43,"style":"textShadowBlur:8px"},{"offset":0,"length":43,"style":"mobile-fontSize:20"},{"offset":0,"length":43,"style":"hlnke:true"},{"offset":0,"length":43,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"hlnkt:wp"},{"offset":0,"length":43,"style":"fontStyle:normal"},{"offset":0,"length":43,"style":"tablet-fontSize:20"},{"offset":0,"length":43,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"fontWeight:400"},{"offset":0,"length":43,"style":"textOutlineEnable:false"},{"offset":0,"length":43,"style":"fontFamily:Acme"},{"offset":0,"length":43,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"adv3u","text":"Keep your workspace clean and organized.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":40,"style":"textOutlineEnable:false"},{"offset":0,"length":40,"style":"fontFamily:Acme"},{"offset":0,"length":40,"style":"opacity:1"},{"offset":0,"length":40,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"defaultTextShadow:none"},{"offset":0,"length":40,"style":"backgroundColor:unset"},{"offset":0,"length":40,"style":"textShadow:none"},{"offset":0,"length":40,"style":"textShadowX:0px"},{"offset":0,"length":40,"style":"fontStretch:normal"},{"offset":0,"length":40,"style":"fontType:regular"},{"offset":0,"length":40,"style":"color:#333333"},{"offset":0,"length":40,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":40,"style":"textShadowY:4px"},{"offset":0,"length":40,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":40,"style":"lineHeight:135%"},{"offset":0,"length":40,"style":"letterSpacing:0%"},{"offset":0,"length":40,"style":"textHighlightEnable:false"},{"offset":0,"length":40,"style":"textTransform:none"},{"offset":0,"length":40,"style":"textShadowOpacity:none"},{"offset":0,"length":40,"style":"overridden:true"},{"offset":0,"length":40,"style":"textDecoration:none"},{"offset":0,"length":40,"style":"borderBottomStyle:none"},{"offset":0,"length":40,"style":"desktop-fontSize:22"},{"offset":0,"length":40,"style":"textShadowEnable:false"},{"offset":0,"length":40,"style":"hlnk:"},{"offset":0,"length":40,"style":"textShadowBlur:8px"},{"offset":0,"length":40,"style":"mobile-fontSize:20"},{"offset":0,"length":40,"style":"hlnke:true"},{"offset":0,"length":40,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":40,"style":"hlnkt:wp"},{"offset":0,"length":40,"style":"fontStyle:normal"},{"offset":0,"length":40,"style":"tablet-fontSize:20"},{"offset":0,"length":40,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":40,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"fontWeight:400"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"6qn2n","text":"Your score will be entered into the gradebook once your teacher has had a chance to review each students\' results. ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":115,"style":"textShadow:none"},{"offset":0,"length":115,"style":"textShadowX:0px"},{"offset":0,"length":115,"style":"fontStretch:normal"},{"offset":0,"length":115,"style":"fontType:regular"},{"offset":0,"length":115,"style":"color:#333333"},{"offset":0,"length":115,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":115,"style":"textShadowY:4px"},{"offset":0,"length":115,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":115,"style":"lineHeight:135%"},{"offset":0,"length":115,"style":"letterSpacing:0%"},{"offset":0,"length":115,"style":"textHighlightEnable:false"},{"offset":0,"length":115,"style":"textTransform:none"},{"offset":0,"length":115,"style":"textShadowOpacity:none"},{"offset":0,"length":115,"style":"overridden:true"},{"offset":0,"length":115,"style":"textDecoration:none"},{"offset":0,"length":115,"style":"desktop-fontSize:30"},{"offset":0,"length":115,"style":"borderBottomStyle:none"},{"offset":0,"length":115,"style":"textShadowEnable:false"},{"offset":0,"length":115,"style":"hlnk:"},{"offset":0,"length":115,"style":"textShadowBlur:8px"},{"offset":0,"length":115,"style":"mobile-fontSize:20"},{"offset":0,"length":115,"style":"hlnke:true"},{"offset":0,"length":115,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"hlnkt:wp"},{"offset":0,"length":115,"style":"fontStyle:normal"},{"offset":0,"length":115,"style":"tablet-fontSize:20"},{"offset":0,"length":115,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":115,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"fontWeight:400"},{"offset":0,"length":115,"style":"textOutlineEnable:false"},{"offset":0,"length":115,"style":"fontFamily:Acme"},{"offset":0,"length":115,"style":"opacity:1"},{"offset":0,"length":115,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":115,"style":"defaultTextShadow:none"},{"offset":0,"length":115,"style":"backgroundColor:unset"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"b5ehf","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"e9n64","text":"Remember...","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"defaultTextShadow:none"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"textShadow:none"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"color:#333333"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"textShadowY:4px"},{"offset":0,"length":11,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":11,"style":"lineHeight:135%"},{"offset":0,"length":11,"style":"letterSpacing:0%"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"textTransform:none"},{"offset":0,"length":11,"style":"textShadowOpacity:none"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"desktop-fontSize:22"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"textShadowBlur:8px"},{"offset":0,"length":11,"style":"mobile-fontSize:20"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:20"},{"offset":0,"length":11,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":11,"style":"fontWeight:400"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"fontFamily:Acme"},{"offset":0,"length":11,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"ess6b","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}},{"key":"66q8r","text":"Always inform your teacher of any accidents or issues. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":55,"style":"textOutlineEnable:false"},{"offset":0,"length":55,"style":"fontFamily:Acme"},{"offset":0,"length":55,"style":"opacity:1"},{"offset":0,"length":55,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"defaultTextShadow:none"},{"offset":0,"length":55,"style":"backgroundColor:unset"},{"offset":0,"length":55,"style":"textShadow:none"},{"offset":0,"length":55,"style":"textShadowX:0px"},{"offset":0,"length":55,"style":"fontStretch:normal"},{"offset":0,"length":55,"style":"fontType:regular"},{"offset":0,"length":55,"style":"color:#333333"},{"offset":0,"length":55,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":55,"style":"textShadowY:4px"},{"offset":0,"length":55,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":55,"style":"lineHeight:135%"},{"offset":0,"length":55,"style":"letterSpacing:0%"},{"offset":0,"length":55,"style":"textHighlightEnable:false"},{"offset":0,"length":55,"style":"textTransform:none"},{"offset":0,"length":55,"style":"textShadowOpacity:none"},{"offset":0,"length":55,"style":"overridden:true"},{"offset":0,"length":55,"style":"textDecoration:none"},{"offset":0,"length":55,"style":"borderBottomStyle:none"},{"offset":0,"length":55,"style":"desktop-fontSize:22"},{"offset":0,"length":55,"style":"textShadowEnable:false"},{"offset":0,"length":55,"style":"hlnk:"},{"offset":0,"length":55,"style":"textShadowBlur:8px"},{"offset":0,"length":55,"style":"mobile-fontSize:20"},{"offset":0,"length":55,"style":"hlnke:true"},{"offset":0,"length":55,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"hlnkt:wp"},{"offset":0,"length":55,"style":"fontStyle:normal"},{"offset":0,"length":55,"style":"tablet-fontSize:20"},{"offset":0,"length":55,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":55,"style":"fontWeight:400"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"dgbjr","text":"Follow all directions before starting any lab.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":46,"style":"tablet-fontSize:20"},{"offset":0,"length":46,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"fontWeight:400"},{"offset":0,"length":46,"style":"textOutlineEnable:false"},{"offset":0,"length":46,"style":"fontFamily:Acme"},{"offset":0,"length":46,"style":"opacity:1"},{"offset":0,"length":46,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":46,"style":"defaultTextShadow:none"},{"offset":0,"length":46,"style":"backgroundColor:unset"},{"offset":0,"length":46,"style":"textShadow:none"},{"offset":0,"length":46,"style":"textShadowX:0px"},{"offset":0,"length":46,"style":"fontStretch:normal"},{"offset":0,"length":46,"style":"fontType:regular"},{"offset":0,"length":46,"style":"color:#333333"},{"offset":0,"length":46,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":46,"style":"textShadowY:4px"},{"offset":0,"length":46,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":46,"style":"lineHeight:135%"},{"offset":0,"length":46,"style":"letterSpacing:0%"},{"offset":0,"length":46,"style":"textHighlightEnable:false"},{"offset":0,"length":46,"style":"textTransform:none"},{"offset":0,"length":46,"style":"textShadowOpacity:none"},{"offset":0,"length":46,"style":"overridden:true"},{"offset":0,"length":46,"style":"textDecoration:none"},{"offset":0,"length":46,"style":"borderBottomStyle:none"},{"offset":0,"length":46,"style":"desktop-fontSize:22"},{"offset":0,"length":46,"style":"textShadowEnable:false"},{"offset":0,"length":46,"style":"hlnk:"},{"offset":0,"length":46,"style":"textShadowBlur:8px"},{"offset":0,"length":46,"style":"mobile-fontSize:20"},{"offset":0,"length":46,"style":"hlnke:true"},{"offset":0,"length":46,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":46,"style":"hlnkt:wp"},{"offset":0,"length":46,"style":"fontStyle:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"2e4fl","text":"Behave responsibly at all times in the  lab. ","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":45,"style":"mobile-fontSize:20"},{"offset":0,"length":45,"style":"hlnke:true"},{"offset":0,"length":45,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"hlnkt:wp"},{"offset":0,"length":45,"style":"fontStyle:normal"},{"offset":0,"length":45,"style":"tablet-fontSize:20"},{"offset":0,"length":45,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":45,"style":"fontWeight:400"},{"offset":0,"length":45,"style":"textOutlineEnable:false"},{"offset":0,"length":45,"style":"fontFamily:Acme"},{"offset":0,"length":45,"style":"opacity:1"},{"offset":0,"length":45,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":45,"style":"defaultTextShadow:none"},{"offset":0,"length":45,"style":"backgroundColor:unset"},{"offset":0,"length":45,"style":"textShadow:none"},{"offset":0,"length":45,"style":"textShadowX:0px"},{"offset":0,"length":45,"style":"fontStretch:normal"},{"offset":0,"length":45,"style":"fontType:regular"},{"offset":0,"length":45,"style":"color:#333333"},{"offset":0,"length":45,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":45,"style":"textShadowY:4px"},{"offset":0,"length":45,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":45,"style":"lineHeight:135%"},{"offset":0,"length":45,"style":"letterSpacing:0%"},{"offset":0,"length":45,"style":"textHighlightEnable:false"},{"offset":0,"length":45,"style":"textTransform:none"},{"offset":0,"length":45,"style":"textShadowOpacity:none"},{"offset":0,"length":45,"style":"overridden:true"},{"offset":0,"length":45,"style":"textDecoration:none"},{"offset":0,"length":45,"style":"borderBottomStyle:none"},{"offset":0,"length":45,"style":"desktop-fontSize:22"},{"offset":0,"length":45,"style":"textShadowEnable:false"},{"offset":0,"length":45,"style":"hlnk:"},{"offset":0,"length":45,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"f0oa3","text":"Always wear goggles and proper safety gear.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":43,"style":"textShadowEnable:false"},{"offset":0,"length":43,"style":"hlnk:"},{"offset":0,"length":43,"style":"textShadowBlur:8px"},{"offset":0,"length":43,"style":"mobile-fontSize:20"},{"offset":0,"length":43,"style":"hlnke:true"},{"offset":0,"length":43,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"hlnkt:wp"},{"offset":0,"length":43,"style":"fontStyle:normal"},{"offset":0,"length":43,"style":"tablet-fontSize:20"},{"offset":0,"length":43,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":43,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"fontWeight:400"},{"offset":0,"length":43,"style":"textOutlineEnable:false"},{"offset":0,"length":43,"style":"fontFamily:Acme"},{"offset":0,"length":43,"style":"opacity:1"},{"offset":0,"length":43,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":43,"style":"defaultTextShadow:none"},{"offset":0,"length":43,"style":"backgroundColor:unset"},{"offset":0,"length":43,"style":"textShadow:none"},{"offset":0,"length":43,"style":"textShadowX:0px"},{"offset":0,"length":43,"style":"fontStretch:normal"},{"offset":0,"length":43,"style":"fontType:regular"},{"offset":0,"length":43,"style":"color:#333333"},{"offset":0,"length":43,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":43,"style":"textShadowY:4px"},{"offset":0,"length":43,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":43,"style":"lineHeight:135%"},{"offset":0,"length":43,"style":"letterSpacing:0%"},{"offset":0,"length":43,"style":"textHighlightEnable:false"},{"offset":0,"length":43,"style":"textTransform:none"},{"offset":0,"length":43,"style":"textShadowOpacity:none"},{"offset":0,"length":43,"style":"overridden:true"},{"offset":0,"length":43,"style":"textDecoration:none"},{"offset":0,"length":43,"style":"borderBottomStyle:none"},{"offset":0,"length":43,"style":"desktop-fontSize:22"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}},{"key":"adv3u","text":"Keep your workspace clean and organized.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":40,"style":"textDecoration:none"},{"offset":0,"length":40,"style":"borderBottomStyle:none"},{"offset":0,"length":40,"style":"desktop-fontSize:22"},{"offset":0,"length":40,"style":"textShadowEnable:false"},{"offset":0,"length":40,"style":"hlnk:"},{"offset":0,"length":40,"style":"textShadowBlur:8px"},{"offset":0,"length":40,"style":"mobile-fontSize:20"},{"offset":0,"length":40,"style":"hlnke:true"},{"offset":0,"length":40,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":40,"style":"hlnkt:wp"},{"offset":0,"length":40,"style":"fontStyle:normal"},{"offset":0,"length":40,"style":"tablet-fontSize:20"},{"offset":0,"length":40,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":40,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"fontWeight:400"},{"offset":0,"length":40,"style":"textOutlineEnable:false"},{"offset":0,"length":40,"style":"fontFamily:Acme"},{"offset":0,"length":40,"style":"opacity:1"},{"offset":0,"length":40,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":40,"style":"defaultTextShadow:none"},{"offset":0,"length":40,"style":"backgroundColor:unset"},{"offset":0,"length":40,"style":"textShadow:none"},{"offset":0,"length":40,"style":"textShadowX:0px"},{"offset":0,"length":40,"style":"fontStretch:normal"},{"offset":0,"length":40,"style":"fontType:regular"},{"offset":0,"length":40,"style":"color:#333333"},{"offset":0,"length":40,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":40,"style":"textShadowY:4px"},{"offset":0,"length":40,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":40,"style":"lineHeight:135%"},{"offset":0,"length":40,"style":"letterSpacing:0%"},{"offset":0,"length":40,"style":"textHighlightEnable:false"},{"offset":0,"length":40,"style":"textTransform:none"},{"offset":0,"length":40,"style":"textShadowOpacity:none"},{"offset":0,"length":40,"style":"overridden:true"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"75%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -116563,10 +116563,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 si21357:{
-name:'Submit_and_Exit',
+name:'Close_browser_button',
 type:29,
-from:7852,
-to:9420,
+from:14305,
+to:15873,
 rp:0,
 rpa:0,
 mdi:'si21357c',
@@ -116585,7 +116585,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"stateVisibility":{"normal":true,"selected":true,"disabled":false,"hover":true,"visited":false},"normal":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"6hua","text":"Submit and exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":15,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":15,"style":"hlnkt:wp"},{"offset":0,"length":15,"style":"textOutlineEnable:false"},{"offset":0,"length":15,"style":"opacity:1"},{"offset":0,"length":15,"style":"textShadowColor:ffffff00"},{"offset":0,"length":15,"style":"hlnke:true"},{"offset":0,"length":15,"style":"backgroundColor:unset"},{"offset":0,"length":15,"style":"textShadowX:0px"},{"offset":0,"length":15,"style":"textShadowY:0px"},{"offset":0,"length":15,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":15,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":15,"style":"textShadowBlur:0px"},{"offset":0,"length":15,"style":"textHighlightEnable:false"},{"offset":0,"length":15,"style":"textShadowEnable:false"},{"offset":0,"length":15,"style":"hlnk:"},{"offset":0,"length":15,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-normal","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_normal","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shouldRender":true,"visited":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"45mif","text":"Submit and exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":15,"style":"textShadowEnable:false"},{"offset":0,"length":15,"style":"hlnk:"},{"offset":0,"length":15,"style":"overridden:false"},{"offset":0,"length":15,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":15,"style":"hlnkt:wp"},{"offset":0,"length":15,"style":"textOutlineEnable:false"},{"offset":0,"length":15,"style":"opacity:1"},{"offset":0,"length":15,"style":"textShadowColor:ffffff00"},{"offset":0,"length":15,"style":"hlnke:true"},{"offset":0,"length":15,"style":"backgroundColor:unset"},{"offset":0,"length":15,"style":"textShadowX:0px"},{"offset":0,"length":15,"style":"textShadowY:0px"},{"offset":0,"length":15,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":15,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":15,"style":"textShadowBlur:0px"},{"offset":0,"length":15,"style":"textHighlightEnable:false"}],"entityRanges":[],"data":{"presetId":"text-button-visited","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_visited","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shapeData":{"type":"rect","attributes":{"rx":"20"}},"designOption":"DEFAULT_BUTTON_ITEM_OPTION","designOptionStyles":{},"iconProps":{"srcPath":"0558.svg","size":"medium","position":0,"offset":0,"resourceID":558},"currentState":"selected","selected":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"9m37l","text":"Submit and exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":15,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":15,"style":"hlnkt:wp"},{"offset":0,"length":15,"style":"textOutlineEnable:false"},{"offset":0,"length":15,"style":"opacity:1"},{"offset":0,"length":15,"style":"textShadowColor:ffffff00"},{"offset":0,"length":15,"style":"hlnke:true"},{"offset":0,"length":15,"style":"backgroundColor:unset"},{"offset":0,"length":15,"style":"textShadowX:0px"},{"offset":0,"length":15,"style":"textShadowY:0px"},{"offset":0,"length":15,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":15,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":15,"style":"textShadowBlur:0px"},{"offset":0,"length":15,"style":"textHighlightEnable:false"},{"offset":0,"length":15,"style":"textShadowEnable:false"},{"offset":0,"length":15,"style":"hlnk:"},{"offset":0,"length":15,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-selected","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_selected","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"hover":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"88drq","text":"Submit and exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":15,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":15,"style":"hlnkt:wp"},{"offset":0,"length":15,"style":"textOutlineEnable:false"},{"offset":0,"length":15,"style":"opacity:1"},{"offset":0,"length":15,"style":"textShadowColor:ffffff00"},{"offset":0,"length":15,"style":"hlnke:true"},{"offset":0,"length":15,"style":"backgroundColor:unset"},{"offset":0,"length":15,"style":"textShadowX:0px"},{"offset":0,"length":15,"style":"textShadowY:0px"},{"offset":0,"length":15,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":15,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":15,"style":"textShadowBlur:0px"},{"offset":0,"length":15,"style":"textHighlightEnable:false"},{"offset":0,"length":15,"style":"textShadowEnable:false"},{"offset":0,"length":15,"style":"hlnk:"},{"offset":0,"length":15,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-hover","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_hover","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":true}},"disabled":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"3tq9p","text":"Submit and exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":15,"style":"textShadowEnable:false"},{"offset":0,"length":15,"style":"hlnk:"},{"offset":0,"length":15,"style":"overridden:false"},{"offset":0,"length":15,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":15,"style":"hlnkt:wp"},{"offset":0,"length":15,"style":"textOutlineEnable:false"},{"offset":0,"length":15,"style":"opacity:1"},{"offset":0,"length":15,"style":"textShadowColor:ffffff00"},{"offset":0,"length":15,"style":"hlnke:true"},{"offset":0,"length":15,"style":"backgroundColor:unset"},{"offset":0,"length":15,"style":"textShadowX:0px"},{"offset":0,"length":15,"style":"textShadowY:0px"},{"offset":0,"length":15,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":15,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":15,"style":"textShadowBlur:0px"},{"offset":0,"length":15,"style":"textHighlightEnable:false"}],"entityRanges":[],"data":{"presetId":"text-button-disabled","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_disabled","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}}}',
+widgetProps:'{"stateVisibility":{"normal":true,"selected":true,"disabled":false,"hover":true,"visited":false},"normal":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"6hua","text":"Close your browser to exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"textShadowColor:ffffff00"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"textShadowY:0px"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":26,"style":"textShadowBlur:0px"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"overridden:false"},{"offset":0,"length":26,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"presetId":"text-button-normal","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_normal","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shouldRender":true,"visited":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"45mif","text":"Close your browser to exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"textShadowColor:ffffff00"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"textShadowY:0px"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":26,"style":"textShadowBlur:0px"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"overridden:false"},{"offset":0,"length":26,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"presetId":"text-button-visited","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_visited","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shapeData":{"type":"rect","attributes":{"rx":"20"}},"designOption":"DEFAULT_BUTTON_ITEM_OPTION","designOptionStyles":{},"iconProps":{"srcPath":"0558.svg","size":"medium","position":0,"offset":0,"resourceID":558},"currentState":"normal","selected":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"9m37l","text":"Close your browser to exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"textShadowY:0px"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":26,"style":"textShadowBlur:0px"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"overridden:false"},{"offset":0,"length":26,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"textOutlineEnable:false"},{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"textShadowColor:ffffff00"},{"offset":0,"length":26,"style":"hlnke:true"}],"entityRanges":[],"data":{"presetId":"text-button-selected","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_selected","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false},"overriddenProperties":[60004]},"hover":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"88drq","text":"Close your browser to exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"textOutlineEnable:false"},{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"textShadowColor:ffffff00"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"textShadowY:0px"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":26,"style":"textShadowBlur:0px"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-hover","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_hover","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":true}},"disabled":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"3tq9p","text":"Close your browser to exit","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"textOutlineEnable:false"},{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"textShadowColor:ffffff00"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"textShadowY:0px"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":26,"style":"textShadowBlur:0px"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-button-disabled","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_disabled","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}}}',
 parentGroup:'si21312',
 retainState:false,
 immo:false,
@@ -116620,7 +116620,7 @@ efva:[]
 }
 ,
 eflh:[21415,21424],
-oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(21468);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.exit()"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -116747,8 +116747,8 @@ vb:[-2,-2,-1,-1]
 Slide21282:{
 lb:'Completed',
 id:21282,
-from:7621,
-to:9420,
+from:14074,
+to:15873,
 iols:0,
 i360qs:false,
 sdu:60,
@@ -116822,85 +116822,6 @@ uid:21282,
 dn:'Slide21282',
 visible:'1'
 },
-Slide21469:{
-lb:'End',
-id:21469,
-from:6130,
-to:6135,
-iols:0,
-i360qs:false,
-sdu:0.2,
-presetData:[{
-presetId:'',
-presetType:3,
-isOverridden:true
-}
-]
-,
-propTxtScaling:false,
-minFontSizeScaling:14,
-useng:true,
-transition:{
-type:0
-}
-,
-mmot:false,
-mdi:'Slide21469c',
-st:'Normal Slide',
-sk:'Blank',
-slideTag:'',
-type:30,
-slideThemeCounter:0,
-narratorCCMap:{
-}
-,
-accProps:{
-a11yTabOrder:[],
-a11yReviewTabOrder:[]
-}
-,
-si:[]
-,
-iph:[]
-,
-slideBrandingData:'',
-ivne:false,
-v:false,
-canvasData:{
-bc:'#f8f7f4',
-fa:1,
-fe:true,
-imgf:{
-ip:'dr/08323.jpg',
-tiletype:0,
-imageFocus:0,
-extraImageProps:'',
-id:8323,
-w:1920,
-h:1080,
-tsp:50
-}
-,
-iso:true,
-se:false
-}
-,
-bph:[]
-,
-bookmarks:[]
-,
-qs:''
-},
-Slide21469c:{
-b:[0,0,0,0],
-css:{
-}
-,
-sr:cp.fd,
-uid:21469,
-dn:'Slide21469',
-visible:'1'
-},
 asz:{
 isPreview:false,
 breakPoint:[{
@@ -116958,7 +116879,7 @@ numQuizAttemptsAllowed:1,
 passingScore:35,
 quizInfoCurrentAttempt:0,
 quizInfoPercentScored:0,
-quizMandateLevel:0,
+quizMandateLevel:3,
 quizID:199,
 questionPoolsInitialized:true,
 quizInfoAttempts:1,
@@ -117017,8 +116938,8 @@ slideViewsForSuccess:100,
 slideViewsTypeForSuccess:0,
 slideViewsForCompletion:100,
 slideViewsTypeForCompletion:0,
-quizCriteriaForCompletion:1,
-quizCriteriaForSuccess:1,
+quizCriteriaForCompletion:2,
+quizCriteriaForSuccess:2,
 completionCriteria:2,
 successCriteria:2,
 companyName:'',
@@ -117027,7 +116948,7 @@ courseName:'',
 courseNode:'',
 isTrackedFlag:true,
 trackingUrlEncodeVersionAndSession:0,
-commitDataOnEverySlide:false,
+commitDataOnEverySlide:true,
 trackingSendResumeData:true,
 cmiExitNormalAfterCompletion:false,
 lmsInitializationString:'cp.movie.playbackController.SetLMSType();cp.movie.playbackController.SetSendScoreAsPercent();cp.movie.playbackController.SetTrackingLevel();cp.movie.playbackController.SetSlideViewPercentage();cp.movie.playbackController.SetReportingOption();cp.movie.playbackController.SetSlideViewsForSuccess();cp.movie.playbackController.SetSlideViewsForCompletion();cp.movie.playbackController.SetQuizCriteriaForCompletion();cp.movie.playbackController.SetQuizCriteriaForSuccess();cp.movie.playbackController.SetCompletionCriteria();cp.movie.playbackController.SetSuccessCriteria();cp.movie.playbackController.SetDirectory();cp.movie.playbackController.SetCourseNode();cp.movie.playbackController.SetIsTrackedFlag();cp.movie.playbackController.SetTrackingUrlEncodeVersionAndSession();cp.movie.playbackController.SetCommitDataOnEverySlide();cp.movie.playbackController.SetTrackingSendResumeData();cp.movie.playbackController.SetCmiExitNormalAfterCompletion();'
@@ -117070,7 +116991,7 @@ vt:9
 var351var351:{
 vid:351,
 name:'Project.ShowPlaybar',
-vv:1,
+vv:0,
 vvt:0,
 vt:9
 },
@@ -117438,12 +117359,12 @@ dsType:0,
 dsWidth:80
 }
 ,
-slideAudios:'StAd27,StAd28,StAd29,StAd30,StAd31,StAd32,StAd33,StAd34,StAd35',
+slideAudios:'StAd54,StAd55,StAd56,StAd57,StAd58,StAd59,StAd60,StAd61,StAd62',
 vestr:0,
 vim:0,
-slides:'Slide792,Slide793,Slide902,Slide17766,Slide19503,Slide3177,Slide5348,Slide7383,Slide10045,Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300,Slide10564,Slide21282,Slide21469',
+slides:'Slide792,Slide793,Slide902,Slide17766,Slide19503,Slide3177,Slide5348,Slide7383,Slide10045,Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300,Slide10564,Slide21282',
 questionSlides:'Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300',
-questions:'Slide10281q0,Slide14653q1,Slide15186q2,Slide15453q3,Slide15720q4,Slide15721q5,Slide16300q6',
+questions:'Slide10281q6,Slide14653q1,Slide15186q2,Slide15453q3,Slide15720q6,Slide15721q5,Slide16300q6',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/021525.jpg',
@@ -117481,14 +117402,14 @@ locale:0
 },
 tocProperties:{
 enableNavigation:true,
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":792,"isQuizSlide":false,"label":"Title","slideVisited":false,"type":"slide","id":"Slide792"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":793,"isQuizSlide":false,"label":"Objective","slideVisited":false,"type":"slide","id":"Slide793"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":902,"isQuizSlide":false,"label":"Course Overview","slideVisited":false,"type":"slide","id":"Slide902"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17766,"isQuizSlide":false,"label":"Lab Equipment pg 1","slideVisited":false,"type":"slide","id":"Slide17766"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19503,"isQuizSlide":false,"label":"Lab Equipment pg 2","slideVisited":false,"type":"slide","id":"Slide19503"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3177,"isQuizSlide":false,"label":"Lab Rules and Procedures","slideVisited":false,"type":"slide","id":"Slide3177"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5348,"isQuizSlide":false,"label":"Drag and Drop Quick Check for Lab Equip","slideVisited":false,"type":"slide","id":"Slide5348"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7383,"isQuizSlide":false,"label":"Lab Rules and Procedures Quick Check","slideVisited":false,"type":"slide","id":"Slide7383"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10045,"isQuizSlide":false,"label":"Quiz","slideVisited":false,"type":"slide","id":"Slide10045"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10281,"isQuizSlide":true,"label":"Matching Lab Equipment","slideVisited":false,"type":"slide","id":"Slide10281"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14653,"isQuizSlide":true,"label":"Correct Incorrect 1","slideVisited":false,"type":"slide","id":"Slide14653"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15186,"isQuizSlide":true,"label":"Correct Incorrect 2","slideVisited":false,"type":"slide","id":"Slide15186"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15453,"isQuizSlide":true,"label":"Correct Incorrect 3","slideVisited":false,"type":"slide","id":"Slide15453"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15720,"isQuizSlide":true,"label":"Correct Incorrect 4","slideVisited":false,"type":"slide","id":"Slide15720"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15721,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide15721"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16300,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide16300"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":10564,"isQuizSlide":true,"label":"Results","slideVisited":false,"type":"slide","id":"Slide10564"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21282,"isQuizSlide":false,"label":"Completed","slideVisited":false,"type":"slide","id":"Slide21282"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21469,"isQuizSlide":false,"label":"End","slideVisited":false,"type":"slide","id":"Slide21469"}],"tocGeneratedOnPreviewClick":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":false,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":792,"isQuizSlide":false,"label":"Title","slideVisited":false,"type":"slide","id":"Slide792"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":793,"isQuizSlide":false,"label":"Objective","slideVisited":false,"type":"slide","id":"Slide793"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":902,"isQuizSlide":false,"label":"Course Overview","slideVisited":false,"type":"slide","id":"Slide902"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17766,"isQuizSlide":false,"label":"Lab Equipment pg 1","slideVisited":false,"type":"slide","id":"Slide17766"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19503,"isQuizSlide":false,"label":"Lab Equipment pg 2","slideVisited":false,"type":"slide","id":"Slide19503"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3177,"isQuizSlide":false,"label":"Lab Rules and Procedures","slideVisited":false,"type":"slide","id":"Slide3177"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5348,"isQuizSlide":false,"label":"Drag and Drop Quick Check for Lab Equip","slideVisited":false,"type":"slide","id":"Slide5348"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7383,"isQuizSlide":false,"label":"Lab Rules and Procedures Quick Check","slideVisited":false,"type":"slide","id":"Slide7383"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10045,"isQuizSlide":false,"label":"Quiz","slideVisited":false,"type":"slide","id":"Slide10045"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10281,"isQuizSlide":true,"label":"Matching Lab Equipment","slideVisited":false,"type":"slide","id":"Slide10281"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14653,"isQuizSlide":true,"label":"Correct Incorrect 1","slideVisited":false,"type":"slide","id":"Slide14653"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15186,"isQuizSlide":true,"label":"Correct Incorrect 2","slideVisited":false,"type":"slide","id":"Slide15186"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15453,"isQuizSlide":true,"label":"Correct Incorrect 3","slideVisited":false,"type":"slide","id":"Slide15453"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15720,"isQuizSlide":true,"label":"Correct Incorrect 4","slideVisited":false,"type":"slide","id":"Slide15720"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15721,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide15721"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16300,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide16300"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":10564,"isQuizSlide":true,"label":"Results","slideVisited":false,"type":"slide","id":"Slide10564"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21282,"isQuizSlide":false,"label":"Completed","slideVisited":false,"type":"slide","id":"Slide21282"}],"tocGeneratedOnPreviewClick":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":false,"isShowPlaybarEnabled":false,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
 usedFonts:'["Georgia","Arial","Acme","Montserrat"]'
 },
 trecs:[{
 link:792,
-text:['""','""','""']
+text:['""','""','""','""']
 }
 ,{
 link:793,
@@ -117500,7 +117421,7 @@ text:['""']
 }
 ,{
 link:17766,
-text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"9eufl\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":183,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":183,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":183,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":183,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":183,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":183,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":183,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":183,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":183,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":183,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":183,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":183,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":183,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":183,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":183,\"style\":\"overridden:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"duration\":10.1,\"end\":10.1,\"id\":\"caption__0657__4\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
+text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"9eufl\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":183,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":183,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":183,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":183,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":183,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":183,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":183,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":183,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":183,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":183,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":183,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":183,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":183,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":183,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":183,\"style\":\"overridden:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"duration\":10.1,\"end\":10.1,\"id\":\"caption__0657__4\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"','"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"9eufl\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":183,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":183,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":183,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":183,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":183,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":183,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":183,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":183,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":183,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":183,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":183,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":183,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":183,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":183,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":183,\"style\":\"overridden:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"duration\":10.1,\"end\":10.1,\"id\":\"caption__0657__4\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
 }
 ,{
 link:19503,
@@ -117508,7 +117429,7 @@ text:[]
 }
 ,{
 link:3177,
-text:['""']
+text:['""','""']
 }
 ,{
 link:5348,
@@ -117516,11 +117437,11 @@ text:['""']
 }
 ,{
 link:7383,
-text:['""']
+text:['""','""','""']
 }
 ,{
 link:10045,
-text:['""','""']
+text:['""','""','""']
 }
 ,{
 link:10281,
@@ -117552,11 +117473,7 @@ text:[]
 }
 ,{
 link:21282,
-text:['""','""']
-}
-,{
-link:21469,
-text:[]
+text:['""','""','""','""']
 }
 ]
 
@@ -118264,25 +118181,18 @@ resources:['dr/021409.png','dr/0558.svg','dr/08323.jpg']
 }
 
 }
-,{
-slideID:18,
-ResourceList:{
-resources:['dr/08323.jpg']
-}
-
-}
 ];
 cp.model.audioresources=[{
 slideID:0,
 ResourceList:{
-resources:['ar/21509.mp3']
+resources:['ar/21509.mp3','ar/KeyClick.mp3']
 }
 
 }
 ,{
 slideID:1,
 ResourceList:{
-resources:['ar/21511.mp3','ar/KeyClick.mp3']
+resources:['ar/21511.mp3']
 }
 
 }
@@ -118345,8 +118255,8 @@ cp.model.tocVideos=[
 ];
 cp.model.audios=[
 'ar/21509.mp3',
-'ar/21511.mp3',
 'ar/KeyClick.mp3',
+'ar/21511.mp3',
 'ar/21513.mp3',
 'ar/21445.mp3',
 'ar/21515.mp3',
@@ -118374,7 +118284,7 @@ cp.cv('Project.CurrentSlideName','slide',1,15,0);
 cp.cv('Project.CurrentSlideNumber',1,1,15,0);
 cp.cv('Project.LockTOC',0,1,15,0);
 cp.cv('Project.MuteAudio',0,1,15,0);
-cp.cv('Project.ShowPlaybar',1,1,15,0);
+cp.cv('Project.ShowPlaybar',0,1,15,0);
 cp.cv('Project.ShowTOC',0,1,15,0);
 cp.cv('Project.SlideCount',1,1,15,0);
 cp.cv('Question.AnswerChoice','',1,15,0);
@@ -118397,7 +118307,7 @@ cp.cv('Quiz.UnansweredQuestionCount',7,1,1000,0);
 cp.cv('cpInfoFPS',30,1,1000,0);
 cp.cv('cpInfoHasPlaybar',1,1,1000,0);
 cp.cv('cpInfoSlideCount',0,1,1000,0);
-cp.cv('cpInfoSlidesInProject',19,1,1000,0);
+cp.cv('cpInfoSlidesInProject',18,1,1000,0);
 cp.cv('cpLockTOC',0,1,1000,0);
 cp.cv('cpQuizInfoPreTestTotalQuestions',0,1,1000,0);
 cp.cv('cpQuizInfoTotalQuizPoints',50,1,1000,0);
