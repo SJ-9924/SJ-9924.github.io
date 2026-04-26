@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:12436,
-to:12525,
+from:6130,
+to:6219,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72,9 +72,9 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd54:{
-from:12556,
-to:12776,
+StAd9:{
+from:6250,
+to:6470,
 src:'ar/21509.mp3',
 du:7383,
 saup:[{
@@ -89,8 +89,8 @@ l:false
 si612:{
 name:'Paragraph_10',
 type:1268,
-from:12184,
-to:12435,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si612c',
@@ -256,8 +256,8 @@ vb:[-1,-1,1,1]
 si606:{
 name:'Paragraph_Group_5',
 type:1268,
-from:12184,
-to:12435,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si606c',
@@ -428,8 +428,8 @@ vb:[-1,-1,1,1]
 si538:{
 name:'Text_52',
 type:1250,
-from:12184,
-to:12435,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si538c',
@@ -591,8 +591,8 @@ vb:[-1,-1,2,2]
 si547:{
 name:'Subtitle',
 type:1250,
-from:6901,
-to:7116,
+from:127,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si547c',
@@ -754,8 +754,8 @@ vb:[-1,-1,2,2]
 si771:{
 name:'Block_Button_2',
 type:1268,
-from:6865,
-to:7116,
+from:6220,
+to:6471,
 rp:0,
 rpa:0,
 mdi:'si771c',
@@ -921,8 +921,8 @@ vb:[-1,-1,1,1]
 si765:{
 name:'Block_Button_Group_2',
 type:1268,
-from:6865,
-to:7116,
+from:6220,
+to:6471,
 rp:0,
 rpa:0,
 mdi:'si765c',
@@ -1125,8 +1125,8 @@ vb:[-1,-1,1,1]
 si633:{
 name:'Begin_Lesson_button',
 type:29,
-from:7018,
-to:7116,
+from:6373,
+to:6471,
 rp:0,
 rpa:0,
 mdi:'si633c',
@@ -1281,8 +1281,8 @@ vb:[-2,-2,-1,-1]
 si647:{
 name:'Button_57',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si647c',
@@ -1436,8 +1436,8 @@ vb:[-2,-2,-1,-1]
 si661:{
 name:'Button_58',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si661c',
@@ -1591,8 +1591,8 @@ vb:[-2,-2,-1,-1]
 si675:{
 name:'Button_59',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si675c',
@@ -1746,8 +1746,8 @@ vb:[-2,-2,-1,-1]
 si689:{
 name:'Button_60',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si689c',
@@ -1901,8 +1901,8 @@ vb:[-2,-2,-1,-1]
 si703:{
 name:'Button_61',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si703c',
@@ -2056,8 +2056,8 @@ vb:[-2,-2,-1,-1]
 si717:{
 name:'Button_62',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si717c',
@@ -2211,8 +2211,8 @@ vb:[-2,-2,-1,-1]
 si731:{
 name:'Button_63',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si731c',
@@ -2366,8 +2366,8 @@ vb:[-2,-2,-1,-1]
 si745:{
 name:'Button_64',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si745c',
@@ -2521,8 +2521,8 @@ vb:[-2,-2,-1,-1]
 si759:{
 name:'Button_65',
 type:29,
-from:6865,
-to:7116,
+from:91,
+to:342,
 rp:0,
 rpa:0,
 mdi:'si759c',
@@ -2676,8 +2676,8 @@ vb:[-2,-2,-1,-1]
 Slide792:{
 lb:'Title',
 id:792,
-from:12184,
-to:12435,
+from:6220,
+to:6471,
 iols:0,
 i360qs:false,
 sdu:8.4,
@@ -2752,7 +2752,7 @@ bookmarks:[]
 qs:'',
 iph:{
 816:{
-ts:''
+ts:'{"effect":0,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -2768,9 +2768,9 @@ uid:792,
 dn:'Slide792',
 visible:'1'
 },
-StAd55:{
-from:12556,
-to:13028,
+StAd10:{
+from:6502,
+to:6974,
 src:'ar/21511.mp3',
 du:15769,
 saup:[{
@@ -2785,8 +2785,8 @@ l:false
 si820:{
 name:'Paragraph_11',
 type:1268,
-from:7117,
-to:7620,
+from:6472,
+to:6975,
 rp:0,
 rpa:0,
 mdi:'si820c',
@@ -2952,8 +2952,8 @@ vb:[-1,-1,1,1]
 si828:{
 name:'Paragraph_Group_6',
 type:1268,
-from:7117,
-to:7620,
+from:6472,
+to:6975,
 rp:0,
 rpa:0,
 mdi:'si828c',
@@ -3128,8 +3128,8 @@ vb:[-1,-1,1,1]
 si836:{
 name:'Objectives_Title',
 type:1250,
-from:7117,
-to:7620,
+from:6472,
+to:6975,
 rp:0,
 rpa:0,
 mdi:'si836c',
@@ -3294,8 +3294,8 @@ vb:[-1,-1,2,2]
 si844:{
 name:'Objectives_Body',
 type:1250,
-from:7141,
-to:7620,
+from:367,
+to:846,
 rp:0,
 rpa:0,
 mdi:'si844c',
@@ -3460,8 +3460,8 @@ vb:[-1,-1,2,2]
 si860:{
 name:'Button_66',
 type:29,
-from:7513,
-to:7620,
+from:739,
+to:846,
 rp:0,
 rpa:0,
 mdi:'si860c',
@@ -3616,8 +3616,8 @@ vb:[-2,-2,-1,-1]
 Slide793:{
 lb:'Objective',
 id:793,
-from:7117,
-to:7620,
+from:6472,
+to:6975,
 iols:0,
 i360qs:false,
 sdu:16.8,
@@ -3702,9 +3702,9 @@ uid:793,
 dn:'Slide793',
 visible:'1'
 },
-StAd56:{
-from:12541,
-to:12631,
+StAd11:{
+from:6991,
+to:7081,
 src:'ar/21513.mp3',
 du:3042,
 saup:[{
@@ -5053,7 +5053,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:108,
+pfc:78,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -5263,7 +5263,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:100,
+pfc:108,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -5683,7 +5683,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:101,
+pfc:0,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -6634,7 +6634,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:108,
+pfc:11,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -6844,7 +6844,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:0,
+pfc:101,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -7264,7 +7264,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:0,
+pfc:67,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -8198,7 +8198,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:0,
+pfc:58,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -10276,10 +10276,6 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-9915:{
-ts:''
-}
-,
 9954:{
 ts:''
 }
@@ -10297,6 +10293,10 @@ ts:''
 }
 ,
 10213:{
+ts:''
+}
+,
+9915:{
 ts:''
 }
 ,
@@ -10323,9 +10323,9 @@ uid:902,
 dn:'Slide902',
 visible:'1'
 },
-StAd57:{
-from:12556,
-to:12857,
+StAd12:{
+from:7006,
+to:7307,
 src:'ar/21445.mp3',
 du:10075,
 saup:[{
@@ -12883,7 +12883,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:123,
+pfc:198,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -18319,7 +18319,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:125,
+pfc:0,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -21937,7 +21937,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:123,
+pfc:0,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -23821,8 +23821,8 @@ vb:[-2,-2,-1,-1]
 Slide17766:{
 lb:'Lab Equipment pg 1',
 id:17766,
-from:12526,
-to:12858,
+from:1252,
+to:1584,
 iols:0,
 i360qs:false,
 sdu:11.1,
@@ -26446,7 +26446,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:110,
+pfc:58,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -28258,7 +28258,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:34,
+pfc:159,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -31882,7 +31882,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:105,
+pfc:56,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -37462,9 +37462,9 @@ uid:19503,
 dn:'Slide19503',
 visible:'1'
 },
-StAd58:{
-from:12877,
-to:13261,
+StAd13:{
+from:6994,
+to:7378,
 src:'ar/21515.mp3',
 du:12863,
 saup:[{
@@ -51588,8 +51588,8 @@ vb:[-2,-2,-1,-1]
 Slide3177:{
 lb:'Lab Rules and Procedures',
 id:3177,
-from:12859,
-to:13263,
+from:1675,
+to:2079,
 iols:0,
 i360qs:false,
 sdu:13.5,
@@ -51678,9 +51678,9 @@ uid:3177,
 dn:'Slide3177',
 visible:'1'
 },
-StAd59:{
-from:13282,
-to:13459,
+StAd14:{
+from:6994,
+to:7171,
 src:'ar/21517.mp3',
 du:5936,
 saup:[{
@@ -52142,7 +52142,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:110,
+pfc:104,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -56780,7 +56780,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:108,
+pfc:159,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -59365,7 +59365,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:101,
+pfc:182,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -61734,9 +61734,9 @@ uid:5348,
 dn:'Slide5348',
 visible:'1'
 },
-StAd60:{
-from:13282,
-to:13523,
+StAd15:{
+from:6994,
+to:7235,
 src:'ar/21519.mp3',
 du:8126,
 saup:[{
@@ -61751,8 +61751,8 @@ l:false
 si7401:{
 name:'Hotspot_Widget_1',
 type:1268,
-from:13264,
-to:13524,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si7401c',
@@ -62412,8 +62412,8 @@ vb:[-2,-2,150,30]
 si7433:{
 name:'Hotspot_Insertion_Area_1',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si7433c',
@@ -62579,8 +62579,8 @@ vb:[-1,-1,1,1]
 si7441:{
 name:'Non_Responsive_1',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si7441c',
@@ -63157,8 +63157,8 @@ vb:[-1,-1,1081,721]
 si7467:{
 name:'Leaving_Class',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si7467c',
@@ -66781,8 +66781,8 @@ vb:[-2,-2,-1,-1]
 si7683:{
 name:'No_goggles__hair_down__airpods',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si7683c',
@@ -68593,8 +68593,8 @@ vb:[-2,-2,-1,-1]
 si7791:{
 name:'Food_Drink',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si7791c',
@@ -74023,8 +74023,8 @@ vb:[-2,-2,-1,-1]
 si8115:{
 name:'Hotspot_Button_Container_1',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si8115c',
@@ -74705,8 +74705,8 @@ vb:[666,367,700,401]
 si8147:{
 name:'Hotspot_Button_Container_3',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si8147c',
@@ -75046,8 +75046,8 @@ vb:[666,367,700,401]
 si8163:{
 name:'Hotspot_Button_Container_4',
 type:1268,
-from:9853,
-to:10113,
+from:2290,
+to:2550,
 rp:0,
 rpa:0,
 mdi:'si8163c',
@@ -76553,8 +76553,8 @@ vb:[-2,-2,-1,-1]
 Slide7383:{
 lb:'Lab Rules and Procedures Quick Check',
 id:7383,
-from:13264,
-to:13524,
+from:2290,
+to:2550,
 iols:0,
 i360qs:false,
 sdu:8.7,
@@ -76640,9 +76640,9 @@ uid:7383,
 dn:'Slide7383',
 visible:'1'
 },
-StAd61:{
-from:13543,
-to:14072,
+StAd16:{
+from:6994,
+to:7523,
 src:'ar/21521.mp3',
 du:17734,
 saup:[{
@@ -76657,8 +76657,8 @@ l:false
 si10076:{
 name:'Text_Group',
 type:1268,
-from:13525,
-to:14073,
+from:2551,
+to:3099,
 rp:0,
 rpa:0,
 mdi:'si10076c',
@@ -76824,8 +76824,8 @@ vb:[-1,-1,1,1]
 si10084:{
 name:'Paragraph_Group_8',
 type:1268,
-from:13525,
-to:14073,
+from:2551,
+to:3099,
 rp:0,
 rpa:0,
 mdi:'si10084c',
@@ -77000,8 +77000,8 @@ vb:[-1,-1,1,1]
 si10092:{
 name:'title_quiz',
 type:1250,
-from:13525,
-to:14073,
+from:2551,
+to:3099,
 rp:0,
 rpa:0,
 mdi:'si10092c',
@@ -77166,8 +77166,8 @@ vb:[-1,-1,2,2]
 si10108:{
 name:'Instructions1',
 type:1250,
-from:13555,
-to:14073,
+from:2581,
+to:3099,
 rp:0,
 rpa:0,
 mdi:'si10108c',
@@ -77332,8 +77332,8 @@ vb:[-1,-1,2,2]
 si10116:{
 name:'Start_Quiz',
 type:29,
-from:13765,
-to:14073,
+from:2791,
+to:3099,
 rp:0,
 rpa:0,
 mdi:'si10116c',
@@ -77501,8 +77501,8 @@ vb:[-2,-2,-1,-1]
 Slide10045:{
 lb:'Quiz',
 id:10045,
-from:13525,
-to:14073,
+from:2551,
+to:3099,
 iols:0,
 i360qs:false,
 sdu:18.3,
@@ -77590,8 +77590,8 @@ visible:'1'
 si10330:{
 name:'ResponsiveContainer_280',
 type:1268,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10330c',
@@ -77765,8 +77765,8 @@ vb:[-1,-1,1,1]
 si10338:{
 name:'$container-match-the-column-card_name_1',
 type:1268,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10338c',
@@ -78005,8 +78005,8 @@ vb:[-1,-1,1,1]
 si10346:{
 name:'Text_179',
 type:1250,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10346c',
@@ -78157,8 +78157,8 @@ vb:[-1,-1,2,2]
 si10353:{
 name:'Text_180',
 type:1250,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10353c',
@@ -78309,8 +78309,8 @@ vb:[-1,-1,2,2]
 si10360:{
 name:'Button_125',
 type:29,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10360c',
@@ -78463,8 +78463,8 @@ vb:[-2,-2,-1,-1]
 si10373:{
 name:'Button_126',
 type:29,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10373c',
@@ -78617,8 +78617,8 @@ vb:[-2,-2,-1,-1]
 si10386:{
 name:'Button_127',
 type:29,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10386c',
@@ -78771,8 +78771,8 @@ vb:[-2,-2,-1,-1]
 si10399:{
 name:'Button_128',
 type:29,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10399c',
@@ -78925,8 +78925,8 @@ vb:[-2,-2,-1,-1]
 si10412:{
 name:'Button_129',
 type:29,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10412c',
@@ -79079,8 +79079,8 @@ vb:[-2,-2,-1,-1]
 si10419:{
 name:'Button_130',
 type:29,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10419c',
@@ -79233,8 +79233,8 @@ vb:[-2,-2,-1,-1]
 si10432:{
 name:'Button_131',
 type:29,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10432c',
@@ -79387,8 +79387,8 @@ vb:[-2,-2,-1,-1]
 si10445:{
 name:'Text_181',
 type:1250,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10445c',
@@ -79536,8 +79536,8 @@ vb:[-1,-1,2,2]
 si10452:{
 name:'Text_182',
 type:1250,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10452c',
@@ -79685,8 +79685,8 @@ vb:[-1,-1,2,2]
 si10459:{
 name:'Text_183',
 type:1250,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10459c',
@@ -79834,8 +79834,8 @@ vb:[-1,-1,2,2]
 si10466:{
 name:'DropDown_1',
 type:10189,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10466c',
@@ -79989,8 +79989,8 @@ vb:[-2,-2,-1,-1]
 si10474:{
 name:'DropDown_2',
 type:10189,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10474c',
@@ -80144,8 +80144,8 @@ vb:[-2,-2,-1,-1]
 si10482:{
 name:'DropDown_3',
 type:10189,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10482c',
@@ -80299,8 +80299,8 @@ vb:[-2,-2,-1,-1]
 si11280:{
 name:'Text_199',
 type:1250,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si11280c',
@@ -80448,8 +80448,8 @@ vb:[-1,-1,2,2]
 si11287:{
 name:'Text_200',
 type:1250,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si11287c',
@@ -80597,8 +80597,8 @@ vb:[-1,-1,2,2]
 si11294:{
 name:'DropDown_4',
 type:10189,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si11294c',
@@ -80752,8 +80752,8 @@ vb:[-2,-2,-1,-1]
 si11302:{
 name:'DropDown_5',
 type:10189,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si11302c',
@@ -80907,8 +80907,8 @@ vb:[-2,-2,-1,-1]
 si10501:{
 name:'Caption_2',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10501c',
@@ -81142,8 +81142,8 @@ vb:[-2,-2,3,3]
 si10510:{
 name:'Caption_2',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10510c',
@@ -81377,8 +81377,8 @@ vb:[-2,-2,3,3]
 si10519:{
 name:'Caption_2',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10519c',
@@ -81609,8 +81609,8 @@ vb:[-4,-4,2,2]
 si10490:{
 name:'Caption_2',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10490c',
@@ -81865,8 +81865,8 @@ vb:[-4,-4,2,2]
 si12467:{
 name:'Caption_2',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si12467c',
@@ -82100,8 +82100,8 @@ vb:[-2,-2,3,3]
 si10538:{
 name:'Caption_3',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10538c',
@@ -82332,8 +82332,8 @@ vb:[-4,-4,2,2]
 si10547:{
 name:'Caption_3',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10547c',
@@ -82564,8 +82564,8 @@ vb:[-4,-4,2,2]
 si10556:{
 name:'Caption_3',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10556c',
@@ -82796,8 +82796,8 @@ vb:[-4,-4,2,2]
 si10527:{
 name:'Caption_3',
 type:612,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 rp:0,
 rpa:0,
 mdi:'si10527c',
@@ -83046,8 +83046,8 @@ vb:[-4,-4,2,2]
 Slide10281:{
 lb:'Matching Lab Equipment',
 id:10281,
-from:10114,
-to:10203,
+from:3100,
+to:3189,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -83105,9 +83105,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide10281q6',
-qnq:6,
-pa:10159,
+qs:'Slide10281q0',
+qnq:0,
+pa:3143,
 iph:{
 10320:{
 ts:'',
@@ -83132,9 +83132,9 @@ uid:10281,
 dn:'Slide10281',
 visible:'1'
 },
-Slide10281q6:{
+Slide10281q0:{
 noa:2,
-qt:'Match The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct Use',
+qt:'Match The Lab Safety Equipment to the Correct UseMatch The Lab Safety Equipment to the Correct Use',
 it:true,
 is:false,
 ipq:false,
@@ -83143,7 +83143,7 @@ sat:true,
 qst:0,
 ish:false,
 ips:false,
-qnq:6,
+qnq:0,
 sn:'Slide10281',
 oid:'Quiz_20264795554',
 iid:'10306',
@@ -95520,8 +95520,8 @@ cal:['si15230']
 si15679:{
 name:'',
 type:1268,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15679c',
@@ -95695,8 +95695,8 @@ vb:[-1,-1,1,1]
 si15599:{
 name:'',
 type:1268,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15599c',
@@ -95903,8 +95903,8 @@ vb:[-1,-1,1,1]
 si15480:{
 name:'Text_228',
 type:1250,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15480c',
@@ -96052,8 +96052,8 @@ vb:[-2,-2,150,30]
 si15487:{
 name:'Text_229',
 type:1250,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15487c',
@@ -96204,8 +96204,8 @@ vb:[-1,-1,2,2]
 si15497:{
 name:'Checkbox_7',
 type:10090,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15497c',
@@ -96365,8 +96365,8 @@ vb:[-2,-2,-1,-1]
 si15505:{
 name:'Checkbox_8',
 type:10090,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15505c',
@@ -96526,8 +96526,8 @@ vb:[-2,-2,-1,-1]
 si15521:{
 name:'Button_182',
 type:29,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15521c',
@@ -96680,8 +96680,8 @@ vb:[-2,-2,-1,-1]
 si15534:{
 name:'Button_183',
 type:29,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15534c',
@@ -96834,8 +96834,8 @@ vb:[-2,-2,-1,-1]
 si15547:{
 name:'Button_184',
 type:29,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15547c',
@@ -96988,8 +96988,8 @@ vb:[-2,-2,-1,-1]
 si15560:{
 name:'Button_185',
 type:29,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15560c',
@@ -97142,8 +97142,8 @@ vb:[-2,-2,-1,-1]
 si15567:{
 name:'Button_186',
 type:29,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15567c',
@@ -97296,8 +97296,8 @@ vb:[-2,-2,-1,-1]
 si15580:{
 name:'Button_187',
 type:29,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15580c',
@@ -97450,8 +97450,8 @@ vb:[-2,-2,-1,-1]
 si15593:{
 name:'Button_188',
 type:29,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15593c',
@@ -97604,8 +97604,8 @@ vb:[-2,-2,-1,-1]
 si15607:{
 name:'Caption_9',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15607c',
@@ -97839,8 +97839,8 @@ vb:[-2,-2,3,3]
 si15615:{
 name:'Caption_9',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15615c',
@@ -98074,8 +98074,8 @@ vb:[-2,-2,3,3]
 si15623:{
 name:'Caption_9',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15623c',
@@ -98306,8 +98306,8 @@ vb:[-4,-4,2,2]
 si15636:{
 name:'Caption_11',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15636c',
@@ -98556,8 +98556,8 @@ vb:[-4,-4,2,2]
 si15644:{
 name:'Caption_10',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15644c',
@@ -98788,8 +98788,8 @@ vb:[-4,-4,2,2]
 si15652:{
 name:'Caption_10',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15652c',
@@ -99020,8 +99020,8 @@ vb:[-4,-4,2,2]
 si15660:{
 name:'Caption_10',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15660c',
@@ -99252,8 +99252,8 @@ vb:[-4,-4,2,2]
 si15673:{
 name:'Caption_12',
 type:612,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 rp:0,
 rpa:0,
 mdi:'si15673c',
@@ -99502,8 +99502,8 @@ vb:[-4,-4,2,2]
 Slide15720:{
 lb:'Correct Incorrect 4',
 id:15720,
-from:10204,
-to:10293,
+from:3460,
+to:3549,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -99561,9 +99561,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide15720q6',
-qnq:6,
-pa:10249,
+qs:'Slide15720q4',
+qnq:4,
+pa:3503,
 iph:{
 15701:{
 ts:'',
@@ -99588,9 +99588,9 @@ uid:15720,
 dn:'Slide15720',
 visible:'1'
 },
-Slide15720q6:{
+Slide15720q4:{
 noa:1,
-qt:'Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.',
+qt:'Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.Mandy was bored with todays lab. To add excitement, she reached across the table and mixed two unknown chemicals to see if there might be smoke or bubbles.',
 it:true,
 is:false,
 ipq:false,
@@ -99599,7 +99599,7 @@ sat:true,
 qst:0,
 ish:false,
 ips:false,
-qnq:6,
+qnq:4,
 sn:'Slide15720',
 oid:'Quiz_20264795554',
 iid:'15468',
@@ -99614,7 +99614,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si15497c:2','si15505c:3'],
+ao:['si15497c:0','si15505c:1'],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -115471,9 +115471,9 @@ uid:10564,
 dn:'Slide10564',
 visible:'1'
 },
-StAd62:{
-from:14092,
-to:14354,
+StAd17:{
+from:6994,
+to:7256,
 src:'ar/21523.mp3',
 du:8773,
 saup:[{
@@ -115488,8 +115488,8 @@ l:false
 si21304:{
 name:'Image_1',
 type:1268,
-from:14074,
-to:15873,
+from:4330,
+to:6129,
 rp:0,
 rpa:0,
 mdi:'si21304c',
@@ -115677,8 +115677,8 @@ vb:[-1,-1,1,1]
 si21312:{
 name:'Image_Group_1',
 type:1268,
-from:14074,
-to:15873,
+from:4330,
+to:6129,
 rp:0,
 rpa:0,
 mdi:'si21312c',
@@ -115853,8 +115853,8 @@ vb:[-1,-1,1,1]
 si21323:{
 name:'ChatGPT_Image_Apr_21__2026__01_50_53_PM',
 type:15,
-from:7621,
-to:9420,
+from:4330,
+to:6129,
 rp:0,
 rpa:0,
 mdi:'si21323c',
@@ -115933,7 +115933,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:110,
+pfc:57,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -116062,8 +116062,8 @@ vb:[-1,-1,1537,1025]
 si21333:{
 name:'Image_Group_Text_7',
 type:1268,
-from:10324,
-to:12093,
+from:4360,
+to:6129,
 rp:0,
 rpa:0,
 mdi:'si21333c',
@@ -116233,8 +116233,8 @@ vb:[-1,-1,1,1]
 si21341:{
 name:'Title_complete',
 type:1250,
-from:7651,
-to:9420,
+from:4360,
+to:6129,
 rp:0,
 rpa:0,
 mdi:'si21341c',
@@ -116399,8 +116399,8 @@ vb:[-1,-1,2,2]
 si21349:{
 name:'Reminders',
 type:1250,
-from:10354,
-to:12093,
+from:4390,
+to:6129,
 rp:0,
 rpa:0,
 mdi:'si21349c',
@@ -116565,8 +116565,8 @@ vb:[-1,-1,2,2]
 si21357:{
 name:'Close_browser_button',
 type:29,
-from:14305,
-to:15873,
+from:4561,
+to:6129,
 rp:0,
 rpa:0,
 mdi:'si21357c',
@@ -116747,8 +116747,8 @@ vb:[-2,-2,-1,-1]
 Slide21282:{
 lb:'Completed',
 id:21282,
-from:14074,
-to:15873,
+from:4330,
+to:6129,
 iols:0,
 i360qs:false,
 sdu:60,
@@ -117359,12 +117359,12 @@ dsType:0,
 dsWidth:80
 }
 ,
-slideAudios:'StAd54,StAd55,StAd56,StAd57,StAd58,StAd59,StAd60,StAd61,StAd62',
+slideAudios:'StAd9,StAd10,StAd11,StAd12,StAd13,StAd14,StAd15,StAd16,StAd17',
 vestr:0,
 vim:0,
 slides:'Slide792,Slide793,Slide902,Slide17766,Slide19503,Slide3177,Slide5348,Slide7383,Slide10045,Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300,Slide10564,Slide21282',
 questionSlides:'Slide10281,Slide14653,Slide15186,Slide15453,Slide15720,Slide15721,Slide16300',
-questions:'Slide10281q6,Slide14653q1,Slide15186q2,Slide15453q3,Slide15720q6,Slide15721q5,Slide16300q6',
+questions:'Slide10281q0,Slide14653q1,Slide15186q2,Slide15453q3,Slide15720q4,Slide15721q5,Slide16300q6',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/021525.jpg',
@@ -117409,7 +117409,7 @@ usedFonts:'["Georgia","Arial","Acme","Montserrat"]'
 },
 trecs:[{
 link:792,
-text:['""','""','""','""']
+text:['""','""']
 }
 ,{
 link:793,
@@ -117421,7 +117421,7 @@ text:['""']
 }
 ,{
 link:17766,
-text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"9eufl\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":183,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":183,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":183,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":183,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":183,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":183,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":183,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":183,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":183,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":183,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":183,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":183,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":183,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":183,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":183,\"style\":\"overridden:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"duration\":10.1,\"end\":10.1,\"id\":\"caption__0657__4\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"','"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"9eufl\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":183,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":183,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":183,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":183,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":183,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":183,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":183,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":183,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":183,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":183,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":183,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":183,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":183,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":183,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":183,\"style\":\"overridden:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"duration\":10.1,\"end\":10.1,\"id\":\"caption__0657__4\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
+text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"9eufl\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":183,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":183,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":183,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":183,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":183,\"style\":\"desktop-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":183,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":183,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":183,\"style\":\"WebkitTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextStrokeColor:#F1EEE6\"},{\"offset\":0,\"length\":183,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":183,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":183,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":183,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":183,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":183,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":183,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowColor:#F1EEE61F\"},{\"offset\":0,\"length\":183,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":183,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":183,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":183,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":183,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":183,\"style\":\"overridden:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"listIndent\":\"100%\",\"verticalAlign\":\"middle\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"Select each tab to learn what the lab equipment is used for and how to use it safely.\\nWhen you’re ready to continue, click the arrow at the bottom of the screen to see more equipment.\",\"duration\":10.1,\"end\":10.1,\"id\":\"caption__0657__4\",\"dirtyReasons\":[],\"speechAgentV1\":{\"name\":\"Eve\",\"voiceId\":{\"uid\":\"BZgkqPqms7Kj9ulSkVzn\",\"modelId\":\"1\"},\"source\":\"AIVoices\"}}]"']
 }
 ,{
 link:19503,
@@ -117429,7 +117429,7 @@ text:[]
 }
 ,{
 link:3177,
-text:['""','""']
+text:['""']
 }
 ,{
 link:5348,
@@ -117437,11 +117437,11 @@ text:['""']
 }
 ,{
 link:7383,
-text:['""','""','""']
+text:['""']
 }
 ,{
 link:10045,
-text:['""','""','""']
+text:['""']
 }
 ,{
 link:10281,
@@ -117473,7 +117473,7 @@ text:[]
 }
 ,{
 link:21282,
-text:['""','""','""','""']
+text:['""']
 }
 ]
 
@@ -118185,7 +118185,7 @@ resources:['dr/021409.png','dr/0558.svg','dr/08323.jpg']
 cp.model.audioresources=[{
 slideID:0,
 ResourceList:{
-resources:['ar/21509.mp3','ar/KeyClick.mp3']
+resources:['ar/21509.mp3']
 }
 
 }
@@ -118199,7 +118199,7 @@ resources:['ar/21511.mp3']
 ,{
 slideID:2,
 ResourceList:{
-resources:['ar/21513.mp3']
+resources:['ar/21513.mp3','ar/KeyClick.mp3']
 }
 
 }
@@ -118255,9 +118255,9 @@ cp.model.tocVideos=[
 ];
 cp.model.audios=[
 'ar/21509.mp3',
-'ar/KeyClick.mp3',
 'ar/21511.mp3',
 'ar/21513.mp3',
+'ar/KeyClick.mp3',
 'ar/21445.mp3',
 'ar/21515.mp3',
 'ar/21517.mp3',
